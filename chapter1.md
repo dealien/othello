@@ -5,15 +5,19 @@ ACT I
 SCENE I. Venice. A street.
 
 Enter RODERIGO and IAGO
+
 RODERIGO
 Tush! never tell me; I take it much unkindly
 That thou, Iago, who hast had my purse
 As if the strings were thine, shouldst know of this.
+
 IAGO
 'Sblood, but you will not hear me:
 If ever I did dream of such a matter, Abhor me.
+
 RODERIGO
 Thou told'st me thou didst hold him in thy hate.
+
 IAGO
 Despise me, if I do not. Three great ones of the city,
 In personal suit to make me his lieutenant,
@@ -41,8 +45,10 @@ Christian and heathen, must be be-lee'd and calm'd
 By debitor and creditor: this counter-caster,
 He, in good time, must his lieutenant be,
 And I--God bless the mark!--his Moorship's ancient.
+
 RODERIGO
 By heaven, I rather would have been his hangman.
+
 IAGO
 Why, there's no remedy; 'tis the curse of service,
 Preferment goes by letter and affection,
@@ -50,8 +56,10 @@ And not by old gradation, where each second
 Stood heir to the first. Now, sir, be judge yourself,
 Whether I in any just term am affined
 To love the Moor.
+
 RODERIGO
 I would not follow him then.
+
 IAGO
 O, sir, content you;
 I follow him to serve my turn upon him:
@@ -79,9 +87,11 @@ The native act and figure of my heart
 In compliment extern, 'tis not long after
 But I will wear my heart upon my sleeve
 For daws to peck at: I am not what I am.
+
 RODERIGO
 What a full fortune does the thicklips owe
 If he can carry't thus!
+
 IAGO
 Call up her father,
 Rouse him: make after him, poison his delight,
@@ -90,29 +100,38 @@ And, though he in a fertile climate dwell,
 Plague him with flies: though that his joy be joy,
 Yet throw such changes of vexation on't,
 As it may lose some colour.
+
 RODERIGO
 Here is her father's house; I'll call aloud.
+
 IAGO
 Do, with like timorous accent and dire yell
 As when, by night and negligence, the fire
 Is spied in populous cities.
+
 RODERIGO
 What, ho, Brabantio! Signior Brabantio, ho!
+
 IAGO
 Awake! what, ho, Brabantio! thieves! thieves! thieves!
 Look to your house, your daughter and your bags!
 Thieves! thieves!
+
 BRABANTIO appears above, at a window
 
 BRABANTIO
 What is the reason of this terrible summons?
 What is the matter there?
+
 RODERIGO
 Signior, is all your family within?
+
 IAGO
 Are your doors lock'd?
+
 BRABANTIO
 Why, wherefore ask you this?
+
 IAGO
 'Zounds, sir, you're robb'd; for shame, put on
 your gown;
@@ -122,14 +141,19 @@ Is topping your white ewe. Arise, arise;
 Awake the snorting citizens with the bell,
 Or else the devil will make a grandsire of you:
 Arise, I say.
+
 BRABANTIO
 What, have you lost your wits?
+
 RODERIGO
 Most reverend signior, do you know my voice?
+
 BRABANTIO
 Not I	what are you?
+
 RODERIGO
 My name is Roderigo.
+
 BRABANTIO
 The worser welcome:
 I have charged thee not to haunt about my doors:
@@ -138,20 +162,26 @@ My daughter is not for thee; and now, in madness,
 Being full of supper and distempering draughts,
 Upon malicious bravery, dost thou come
 To start my quiet.
+
 RODERIGO
 Sir, sir, sir,--
+
 BRABANTIO
 But thou must needs be sure
 My spirit and my place have in them power
 To make this bitter to thee.
+
 RODERIGO
 Patience, good sir.
+
 BRABANTIO
 What tell'st thou me of robbing? this is Venice;
 My house is not a grange.
+
 RODERIGO
 Most grave Brabantio,
 In simple and pure soul I come to you.
+
 IAGO
 'Zounds, sir, you are one of those that will not
 serve God, if the devil bid you. Because we come to
@@ -159,17 +189,23 @@ do you service and you think we are ruffians, you'll
 have your daughter covered with a Barbary horse;
 you'll have your nephews neigh to you; you'll have
 coursers for cousins and gennets for germans.
+
 BRABANTIO
 What profane wretch art thou?
+
 IAGO
 I am one, sir, that comes to tell you your daughter
 and the Moor are now making the beast with two backs.
+
 BRABANTIO
 Thou art a villain.
+
 IAGO
 You are--a senator.
+
 BRABANTIO
 This thou shalt answer; I know thee, Roderigo.
+
 RODERIGO
 Sir, I will answer any thing. But, I beseech you,
 If't be your pleasure and most wise consent,
@@ -192,6 +228,7 @@ Of here and every where. Straight satisfy yourself:
 If she be in her chamber or your house,
 Let loose on me the justice of the state
 For thus deluding you.
+
 BRABANTIO
 Strike on the tinder, ho!
 Give me a taper! call up all my people!
@@ -230,8 +267,10 @@ With the Moor, say'st thou? Who would be a father!
 How didst thou know 'twas she? O she deceives me
 Past thought! What said she to you? Get more tapers:
 Raise all my kindred. Are they married, think you?
+
 RODERIGO
 Truly, I think they are.
+
 BRABANTIO
 O heaven! How got she out? O treason of the blood!
 Fathers, from hence trust not your daughters' minds
@@ -239,15 +278,19 @@ By what you see them act. Is there not charms
 By which the property of youth and maidhood
 May be abused? Have you not read, Roderigo,
 Of some such thing?
+
 RODERIGO
 Yes, sir, I have indeed.
+
 BRABANTIO
 Call up my brother. O, would you had had her!
 Some one way, some another. Do you know
 Where we may apprehend her and the Moor?
+
 RODERIGO
 I think I can discover him, if you please,
 To get good guard and go along with me.
+
 BRABANTIO
 Pray you, lead on. At every house I'll call;
 I may command at most. Get weapons, ho!
@@ -258,14 +301,17 @@ Exeunt
 SCENE II. Another street.
 
 Enter OTHELLO, IAGO, and Attendants with torches
+
 IAGO
 Though in the trade of war I have slain men,
 Yet do I hold it very stuff o' the conscience
 To do no contrived murder: I lack iniquity
 Sometimes to do me service: nine or ten times
 I had thought to have yerk'd him here under the ribs.
+
 OTHELLO
 'Tis better as it is.
+
 IAGO
 Nay, but he prated,
 And spoke such scurvy and provoking terms
@@ -279,6 +325,7 @@ As double as the duke's: he will divorce you;
 Or put upon you what restraint and grievance
 The law, with all his might to enforce it on,
 Will give him cable.
+
 OTHELLO
 Let him do his spite:
 My services which I have done the signiory
@@ -292,27 +339,34 @@ But that I love the gentle Desdemona,
 I would not my unhoused free condition
 Put into circumscription and confine
 For the sea's worth. But, look! what lights come yond?
+
 IAGO
 Those are the raised father and his friends:
 You were best go in.
+
 OTHELLO
 Not I	I must be found:
 My parts, my title and my perfect soul
 Shall manifest me rightly. Is it they?
+
 IAGO
 By Janus, I think no.
+
 Enter CASSIO, and certain Officers with torches
 
 OTHELLO
 The servants of the duke, and my lieutenant.
 The goodness of the night upon you, friends!
 What is the news?
+
 CASSIO
 The duke does greet you, general,
 And he requires your haste-post-haste appearance,
 Even on the instant.
+
 OTHELLO
 What is the matter, think you?
+
 CASSIO
 Something from Cyprus as I may divine:
 It is a business of some heat: the galleys
