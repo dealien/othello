@@ -1,4 +1,10 @@
 # Othello
 
+I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND FILES PRESENTED HERE
 
+
+
+ORIGINALLY HOSTED HERE: 
+
+http://shakespeare.mit.edu/othello/full.html
 
