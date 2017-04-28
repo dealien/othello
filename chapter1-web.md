@@ -21,14 +21,6 @@
 </style></head>
  <body bgcolor="#ffffff" text="#000000" data-gr-c-s-loaded="true">
 
-<table width="100%" bgcolor="#CCF6F6">
-<tbody><tr><td class="play" align="center">Othello, the Moore of Venice
-</td></tr><tr><td class="nav" align="center">
-      <a href="http://shakespeare.mit.edu/Shakespeare">Shakespeare homepage</a> 
-    | <a href="http://shakespeare.mit.edu/othello/">Othello</a> 
-    | Entire play
-</td></tr></tbody></table>
-
 <h3>ACT I</h3>
 <h3>SCENE I. Venice. A street.</h3>
 <p></p><blockquote>
