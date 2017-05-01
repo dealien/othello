@@ -6,19 +6,19 @@
 <i>Enter MONTANO and two Gentlemen</i>
 </div>
 
-</span name="speech1"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.1">What from the cape can you discern at sea?</span><br>
 </div>
 
-</span name="speech2"><b>First Gentleman</b></span>
+<b>First Gentleman</b>
 <div>
 </span name="2.1.2">Nothing at all: it is a highwrought flood;</span><br>
 </span name="2.1.3">I cannot, 'twixt the heaven and the main,</span><br>
 </span name="2.1.4">Descry a sail.</span><br>
 </div>
 
-</span name="speech3"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.5">Methinks the wind hath spoke aloud at land;</span><br>
 </span name="2.1.6">A fuller blast ne'er shook our battlements:</span><br>
@@ -27,7 +27,7 @@
 </span name="2.1.9">Can hold the mortise? What shall we hear of this?</span><br>
 </div>
 
-</span name="speech4"><b>Second Gentleman</b></span>
+<b>Second Gentleman</b>
 <div>
 </span name="2.1.10">A segregation of the Turkish fleet:</span><br>
 </span name="2.1.11">For do but stand upon the foaming shore,</span><br>
@@ -39,7 +39,7 @@
 </span name="2.1.17">On the enchafed flood.</span><br>
 </div>
 
-</span name="speech5"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.18">If that the Turkish fleet</span><br>
 </span name="2.1.19">Be not enshelter'd and embay'd, they are drown'd:</span><br>
@@ -47,7 +47,7 @@
 <p><i>Enter a third Gentleman</i></p>
 </div>
 
-</span name="speech6"><b>Third Gentleman</b></span>
+<b>Third Gentleman</b>
 <div>
 </span name="2.1.21">News, lads! our wars are done.</span><br>
 </span name="2.1.22">The desperate tempest hath so bang'd the Turks,</span><br>
@@ -56,12 +56,12 @@
 </span name="2.1.25">On most part of their fleet.</span><br>
 </div>
 
-</span name="speech7"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.26">How! is this true?</span><br>
 </div>
 
-</span name="speech8"><b>Third Gentleman</b></span>
+<b>Third Gentleman</b>
 <div>
 </span name="2.1.27">The ship is here put in,</span><br>
 </span name="2.1.28">A Veronesa; Michael Cassio,</span><br>
@@ -70,12 +70,12 @@
 </span name="2.1.31">And is in full commission here for Cyprus.</span><br>
 </div>
 
-</span name="speech9"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.32">I am glad on't; 'tis a worthy governor.</span><br>
 </div>
 
-</span name="speech10"><b>Third Gentleman</b></span>
+<b>Third Gentleman</b>
 <div>
 </span name="2.1.33">But this same Cassio, though he speak of comfort</span><br>
 </span name="2.1.34">Touching the Turkish loss, yet he looks sadly,</span><br>
@@ -83,7 +83,7 @@
 </span name="2.1.36">With foul and violent tempest.</span><br>
 </div>
 
-</span name="speech11"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.37">Pray heavens he be;</span><br>
 </span name="2.1.38">For I have served him, and the man commands</span><br>
@@ -94,7 +94,7 @@
 </span name="2.1.43">An indistinct regard.</span><br>
 </div>
 
-</span name="speech12"><b>Third Gentleman</b></span>
+<b>Third Gentleman</b>
 <div>
 </span name="2.1.44">Come, let's do so:</span><br>
 </span name="2.1.45">For every minute is expectancy</span><br>
@@ -102,7 +102,7 @@
 <p><i>Enter CASSIO</i></p>
 </div>
 
-</span name="speech13"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.47">Thanks, you the valiant of this warlike isle,</span><br>
 </span name="2.1.48">That so approve the Moor! O, let the heavens</span><br>
@@ -110,12 +110,12 @@
 </span name="2.1.50">For I have lost us him on a dangerous sea.</span><br>
 </div>
 
-</span name="speech14"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.51">Is he well shipp'd?</span><br>
 </div>
 
-</span name="speech15"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.52">His bark is stoutly timber'd, his pilot</span><br>
 </span name="2.1.53">Of very expert and approved allowance;</span><br>
@@ -125,47 +125,47 @@
 <p><i>Enter a fourth Gentleman</i></p>
 </div>
 
-</span name="speech16"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.56">What noise?</span><br>
 </div>
 
-</span name="speech17"><b>Fourth Gentleman</b></span>
+<b>Fourth Gentleman</b>
 <div>
 </span name="2.1.57">The town is empty; on the brow o' the sea</span><br>
 </span name="2.1.58">Stand ranks of people, and they cry 'A sail!'</span><br>
 </div>
 
-</span name="speech18"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.59">My hopes do shape him for the governor.</span><br>
 <p><i>Guns heard</i></p>
 </div>
 
-</span name="speech19"><b>Second Gentlemen</b></span>
+<b>Second Gentlemen</b>
 <div>
 </span name="2.1.60">They do discharge their shot of courtesy:</span><br>
 </span name="2.1.61">Our friends at least.</span><br>
 </div>
 
-</span name="speech20"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.62">I pray you, sir, go forth,</span><br>
 </span name="2.1.63">And give us truth who 'tis that is arrived.</span><br>
 </div>
 
-</span name="speech21"><b>Second Gentleman</b></span>
+<b>Second Gentleman</b>
 <div>
 </span name="2.1.64">I shall.</span><br>
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech22"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.65">But, good lieutenant, is your general wived?</span><br>
 </div>
 
-</span name="speech23"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.66">Most fortunately: he hath achieved a maid</span><br>
 </span name="2.1.67">That paragons description and wild fame;</span><br>
@@ -176,12 +176,12 @@
 </span name="2.1.71">How now! who has put in?</span><br>
 </div>
 
-</span name="speech24"><b>Second Gentleman</b></span>
+<b>Second Gentleman</b>
 <div>
 </span name="2.1.72">'Tis one Iago, ancient to the general.</span><br>
 </div>
 
-</span name="speech25"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.73">Has had most favourable and happy speed:</span><br>
 </span name="2.1.74">Tempests themselves, high seas, and howling winds,</span><br>
@@ -192,12 +192,12 @@
 </span name="2.1.79">The divine Desdemona.</span><br>
 </div>
 
-</span name="speech26"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.1.80">What is she?</span><br>
 </div>
 
-</span name="speech27"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.81">She that I spake of, our great captain's captain,</span><br>
 </span name="2.1.82">Left in the conduct of the bold Iago,</span><br>
@@ -217,37 +217,37 @@
 </span name="2.1.95">Enwheel thee round!</span><br>
 </div>
 
-</span name="speech28"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.96">I thank you, valiant Cassio.</span><br>
 </span name="2.1.97">What tidings can you tell me of my lord?</span><br>
 </div>
 
-</span name="speech29"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.98">He is not yet arrived: nor know I aught</span><br>
 </span name="2.1.99">But that he's well and will be shortly here.</span><br>
 </div>
 
-</span name="speech30"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.100">O, but I fear--How lost you company?</span><br>
 </div>
 
-</span name="speech31"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.101">The great contention of the sea and skies</span><br>
 </span name="2.1.102">Parted our fellowship--But, hark! a sail.</span><br>
 <p><i>Within 'A sail, a sail!' Guns heard</i></p>
 </div>
 
-</span name="speech32"><b>Second Gentleman</b></span>
+<b>Second Gentleman</b>
 <div>
 </span name="2.1.103">They give their greeting to the citadel;</span><br>
 </span name="2.1.104">This likewise is a friend.</span><br>
 </div>
 
-</span name="speech33"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.105">See for the news.</span><br>
 <p><i>Exit Gentleman</i></p>
@@ -260,19 +260,19 @@
 <p><i>Kissing her</i></p>
 </div>
 
-</span name="speech34"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.111">Sir, would she give you so much of her lips</span><br>
 </span name="2.1.112">As of her tongue she oft bestows on me,</span><br>
 </span name="2.1.113">You'll have enough.</span><br>
 </div>
 
-</span name="speech35"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.114">Alas, she has no speech.</span><br>
 </div>
 
-</span name="speech36"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.115">In faith, too much;</span><br>
 </span name="2.1.116">I find it still, when I have list to sleep:</span><br>
@@ -281,12 +281,12 @@
 </span name="2.1.119">And chides with thinking.</span><br>
 </div>
 
-</span name="speech37"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="2.1.120">You have little cause to say so.</span><br>
 </div>
 
-</span name="speech38"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.121">Come on, come on; you are pictures out of doors,</span><br>
 </span name="2.1.122">Bells in your parlors, wild-cats in your kitchens,</span><br>
@@ -294,57 +294,57 @@
 </span name="2.1.124">Players in your housewifery, and housewives' in your beds.</span><br>
 </div>
 
-</span name="speech39"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.125">O, fie upon thee, slanderer!</span><br>
 </div>
 
-</span name="speech40"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.126">Nay, it is true, or else I am a Turk:</span><br>
 </span name="2.1.127">You rise to play and go to bed to work.</span><br>
 </div>
 
-</span name="speech41"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="2.1.128">You shall not write my praise.</span><br>
 </div>
 
-</span name="speech42"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.129">No, let me not.</span><br>
 </div>
 
-</span name="speech43"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.130">What wouldst thou write of me, if thou shouldst</span><br>
 </span name="2.1.131">praise me?</span><br>
 </div>
 
-</span name="speech44"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.132">O gentle lady, do not put me to't;</span><br>
 </span name="2.1.133">For I am nothing, if not critical.</span><br>
 </div>
 
-</span name="speech45"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.134">Come on assay. There's one gone to the harbour?</span><br>
 </div>
 
-</span name="speech46"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.135">Ay, madam.</span><br>
 </div>
 
-</span name="speech47"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.136">I am not merry; but I do beguile</span><br>
 </span name="2.1.137">The thing I am, by seeming otherwise.</span><br>
 </span name="2.1.138">Come, how wouldst thou praise me?</span><br>
 </div>
 
-</span name="speech48"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.139">I am about it; but indeed my invention</span><br>
 </span name="2.1.140">Comes from my pate as birdlime does from frize;</span><br>
@@ -354,47 +354,47 @@
 </span name="2.1.144">The one's for use, the other useth it.</span><br>
 </div>
 
-</span name="speech49"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.145">Well praised! How if she be black and witty?</span><br>
 </div>
 
-</span name="speech50"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.146">If she be black, and thereto have a wit,</span><br>
 </span name="2.1.147">She'll find a white that shall her blackness fit.</span><br>
 </div>
 
-</span name="speech51"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.148">Worse and worse.</span><br>
 </div>
 
-</span name="speech52"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="2.1.149">How if fair and foolish?</span><br>
 </div>
 
-</span name="speech53"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.150">She never yet was foolish that was fair;</span><br>
 </span name="2.1.151">For even her folly help'd her to an heir.</span><br>
 </div>
 
-</span name="speech54"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.152">These are old fond paradoxes to make fools laugh i'</span><br>
 </span name="2.1.153">the alehouse. What miserable praise hast thou for</span><br>
 </span name="2.1.154">her that's foul and foolish?</span><br>
 </div>
 
-</span name="speech55"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.155">There's none so foul and foolish thereunto,</span><br>
 </span name="2.1.156">But does foul pranks which fair and wise ones do.</span><br>
 </div>
 
-</span name="speech56"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.157">O heavy ignorance! thou praisest the worst best.</span><br>
 </span name="2.1.158">But what praise couldst thou bestow on a deserving</span><br>
@@ -402,7 +402,7 @@
 </span name="2.1.160">merit, did justly put on the vouch of very malice itself?</span><br>
 </div>
 
-</span name="speech57"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.161">She that was ever fair and never proud,</span><br>
 </span name="2.1.162">Had tongue at will and yet was never loud,</span><br>
@@ -417,17 +417,17 @@
 </span name="2.1.171">She was a wight, if ever such wight were,--</span><br>
 </div>
 
-</span name="speech58"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.172">To do what?</span><br>
 </div>
 
-</span name="speech59"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.173">To suckle fools and chronicle small beer.</span><br>
 </div>
 
-</span name="speech60"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.174">O most lame and impotent conclusion! Do not learn</span><br>
 </span name="2.1.175">of him, Emilia, though he be thy husband. How say</span><br>
@@ -435,13 +435,13 @@
 </span name="2.1.177">counsellor?</span><br>
 </div>
 
-</span name="speech61"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.178">He speaks home, madam: You may relish him more in</span><br>
 </span name="2.1.179">the soldier than in the scholar.</span><br>
 </div>
 
-</span name="speech62"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.180">[Aside]  He takes her by the palm: ay, well said,</span><br>
 </span name="2.1.181">whisper: with as little a web as this will I</span><br>
@@ -458,33 +458,33 @@
 </span name="2.1.191">The Moor! I know his trumpet.</span><br>
 </div>
 
-</span name="speech63"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.192">'Tis truly so.</span><br>
 </div>
 
-</span name="speech64"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.193">Let's meet him and receive him.</span><br>
 </div>
 
-</span name="speech65"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.1.194">Lo, where he comes!</span><br>
 <p><i>Enter OTHELLO and Attendants</i></p>
 </div>
 
-</span name="speech66"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.1.195">O my fair warrior!</span><br>
 </div>
 
-</span name="speech67"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.196">                  My dear Othello!</span><br>
 </div>
 
-</span name="speech68"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.1.197">It gives me wonder great as my content</span><br>
 </span name="2.1.198">To see you here before me. O my soul's joy!</span><br>
@@ -499,14 +499,14 @@
 </span name="2.1.207">Succeeds in unknown fate.</span><br>
 </div>
 
-</span name="speech69"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.1.208">The heavens forbid</span><br>
 </span name="2.1.209">But that our loves and comforts should increase,</span><br>
 </span name="2.1.210">Even as our days do grow!</span><br>
 </div>
 
-</span name="speech70"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.1.211">Amen to that, sweet powers!</span><br>
 </span name="2.1.212">I cannot speak enough of this content;</span><br>
@@ -516,14 +516,14 @@
 </span name="2.1.215">That e'er our hearts shall make!</span><br>
 </div>
 
-</span name="speech71"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.216">[Aside]  O, you are well tuned now!</span><br>
 </span name="2.1.217">But I'll set down the pegs that make this music,</span><br>
 </span name="2.1.218">As honest as I am.</span><br>
 </div>
 
-</span name="speech72"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.1.219">                  Come, let us to the castle.</span><br>
 </span name="2.1.220">News, friends; our wars are done, the Turks</span><br>
@@ -541,7 +541,7 @@
 <p><i>Exeunt OTHELLO, DESDEMONA, and Attendants</i></p>
 </div>
 
-</span name="speech73"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.232">Do thou meet me presently at the harbour. Come</span><br>
 </span name="2.1.233">hither. If thou be'st valiant,-- as, they say, base</span><br>
@@ -552,12 +552,12 @@
 </span name="2.1.238">directly in love with him.</span><br>
 </div>
 
-</span name="speech74"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.1.239">With him! why, 'tis not possible.</span><br>
 </div>
 
-</span name="speech75"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.240">Lay thy finger thus, and let thy soul be instructed.</span><br>
 </span name="2.1.241">Mark me with what violence she first loved the Moor,</span><br>
@@ -591,13 +591,13 @@
 </span name="2.1.269">hath found him already.</span><br>
 </div>
 
-</span name="speech76"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.1.270">I cannot believe that in her; she's full of</span><br>
 </span name="2.1.271">most blessed condition.</span><br>
 </div>
 
-</span name="speech77"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.272">Blessed fig's-end! the wine she drinks is made of</span><br>
 </span name="2.1.273">grapes: if she had been blessed, she would never</span><br>
@@ -606,12 +606,12 @@
 </span name="2.1.276">not mark that?</span><br>
 </div>
 
-</span name="speech78"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.1.277">Yes, that I did; but that was but courtesy.</span><br>
 </div>
 
-</span name="speech79"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.278">Lechery, by this hand; an index and obscure prologue</span><br>
 </span name="2.1.279">to the history of lust and foul thoughts. They met</span><br>
@@ -629,12 +629,12 @@
 </span name="2.1.291">favourably minister.</span><br>
 </div>
 
-</span name="speech80"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.1.292">Well.</span><br>
 </div>
 
-</span name="speech81"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.293">Sir, he is rash and very sudden in choler, and haply</span><br>
 </span name="2.1.294">may strike at you: provoke him, that he may; for</span><br>
@@ -647,25 +647,25 @@
 </span name="2.1.301">which there were no expectation of our prosperity.</span><br>
 </div>
 
-</span name="speech82"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.1.302">I will do this, if I can bring it to any</span><br>
 </span name="2.1.303">opportunity.</span><br>
 </div>
 
-</span name="speech83"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.304">I warrant thee. Meet me by and by at the citadel:</span><br>
 </span name="2.1.305">I must fetch his necessaries ashore. Farewell.</span><br>
 </div>
 
-</span name="speech84"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.1.306">Adieu.</span><br>
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech85"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.1.307">That Cassio loves her, I do well believe it;</span><br>
 </span name="2.1.308">That she loves him, 'tis apt and of great credit:</span><br>
@@ -701,7 +701,7 @@
 <i>Enter a Herald with a proclamation; People following</i>
 </div>
 
-</span name="speech1"><b>Herald</b></span>
+<b>Herald</b>
 <div>
 </span name="2.2.1">It is Othello's pleasure, our noble and valiant</span><br>
 </span name="2.2.2">general, that, upon certain tidings now arrived,</span><br>
@@ -722,21 +722,21 @@
 <i>Enter OTHELLO, DESDEMONA, CASSIO, and Attendants</i>
 </div>
 
-</span name="speech1"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.1">Good Michael, look you to the guard to-night:</span><br>
 </span name="2.3.2">Let's teach ourselves that honourable stop,</span><br>
 </span name="2.3.3">Not to outsport discretion.</span><br>
 </div>
 
-</span name="speech2"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.4">Iago hath direction what to do;</span><br>
 </span name="2.3.5">But, notwithstanding, with my personal eye</span><br>
 </span name="2.3.6">Will I look to't.</span><br>
 </div>
 
-</span name="speech3"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.7">                  Iago is most honest.</span><br>
 </span name="2.3.8">Michael, good night: to-morrow with your earliest</span><br>
@@ -750,12 +750,12 @@
 <p><i>Enter IAGO</i></p>
 </div>
 
-</span name="speech4"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.14">Welcome, Iago; we must to the watch.</span><br>
 </div>
 
-</span name="speech5"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.15">Not this hour, lieutenant; 'tis not yet ten o' the</span><br>
 </span name="2.3.16">clock. Our general cast us thus early for the love</span><br>
@@ -764,43 +764,43 @@
 </span name="2.3.19">she is sport for Jove.</span><br>
 </div>
 
-</span name="speech6"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.20">She's a most exquisite lady.</span><br>
 </div>
 
-</span name="speech7"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.21">And, I'll warrant her, fun of game.</span><br>
 </div>
 
-</span name="speech8"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.22">Indeed, she's a most fresh and delicate creature.</span><br>
 </div>
 
-</span name="speech9"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.23">What an eye she has! methinks it sounds a parley of</span><br>
 </span name="2.3.24">provocation.</span><br>
 </div>
 
-</span name="speech10"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.25">An inviting eye; and yet methinks right modest.</span><br>
 </div>
 
-</span name="speech11"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.26">And when she speaks, is it not an alarum to love?</span><br>
 </div>
 
-</span name="speech12"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.27">She is indeed perfection.</span><br>
 </div>
 
-</span name="speech13"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.28">Well, happiness to their sheets! Come, lieutenant, I</span><br>
 </span name="2.3.29">have a stoup of wine; and here without are a brace</span><br>
@@ -808,7 +808,7 @@
 </span name="2.3.31">the health of black Othello.</span><br>
 </div>
 
-</span name="speech14"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.32">Not to-night, good Iago: I have very poor and</span><br>
 </span name="2.3.33">unhappy brains for drinking: I could well wish</span><br>
@@ -816,13 +816,13 @@
 </span name="2.3.35">entertainment.</span><br>
 </div>
 
-</span name="speech15"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.36">O, they are our friends; but one cup: I'll drink for</span><br>
 </span name="2.3.37">you.</span><br>
 </div>
 
-</span name="speech16"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.38">I have drunk but one cup to-night, and that was</span><br>
 </span name="2.3.39">craftily qualified too, and, behold, what innovation</span><br>
@@ -830,29 +830,29 @@
 </span name="2.3.41">and dare not task my weakness with any more.</span><br>
 </div>
 
-</span name="speech17"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.42">What, man! 'tis a night of revels: the gallants</span><br>
 </span name="2.3.43">desire it.</span><br>
 </div>
 
-</span name="speech18"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.44">Where are they?</span><br>
 </div>
 
-</span name="speech19"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.45">Here at the door; I pray you, call them in.</span><br>
 </div>
 
-</span name="speech20"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.46">I'll do't; but it dislikes me.</span><br>
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech21"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.47">If I can fasten but one cup upon him,</span><br>
 </span name="2.3.48">With that which he hath drunk to-night already,</span><br>
@@ -873,18 +873,18 @@
 <p><i>Re-enter CASSIO; with him MONTANO and Gentlemen; servants following with wine</i></p>
 </div>
 
-</span name="speech22"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.63">'Fore God, they have given me a rouse already.</span><br>
 </div>
 
-</span name="speech23"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.64">Good faith, a little one; not past a pint, as I am</span><br>
 </span name="2.3.65">a soldier.</span><br>
 </div>
 
-</span name="speech24"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.66">Some wine, ho!</span><br>
 <p><i>Sings</i></p>
@@ -896,12 +896,12 @@
 </span name="2.3.72">Some wine, boys!</span><br>
 </div>
 
-</span name="speech25"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.73">'Fore God, an excellent song.</span><br>
 </div>
 
-</span name="speech26"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.74">I learned it in England, where, indeed, they are</span><br>
 </span name="2.3.75">most potent in potting: your Dane, your German, and</span><br>
@@ -909,12 +909,12 @@
 </span name="2.3.77">to your English.</span><br>
 </div>
 
-</span name="speech27"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.78">Is your Englishman so expert in his drinking?</span><br>
 </div>
 
-</span name="speech28"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.79">Why, he drinks you, with facility, your Dane dead</span><br>
 </span name="2.3.80">drunk; he sweats not to overthrow your Almain; he</span><br>
@@ -922,17 +922,17 @@
 </span name="2.3.82">can be filled.</span><br>
 </div>
 
-</span name="speech29"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.83">To the health of our general!</span><br>
 </div>
 
-</span name="speech30"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.84">I am for it, lieutenant; and I'll do you justice.</span><br>
 </div>
 
-</span name="speech31"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.85">O sweet England!</span><br>
 </span name="2.3.86">King Stephen was a worthy peer,</span><br>
@@ -946,40 +946,40 @@
 </span name="2.3.94">Some wine, ho!</span><br>
 </div>
 
-</span name="speech32"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.95">Why, this is a more exquisite song than the other.</span><br>
 </div>
 
-</span name="speech33"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.96">Will you hear't again?</span><br>
 </div>
 
-</span name="speech34"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.97">No; for I hold him to be unworthy of his place that</span><br>
 </span name="2.3.98">does those things. Well, God's above all; and there</span><br>
 </span name="2.3.99">be souls must be saved, and there be souls must not be saved.</span><br>
 </div>
 
-</span name="speech35"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.100">It's true, good lieutenant.</span><br>
 </div>
 
-</span name="speech36"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.101">For mine own part,--no offence to the general, nor</span><br>
 </span name="2.3.102">any man of quality,--I hope to be saved.</span><br>
 </div>
 
-</span name="speech37"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.103">And so do I too, lieutenant.</span><br>
 </div>
 
-</span name="speech38"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.104">Ay, but, by your leave, not before me; the</span><br>
 </span name="2.3.105">lieutenant is to be saved before the ancient. Let's</span><br>
@@ -991,23 +991,23 @@
 </span name="2.3.111">speak well enough.</span><br>
 </div>
 
-</span name="speech39"><b>All</b></span>
+<b>All</b>
 <div>
 </span name="2.3.112">Excellent well.</span><br>
 </div>
 
-</span name="speech40"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.113">Why, very well then; you must not think then that I am drunk.</span><br>
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech41"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.114">To the platform, masters; come, let's set the watch.</span><br>
 </div>
 
-</span name="speech42"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.115">You see this fellow that is gone before;</span><br>
 </span name="2.3.116">He is a soldier fit to stand by Caesar</span><br>
@@ -1019,19 +1019,19 @@
 </span name="2.3.122">Will shake this island.</span><br>
 </div>
 
-</span name="speech43"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.123">But is he often thus?</span><br>
 </div>
 
-</span name="speech44"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.124">'Tis evermore the prologue to his sleep:</span><br>
 </span name="2.3.125">He'll watch the horologe a double set,</span><br>
 </span name="2.3.126">If drink rock not his cradle.</span><br>
 </div>
 
-</span name="speech45"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.127">It were well</span><br>
 </span name="2.3.128">The general were put in mind of it.</span><br>
@@ -1041,14 +1041,14 @@
 <p><i>Enter RODERIGO</i></p>
 </div>
 
-</span name="speech46"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.132">[Aside to him]  How now, Roderigo!</span><br>
 </span name="2.3.133">I pray you, after the lieutenant; go.</span><br>
 <p><i>Exit RODERIGO</i></p>
 </div>
 
-</span name="speech47"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.134">And 'tis great pity that the noble Moor</span><br>
 </span name="2.3.135">Should hazard such a place as his own second</span><br>
@@ -1057,7 +1057,7 @@
 </span name="2.3.138">So to the Moor.</span><br>
 </div>
 
-</span name="speech48"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.139">                  Not I, for this fair island:</span><br>
 </span name="2.3.140">I do love Cassio well; and would do much</span><br>
@@ -1066,59 +1066,59 @@
 <p><i>Re-enter CASSIO, driving in RODERIGO</i></p>
 </div>
 
-</span name="speech49"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.142">You rogue! you rascal!</span><br>
 </div>
 
-</span name="speech50"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.143">What's the matter, lieutenant?</span><br>
 </div>
 
-</span name="speech51"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.144">A knave teach me my duty!</span><br>
 </span name="2.3.145">I'll beat the knave into a twiggen bottle.</span><br>
 </div>
 
-</span name="speech52"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.3.146">Beat me!</span><br>
 </div>
 
-</span name="speech53"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.147">       Dost thou prate, rogue?</span><br>
 <p><i>Striking RODERIGO</i></p>
 </div>
 
-</span name="speech54"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.148">Nay, good lieutenant;</span><br>
 <p><i>Staying him</i></p>
 </span name="2.3.149">I pray you, sir, hold your hand.</span><br>
 </div>
 
-</span name="speech55"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.150">Let me go, sir,</span><br>
 </span name="2.3.151">Or I'll knock you o'er the mazzard.</span><br>
 </div>
 
-</span name="speech56"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.152">Come, come,</span><br>
 </span name="2.3.153">you're drunk.</span><br>
 </div>
 
-</span name="speech57"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.154">Drunk!</span><br>
 <p><i>They fight</i></p>
 </div>
 
-</span name="speech58"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.155">[Aside to RODERIGO]  Away, I say; go out, and cry a mutiny.</span><br>
 <p><i>Exit RODERIGO</i></p>
@@ -1132,30 +1132,30 @@
 <p><i>Re-enter OTHELLO and Attendants</i></p>
 </div>
 
-</span name="speech59"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.162">What is the matter here?</span><br>
 </div>
 
-</span name="speech60"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.163">'Zounds, I bleed still; I am hurt to the death.</span><br>
 <p><i>Faints</i></p>
 </div>
 
-</span name="speech61"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.164">Hold, for your lives!</span><br>
 </div>
 
-</span name="speech62"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.165">Hold, ho! Lieutenant,--sir--Montano,--gentlemen,--</span><br>
 </span name="2.3.166">Have you forgot all sense of place and duty?</span><br>
 </span name="2.3.167">Hold! the general speaks to you; hold, hold, for shame!</span><br>
 </div>
 
-</span name="speech63"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.168">Why, how now, ho! from whence ariseth this?</span><br>
 </span name="2.3.169">Are we turn'd Turks, and to ourselves do that</span><br>
@@ -1169,7 +1169,7 @@
 </span name="2.3.177">Speak, who began this? on thy love, I charge thee.</span><br>
 </div>
 
-</span name="speech64"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.178">I do not know: friends all but now, even now,</span><br>
 </span name="2.3.179">In quarter, and in terms like bride and groom</span><br>
@@ -1182,17 +1182,17 @@
 </span name="2.3.186">Those legs that brought me to a part of it!</span><br>
 </div>
 
-</span name="speech65"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.187">How comes it, Michael, you are thus forgot?</span><br>
 </div>
 
-</span name="speech66"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.188">I pray you, pardon me; I cannot speak.</span><br>
 </div>
 
-</span name="speech67"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.189">Worthy Montano, you were wont be civil;</span><br>
 </span name="2.3.190">The gravity and stillness of your youth</span><br>
@@ -1203,7 +1203,7 @@
 </span name="2.3.195">Of a night-brawler? give me answer to it.</span><br>
 </div>
 
-</span name="speech68"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.196">Worthy Othello, I am hurt to danger:</span><br>
 </span name="2.3.197">Your officer, Iago, can inform you,--</span><br>
@@ -1216,7 +1216,7 @@
 </span name="2.3.204">When violence assails us.</span><br>
 </div>
 
-</span name="speech69"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.205">Now, by heaven,</span><br>
 </span name="2.3.206">My blood begins my safer guides to rule;</span><br>
@@ -1234,14 +1234,14 @@
 </span name="2.3.218">'Tis monstrous. Iago, who began't?</span><br>
 </div>
 
-</span name="speech70"><b>MONTANO</b></span>
+<b>MONTANO</b>
 <div>
 </span name="2.3.219">If partially affined, or leagued in office,</span><br>
 </span name="2.3.220">Thou dost deliver more or less than truth,</span><br>
 </span name="2.3.221">Thou art no soldier.</span><br>
 </div>
 
-</span name="speech71"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.222">Touch me not so near:</span><br>
 </span name="2.3.223">I had rather have this tongue cut from my mouth</span><br>
@@ -1272,7 +1272,7 @@
 </span name="2.3.248">Which patience could not pass.</span><br>
 </div>
 
-</span name="speech72"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.249">I know, Iago,</span><br>
 </span name="2.3.250">Thy honesty and love doth mince this matter,</span><br>
@@ -1283,12 +1283,12 @@
 </span name="2.3.254">I'll make thee an example.</span><br>
 </div>
 
-</span name="speech73"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="2.3.255">What's the matter?</span><br>
 </div>
 
-</span name="speech74"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="2.3.256">All's well now, sweeting; come away to bed.</span><br>
 </span name="2.3.257">Sir, for your hurts, myself will be your surgeon:</span><br>
@@ -1301,22 +1301,22 @@
 <p><i>Exeunt all but IAGO and CASSIO</i></p>
 </div>
 
-</span name="speech75"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.263">What, are you hurt, lieutenant?</span><br>
 </div>
 
-</span name="speech76"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.264">Ay, past all surgery.</span><br>
 </div>
 
-</span name="speech77"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.265">Marry, heaven forbid!</span><br>
 </div>
 
-</span name="speech78"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.266">Reputation, reputation, reputation! O, I have lost</span><br>
 </span name="2.3.267">my reputation! I have lost the immortal part of</span><br>
@@ -1324,7 +1324,7 @@
 </span name="2.3.269">Iago, my reputation!</span><br>
 </div>
 
-</span name="speech79"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.270">As I am an honest man, I thought you had received</span><br>
 </span name="2.3.271">some bodily wound; there is more sense in that than</span><br>
@@ -1339,7 +1339,7 @@
 </span name="2.3.280">to him again, and he's yours.</span><br>
 </div>
 
-</span name="speech80"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.281">I will rather sue to be despised than to deceive so</span><br>
 </span name="2.3.282">good a commander with so slight, so drunken, and so</span><br>
@@ -1350,23 +1350,23 @@
 </span name="2.3.287">let us call thee devil!</span><br>
 </div>
 
-</span name="speech81"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.288">What was he that you followed with your sword? What</span><br>
 </span name="2.3.289">had he done to you?</span><br>
 </div>
 
-</span name="speech82"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.290">I know not.</span><br>
 </div>
 
-</span name="speech83"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.291">Is't possible?</span><br>
 </div>
 
-</span name="speech84"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.292">I remember a mass of things, but nothing distinctly;</span><br>
 </span name="2.3.293">a quarrel, but nothing wherefore. O God, that men</span><br>
@@ -1375,20 +1375,20 @@
 </span name="2.3.296">revel and applause, transform ourselves into beasts!</span><br>
 </div>
 
-</span name="speech85"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.297">Why, but you are now well enough: how came you thus</span><br>
 </span name="2.3.298">recovered?</span><br>
 </div>
 
-</span name="speech86"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.299">It hath pleased the devil drunkenness to give place</span><br>
 </span name="2.3.300">to the devil wrath; one unperfectness shows me</span><br>
 </span name="2.3.301">another, to make me frankly despise myself.</span><br>
 </div>
 
-</span name="speech87"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.302">Come, you are too severe a moraler: as the time,</span><br>
 </span name="2.3.303">the place, and the condition of this country</span><br>
@@ -1396,7 +1396,7 @@
 </span name="2.3.305">but, since it is as it is, mend it for your own good.</span><br>
 </div>
 
-</span name="speech88"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.306">I will ask him for my place again; he shall tell me</span><br>
 </span name="2.3.307">I am a drunkard! Had I as many mouths as Hydra,</span><br>
@@ -1406,19 +1406,19 @@
 </span name="2.3.311">unblessed and the ingredient is a devil.</span><br>
 </div>
 
-</span name="speech89"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.312">Come, come, good wine is a good familiar creature,</span><br>
 </span name="2.3.313">if it be well used: exclaim no more against it.</span><br>
 </span name="2.3.314">And, good lieutenant, I think you think I love you.</span><br>
 </div>
 
-</span name="speech90"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.315">I have well approved it, sir. I drunk!</span><br>
 </div>
 
-</span name="speech91"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.316">You or any man living may be drunk! at a time, man.</span><br>
 </span name="2.3.317">I'll tell you what you shall do. Our general's wife</span><br>
@@ -1435,24 +1435,24 @@
 </span name="2.3.328">crack of your love shall grow stronger than it was before.</span><br>
 </div>
 
-</span name="speech92"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.329">You advise me well.</span><br>
 </div>
 
-</span name="speech93"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.330">I protest, in the sincerity of love and honest kindness.</span><br>
 </div>
 
-</span name="speech94"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="2.3.331">I think it freely; and betimes in the morning I will</span><br>
 </span name="2.3.332">beseech the virtuous Desdemona to undertake for me:</span><br>
 </span name="2.3.333">I am desperate of my fortunes if they cheque me here.</span><br>
 </div>
 
-</span name="speech95"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.334">You are in the right. Good night, lieutenant; I</span><br>
 </span name="2.3.335">must to the watch.</span><br>
@@ -1460,7 +1460,7 @@
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech96"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.337">And what's he then that says I play the villain?</span><br>
 </span name="2.3.338">When this advice is free I give and honest,</span><br>
@@ -1493,7 +1493,7 @@
 </span name="2.3.364">How now, Roderigo!</span><br>
 </div>
 
-</span name="speech97"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="2.3.365">I do follow here in the chase, not like a hound that</span><br>
 </span name="2.3.366">hunts, but one that fills up the cry. My money is</span><br>
@@ -1503,7 +1503,7 @@
 </span name="2.3.370">no money at all and a little more wit, return again to Venice.</span><br>
 </div>
 
-</span name="speech98"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="2.3.371">How poor are they that have not patience!</span><br>
 </span name="2.3.372">What wound did ever heal but by degrees?</span><br>

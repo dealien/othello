@@ -6,34 +6,34 @@
 <i>Enter OTHELLO and IAGO</i>
 </div>
 
-</span name="speech1"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.1">Will you think so?</span><br>
 </div>
 
-</span name="speech2"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.2">                  Think so, Iago!</span><br>
 </div>
 
-</span name="speech3"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.3">What,</span><br>
 </span name="4.1.4">To kiss in private?</span><br>
 </div>
 
-</span name="speech4"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.5">An unauthorized kiss.</span><br>
 </div>
 
-</span name="speech5"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.6">Or to be naked with her friend in bed</span><br>
 </span name="4.1.7">An hour or more, not meaning any harm?</span><br>
 </div>
 
-</span name="speech6"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.8">Naked in bed, Iago, and not mean harm!</span><br>
 </span name="4.1.9">It is hypocrisy against the devil:</span><br>
@@ -41,37 +41,37 @@
 </span name="4.1.11">The devil their virtue tempts, and they tempt heaven.</span><br>
 </div>
 
-</span name="speech7"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.12">So they do nothing, 'tis a venial slip:</span><br>
 </span name="4.1.13">But if I give my wife a handkerchief,--</span><br>
 </div>
 
-</span name="speech8"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.14">What then?</span><br>
 </div>
 
-</span name="speech9"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.15">Why, then, 'tis hers, my lord; and, being hers,</span><br>
 </span name="4.1.16">She may, I think, bestow't on any man.</span><br>
 </div>
 
-</span name="speech10"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.17">She is protectress of her honour too:</span><br>
 </span name="4.1.18">May she give that?</span><br>
 </div>
 
-</span name="speech11"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.19">Her honour is an essence that's not seen;</span><br>
 </span name="4.1.20">They have it very oft that have it not:</span><br>
 </span name="4.1.21">But, for the handkerchief,--</span><br>
 </div>
 
-</span name="speech12"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.22">By heaven, I would most gladly have forgot it.</span><br>
 </span name="4.1.23">Thou said'st, it comes o'er my memory,</span><br>
@@ -79,17 +79,17 @@
 </span name="4.1.25">Boding to all--he had my handkerchief.</span><br>
 </div>
 
-</span name="speech13"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.26">Ay, what of that?</span><br>
 </div>
 
-</span name="speech14"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.27">                  That's not so good now.</span><br>
 </div>
 
-</span name="speech15"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.28">What,</span><br>
 </span name="4.1.29">If I had said I had seen him do you wrong?</span><br>
@@ -100,48 +100,48 @@
 </span name="4.1.34">But they must blab--</span><br>
 </div>
 
-</span name="speech16"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.35">Hath he said any thing?</span><br>
 </div>
 
-</span name="speech17"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.36">He hath, my lord; but be you well assured,</span><br>
 </span name="4.1.37">No more than he'll unswear.</span><br>
 </div>
 
-</span name="speech18"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.38">What hath he said?</span><br>
 </div>
 
-</span name="speech19"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.39">'Faith, that he did--I know not what he did.</span><br>
 </div>
 
-</span name="speech20"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.40">What? what?</span><br>
 </div>
 
-</span name="speech21"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.41">Lie--</span><br>
 </div>
 
-</span name="speech22"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.42">    With her?</span><br>
 </div>
 
-</span name="speech23"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.43">With her, on her; what you will.</span><br>
 </div>
 
-</span name="speech24"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.44">Lie with her! lie on her! We say lie on her, when</span><br>
 </span name="4.1.45">they belie her. Lie with her! that's fulsome.</span><br>
@@ -155,7 +155,7 @@
 <p><i>Falls in a trance</i></p>
 </div>
 
-</span name="speech25"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.53">Work on,</span><br>
 </span name="4.1.54">My medicine, work! Thus credulous fools are caught;</span><br>
@@ -166,23 +166,23 @@
 </span name="4.1.58">How now, Cassio!</span><br>
 </div>
 
-</span name="speech26"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.59">What's the matter?</span><br>
 </div>
 
-</span name="speech27"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.60">My lord is fall'n into an epilepsy:</span><br>
 </span name="4.1.61">This is his second fit; he had one yesterday.</span><br>
 </div>
 
-</span name="speech28"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.62">Rub him about the temples.</span><br>
 </div>
 
-</span name="speech29"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.63">No, forbear;</span><br>
 </span name="4.1.64">The lethargy must have his quiet course:</span><br>
@@ -195,34 +195,34 @@
 </span name="4.1.70">How is it, general? have you not hurt your head?</span><br>
 </div>
 
-</span name="speech30"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.71">Dost thou mock me?</span><br>
 </div>
 
-</span name="speech31"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.72">                  I mock you! no, by heaven.</span><br>
 </span name="4.1.73">Would you would bear your fortune like a man!</span><br>
 </div>
 
-</span name="speech32"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.74">A horned man's a monster and a beast.</span><br>
 </div>
 
-</span name="speech33"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.75">There's many a beast then in a populous city,</span><br>
 </span name="4.1.76">And many a civil monster.</span><br>
 </div>
 
-</span name="speech34"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.77">Did he confess it?</span><br>
 </div>
 
-</span name="speech35"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.78">                  Good sir, be a man;</span><br>
 </span name="4.1.79">Think every bearded fellow that's but yoked</span><br>
@@ -235,12 +235,12 @@
 </span name="4.1.86">And knowing what I am, I know what she shall be.</span><br>
 </div>
 
-</span name="speech36"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.87">O, thou art wise; 'tis certain.</span><br>
 </div>
 
-</span name="speech37"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.88">Stand you awhile apart;</span><br>
 </span name="4.1.89">Confine yourself but in a patient list.</span><br>
@@ -260,14 +260,14 @@
 </span name="4.1.103">And nothing of a man.</span><br>
 </div>
 
-</span name="speech38"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.104">Dost thou hear, Iago?</span><br>
 </span name="4.1.105">I will be found most cunning in my patience;</span><br>
 </span name="4.1.106">But--dost thou hear?--most bloody.</span><br>
 </div>
 
-</span name="speech39"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.107">That's not amiss;</span><br>
 </span name="4.1.108">But yet keep time in all. Will you withdraw?</span><br>
@@ -286,13 +286,13 @@
 </span name="4.1.119">Quite in the wrong. How do you now, lieutenant?</span><br>
 </div>
 
-</span name="speech40"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.120">The worser that you give me the addition</span><br>
 </span name="4.1.121">Whose want even kills me.</span><br>
 </div>
 
-</span name="speech41"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.122">Ply Desdemona well, and you are sure on't.</span><br>
 <p><i>Speaking lower</i></p>
@@ -300,103 +300,103 @@
 </span name="4.1.124">How quickly should you speed!</span><br>
 </div>
 
-</span name="speech42"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.125">Alas, poor caitiff!</span><br>
 </div>
 
-</span name="speech43"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.126">Look, how he laughs already!</span><br>
 </div>
 
-</span name="speech44"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.127">I never knew woman love man so.</span><br>
 </div>
 
-</span name="speech45"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.128">Alas, poor rogue! I think, i' faith, she loves me.</span><br>
 </div>
 
-</span name="speech46"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.129">Now he denies it faintly, and laughs it out.</span><br>
 </div>
 
-</span name="speech47"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.130">Do you hear, Cassio?</span><br>
 </div>
 
-</span name="speech48"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.131">Now he importunes him</span><br>
 </span name="4.1.132">To tell it o'er: go to; well said, well said.</span><br>
 </div>
 
-</span name="speech49"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.133">She gives it out that you shall marry hey:</span><br>
 </span name="4.1.134">Do you intend it?</span><br>
 </div>
 
-</span name="speech50"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.135">Ha, ha, ha!</span><br>
 </div>
 
-</span name="speech51"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.136">Do you triumph, Roman? do you triumph?</span><br>
 </div>
 
-</span name="speech52"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.137">I marry her! what? a customer! Prithee, bear some</span><br>
 </span name="4.1.138">charity to my wit: do not think it so unwholesome.</span><br>
 </span name="4.1.139">Ha, ha, ha!</span><br>
 </div>
 
-</span name="speech53"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.140">So, so, so, so: they laugh that win.</span><br>
 </div>
 
-</span name="speech54"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.141">'Faith, the cry goes that you shall marry her.</span><br>
 </div>
 
-</span name="speech55"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.142">Prithee, say true.</span><br>
 </div>
 
-</span name="speech56"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.143">I am a very villain else.</span><br>
 </div>
 
-</span name="speech57"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.144">Have you scored me? Well.</span><br>
 </div>
 
-</span name="speech58"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.145">This is the monkey's own giving out: she is</span><br>
 </span name="4.1.146">persuaded I will marry her, out of her own love and</span><br>
 </span name="4.1.147">flattery, not out of my promise.</span><br>
 </div>
 
-</span name="speech59"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.148">Iago beckons me; now he begins the story.</span><br>
 </div>
 
-</span name="speech60"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.149">She was here even now; she haunts me in every place.</span><br>
 </span name="4.1.150">I was the other day talking on the sea-bank with</span><br>
@@ -404,43 +404,43 @@
 </span name="4.1.152">and, by this hand, she falls me thus about my neck--</span><br>
 </div>
 
-</span name="speech61"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.153">Crying 'O dear Cassio!' as it were: his gesture</span><br>
 </span name="4.1.154">imports it.</span><br>
 </div>
 
-</span name="speech62"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.155">So hangs, and lolls, and weeps upon me; so hales,</span><br>
 </span name="4.1.156">and pulls me: ha, ha, ha!</span><br>
 </div>
 
-</span name="speech63"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.157">Now he tells how she plucked him to my chamber. O,</span><br>
 </span name="4.1.158">I see that nose of yours, but not that dog I shall</span><br>
 </span name="4.1.159">throw it to.</span><br>
 </div>
 
-</span name="speech64"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.160">Well, I must leave her company.</span><br>
 </div>
 
-</span name="speech65"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.161">Before me! look, where she comes.</span><br>
 </div>
 
-</span name="speech66"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.162">'Tis such another fitchew! marry a perfumed one.</span><br>
 <p><i>Enter BIANCA</i></p>
 </span name="4.1.163">What do you mean by this haunting of me?</span><br>
 </div>
 
-</span name="speech67"><b>BIANCA</b></span>
+<b>BIANCA</b>
 <div>
 </span name="4.1.164">Let the devil and his dam haunt you! What did you</span><br>
 </span name="4.1.165">mean by that same handkerchief you gave me even now?</span><br>
@@ -452,104 +452,104 @@
 </span name="4.1.171">you had it, I'll take out no work on't.</span><br>
 </div>
 
-</span name="speech68"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.172">How now, my sweet Bianca! how now! how now!</span><br>
 </div>
 
-</span name="speech69"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.173">By heaven, that should be my handkerchief!</span><br>
 </div>
 
-</span name="speech70"><b>BIANCA</b></span>
+<b>BIANCA</b>
 <div>
 </span name="4.1.174">An you'll come to supper to-night, you may; an you</span><br>
 </span name="4.1.175">will not, come when you are next prepared for.</span><br>
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech71"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.176">After her, after her.</span><br>
 </div>
 
-</span name="speech72"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.177">'Faith, I must; she'll rail in the street else.</span><br>
 </div>
 
-</span name="speech73"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.178">Will you sup there?</span><br>
 </div>
 
-</span name="speech74"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.179">'Faith, I intend so.</span><br>
 </div>
 
-</span name="speech75"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.180">Well, I may chance to see you; for I would very fain</span><br>
 </span name="4.1.181">speak with you.</span><br>
 </div>
 
-</span name="speech76"><b>CASSIO</b></span>
+<b>CASSIO</b>
 <div>
 </span name="4.1.182">Prithee, come; will you?</span><br>
 </div>
 
-</span name="speech77"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.183">Go to; say no more.</span><br>
 <p><i>Exit CASSIO</i></p>
 </div>
 
-</span name="speech78"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.184">[Advancing]  How shall I murder him, Iago?</span><br>
 </div>
 
-</span name="speech79"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.185">Did you perceive how he laughed at his vice?</span><br>
 </div>
 
-</span name="speech80"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.186">O Iago!</span><br>
 </div>
 
-</span name="speech81"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.187">And did you see the handkerchief?</span><br>
 </div>
 
-</span name="speech82"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.188">Was that mine?</span><br>
 </div>
 
-</span name="speech83"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.189">Yours by this hand: and to see how he prizes the</span><br>
 </span name="4.1.190">foolish woman your wife! she gave it him, and he</span><br>
 </span name="4.1.191">hath given it his whore.</span><br>
 </div>
 
-</span name="speech84"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.192">I would have him nine years a-killing.</span><br>
 </span name="4.1.193">A fine woman! a fair woman! a sweet woman!</span><br>
 </div>
 
-</span name="speech85"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.194">Nay, you must forget that.</span><br>
 </div>
 
-</span name="speech86"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.195">Ay, let her rot, and perish, and be damned to-night;</span><br>
 </span name="4.1.196">for she shall not live: no, my heart is turned to</span><br>
@@ -558,12 +558,12 @@
 </span name="4.1.199">an emperor's side and command him tasks.</span><br>
 </div>
 
-</span name="speech87"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.200">Nay, that's not your way.</span><br>
 </div>
 
-</span name="speech88"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.201">Hang her! I do but say what she is: so delicate</span><br>
 </span name="4.1.202">with her needle: an admirable musician: O! she</span><br>
@@ -571,239 +571,239 @@
 </span name="4.1.204">and plenteous wit and invention:--</span><br>
 </div>
 
-</span name="speech89"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.205">She's the worse for all this.</span><br>
 </div>
 
-</span name="speech90"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.206">O, a thousand thousand times: and then, of so</span><br>
 </span name="4.1.207">gentle a condition!</span><br>
 </div>
 
-</span name="speech91"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.208">Ay, too gentle.</span><br>
 </div>
 
-</span name="speech92"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.209">Nay, that's certain: but yet the pity of it, Iago!</span><br>
 </span name="4.1.210">O Iago, the pity of it, Iago!</span><br>
 </div>
 
-</span name="speech93"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.211">If you are so fond over her iniquity, give her</span><br>
 </span name="4.1.212">patent to offend; for, if it touch not you, it comes</span><br>
 </span name="4.1.213">near nobody.</span><br>
 </div>
 
-</span name="speech94"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.214">I will chop her into messes: cuckold me!</span><br>
 </div>
 
-</span name="speech95"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.215">O, 'tis foul in her.</span><br>
 </div>
 
-</span name="speech96"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.216">With mine officer!</span><br>
 </div>
 
-</span name="speech97"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.217">That's fouler.</span><br>
 </div>
 
-</span name="speech98"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.218">Get me some poison, Iago; this night: I'll not</span><br>
 </span name="4.1.219">expostulate with her, lest her body and beauty</span><br>
 </span name="4.1.220">unprovide my mind again: this night, Iago.</span><br>
 </div>
 
-</span name="speech99"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.221">Do it not with poison, strangle her in her bed, even</span><br>
 </span name="4.1.222">the bed she hath contaminated.</span><br>
 </div>
 
-</span name="speech100"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.223">Good, good: the justice of it pleases: very good.</span><br>
 </div>
 
-</span name="speech101"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.224">And for Cassio, let me be his undertaker: you</span><br>
 </span name="4.1.225">shall hear more by midnight.</span><br>
 </div>
 
-</span name="speech102"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.226">Excellent good.</span><br>
 <p><i>A trumpet within</i></p>
 </span name="4.1.227">What trumpet is that same?</span><br>
 </div>
 
-</span name="speech103"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.228">Something from Venice, sure. 'Tis Lodovico</span><br>
 </span name="4.1.229">Come from the duke: and, see, your wife is with him.</span><br>
 <p><i>Enter LODOVICO, DESDEMONA, and Attendants</i></p>
 </div>
 
-</span name="speech104"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.230">Save you, worthy general!</span><br>
 </div>
 
-</span name="speech105"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.231">With all my heart, sir.</span><br>
 </div>
 
-</span name="speech106"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.232">The duke and senators of Venice greet you.</span><br>
 <p><i>Gives him a letter</i></p>
 </div>
 
-</span name="speech107"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.233">I kiss the instrument of their pleasures.</span><br>
 <p><i>Opens the letter, and reads</i></p>
 </div>
 
-</span name="speech108"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.234">And what's the news, good cousin Lodovico?</span><br>
 </div>
 
-</span name="speech109"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.235">I am very glad to see you, signior</span><br>
 </span name="4.1.236">Welcome to Cyprus.</span><br>
 </div>
 
-</span name="speech110"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.237">I thank you. How does Lieutenant Cassio?</span><br>
 </div>
 
-</span name="speech111"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.238">Lives, sir.</span><br>
 </div>
 
-</span name="speech112"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.239">Cousin, there's fall'n between him and my lord</span><br>
 </span name="4.1.240">An unkind breach: but you shall make all well.</span><br>
 </div>
 
-</span name="speech113"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.241">Are you sure of that?</span><br>
 </div>
 
-</span name="speech114"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.242">My lord?</span><br>
 </div>
 
-</span name="speech115"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.243">[Reads]  'This fail you not to do, as you will--'</span><br>
 </div>
 
-</span name="speech116"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.244">He did not call; he's busy in the paper.</span><br>
 </span name="4.1.245">Is there division 'twixt my lord and Cassio?</span><br>
 </div>
 
-</span name="speech117"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.246">A most unhappy one: I would do much</span><br>
 </span name="4.1.247">To atone them, for the love I bear to Cassio.</span><br>
 </div>
 
-</span name="speech118"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.248">Fire and brimstone!</span><br>
 </div>
 
-</span name="speech119"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.249">My lord?</span><br>
 </div>
 
-</span name="speech120"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.250">       Are you wise?</span><br>
 </div>
 
-</span name="speech121"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.251">What, is he angry?</span><br>
 </div>
 
-</span name="speech122"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.252">                  May be the letter moved him;</span><br>
 </span name="4.1.253">For, as I think, they do command him home,</span><br>
 </span name="4.1.254">Deputing Cassio in his government.</span><br>
 </div>
 
-</span name="speech123"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.255">Trust me, I am glad on't.</span><br>
 </div>
 
-</span name="speech124"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.256">Indeed!</span><br>
 </div>
 
-</span name="speech125"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.257">My lord?</span><br>
 </div>
 
-</span name="speech126"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.258">I am glad to see you mad.</span><br>
 </div>
 
-</span name="speech127"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.259">Why, sweet Othello,--</span><br>
 </div>
 
-</span name="speech128"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.260">[Striking her]  Devil!</span><br>
 </div>
 
-</span name="speech129"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.261">I have not deserved this.</span><br>
 </div>
 
-</span name="speech130"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.262">My lord, this would not be believed in Venice,</span><br>
 </span name="4.1.263">Though I should swear I saw't: 'tis very much:</span><br>
 </span name="4.1.264">Make her amends; she weeps.</span><br>
 </div>
 
-</span name="speech131"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.265">O devil, devil!</span><br>
 </span name="4.1.266">If that the earth could teem with woman's tears,</span><br>
@@ -811,39 +811,39 @@
 </span name="4.1.268">Out of my sight!</span><br>
 </div>
 
-</span name="speech132"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.269">I will not stay to offend you.</span><br>
 <p><i>Going</i></p>
 </div>
 
-</span name="speech133"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.270">Truly, an obedient lady:</span><br>
 </span name="4.1.271">I do beseech your lordship, call her back.</span><br>
 </div>
 
-</span name="speech134"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.272">Mistress!</span><br>
 </div>
 
-</span name="speech135"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.1.273">        My lord?</span><br>
 </div>
 
-</span name="speech136"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.274">What would you with her, sir?</span><br>
 </div>
 
-</span name="speech137"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.275">Who, I, my lord?</span><br>
 </div>
 
-</span name="speech138"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.1.276">Ay; you did wish that I would make her turn:</span><br>
 </span name="4.1.277">Sir, she can turn, and turn, and yet go on,</span><br>
@@ -861,7 +861,7 @@
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech139"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.288">Is this the noble Moor whom our full senate</span><br>
 </span name="4.1.289">Call all in all sufficient? Is this the nature</span><br>
@@ -870,42 +870,42 @@
 </span name="4.1.292">Could neither graze nor pierce?</span><br>
 </div>
 
-</span name="speech140"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.293">He is much changed.</span><br>
 </div>
 
-</span name="speech141"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.294">Are his wits safe? is he not light of brain?</span><br>
 </div>
 
-</span name="speech142"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.295">He's that he is: I may not breathe my censure</span><br>
 </span name="4.1.296">What he might be: if what he might he is not,</span><br>
 </span name="4.1.297">I would to heaven he were!</span><br>
 </div>
 
-</span name="speech143"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.298">What, strike his wife!</span><br>
 </div>
 
-</span name="speech144"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.299">'Faith, that was not so well; yet would I knew</span><br>
 </span name="4.1.300">That stroke would prove the worst!</span><br>
 </div>
 
-</span name="speech145"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.301">Is it his use?</span><br>
 </span name="4.1.302">Or did the letters work upon his blood,</span><br>
 </span name="4.1.303">And new-create this fault?</span><br>
 </div>
 
-</span name="speech146"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.1.304">Alas, alas!</span><br>
 </span name="4.1.305">It is not honesty in me to speak</span><br>
@@ -915,7 +915,7 @@
 </span name="4.1.309">And mark how he continues.</span><br>
 </div>
 
-</span name="speech147"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.1.310">I am sorry that I am deceived in him.</span><br>
 <p><i>Exeunt</i></p>
@@ -925,63 +925,63 @@
 <i>Enter OTHELLO and EMILIA</i>
 </div>
 
-</span name="speech1"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.1">You have seen nothing then?</span><br>
 </div>
 
-</span name="speech2"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.2">Nor ever heard, nor ever did suspect.</span><br>
 </div>
 
-</span name="speech3"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.3">Yes, you have seen Cassio and she together.</span><br>
 </div>
 
-</span name="speech4"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.4">But then I saw no harm, and then I heard</span><br>
 </span name="4.2.5">Each syllable that breath made up between them.</span><br>
 </div>
 
-</span name="speech5"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.6">What, did they never whisper?</span><br>
 </div>
 
-</span name="speech6"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.7">Never, my lord.</span><br>
 </div>
 
-</span name="speech7"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.8">Nor send you out o' the way?</span><br>
 </div>
 
-</span name="speech8"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.9">Never.</span><br>
 </div>
 
-</span name="speech9"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.10">To fetch her fan, her gloves, her mask, nor nothing?</span><br>
 </div>
 
-</span name="speech10"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.11">Never, my lord.</span><br>
 </div>
 
-</span name="speech11"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.12">That's strange.</span><br>
 </div>
 
-</span name="speech12"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.13">I durst, my lord, to wager she is honest,</span><br>
 </span name="4.2.14">Lay down my soul at stake: if you think other,</span><br>
@@ -993,7 +993,7 @@
 </span name="4.2.20">Is foul as slander.</span><br>
 </div>
 
-</span name="speech13"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.21">Bid her come hither: go.</span><br>
 <p><i>Exit EMILIA</i></p>
@@ -1004,33 +1004,33 @@
 <p><i>Enter DESDEMONA with EMILIA</i></p>
 </div>
 
-</span name="speech14"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.26">My lord, what is your will?</span><br>
 </div>
 
-</span name="speech15"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.27">Pray, chuck, come hither.</span><br>
 </div>
 
-</span name="speech16"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.28">What is your pleasure?</span><br>
 </div>
 
-</span name="speech17"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.29">Let me see your eyes;</span><br>
 </span name="4.2.30">Look in my face.</span><br>
 </div>
 
-</span name="speech18"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.31">                  What horrible fancy's this?</span><br>
 </div>
 
-</span name="speech19"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.32">[To EMILIA]  Some of your function, mistress;</span><br>
 </span name="4.2.33">Leave procreants alone and shut the door;</span><br>
@@ -1039,25 +1039,25 @@
 <p><i>Exit EMILIA</i></p>
 </div>
 
-</span name="speech20"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.36">Upon my knees, what doth your speech import?</span><br>
 </span name="4.2.37">I understand a fury in your words.</span><br>
 </span name="4.2.38">But not the words.</span><br>
 </div>
 
-</span name="speech21"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.39">Why, what art thou?</span><br>
 </div>
 
-</span name="speech22"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.40">Your wife, my lord; your true</span><br>
 </span name="4.2.41">And loyal wife.</span><br>
 </div>
 
-</span name="speech23"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.42">                  Come, swear it, damn thyself</span><br>
 </span name="4.2.43">Lest, being like one of heaven, the devils themselves</span><br>
@@ -1065,27 +1065,27 @@
 </span name="4.2.45">Swear thou art honest.</span><br>
 </div>
 
-</span name="speech24"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.46">Heaven doth truly know it.</span><br>
 </div>
 
-</span name="speech25"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.47">Heaven truly knows that thou art false as hell.</span><br>
 </div>
 
-</span name="speech26"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.48">To whom, my lord? with whom? how am I false?</span><br>
 </div>
 
-</span name="speech27"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.49">O Desdemona! away! away! away!</span><br>
 </div>
 
-</span name="speech28"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.50">Alas the heavy day! Why do you weep?</span><br>
 </span name="4.2.51">Am I the motive of these tears, my lord?</span><br>
@@ -1095,7 +1095,7 @@
 </span name="4.2.55">Why, I have lost him too.</span><br>
 </div>
 
-</span name="speech29"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.56">Had it pleased heaven</span><br>
 </span name="4.2.57">To try me with affliction; had they rain'd</span><br>
@@ -1117,12 +1117,12 @@
 </span name="4.2.73">Ay, there, look grim as hell!</span><br>
 </div>
 
-</span name="speech30"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.74">I hope my noble lord esteems me honest.</span><br>
 </div>
 
-</span name="speech31"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.75">O, ay; as summer flies are in the shambles,</span><br>
 </span name="4.2.76">That quicken even with blowing. O thou weed,</span><br>
@@ -1131,12 +1131,12 @@
 </span name="4.2.79">ne'er been born!</span><br>
 </div>
 
-</span name="speech32"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.80">Alas, what ignorant sin have I committed?</span><br>
 </div>
 
-</span name="speech33"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.81">Was this fair paper, this most goodly book,</span><br>
 </span name="4.2.82">Made to write 'whore' upon? What committed!</span><br>
@@ -1151,17 +1151,17 @@
 </span name="4.2.91">Impudent strumpet!</span><br>
 </div>
 
-</span name="speech34"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.92">                  By heaven, you do me wrong.</span><br>
 </div>
 
-</span name="speech35"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.93">Are you not a strumpet?</span><br>
 </div>
 
-</span name="speech36"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.94">No, as I am a Christian:</span><br>
 </span name="4.2.95">If to preserve this vessel for my lord</span><br>
@@ -1169,27 +1169,27 @@
 </span name="4.2.97">Be not to be a strumpet, I am none.</span><br>
 </div>
 
-</span name="speech37"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.98">What, not a whore?</span><br>
 </div>
 
-</span name="speech38"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.99">                  No, as I shall be saved.</span><br>
 </div>
 
-</span name="speech39"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.100">Is't possible?</span><br>
 </div>
 
-</span name="speech40"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.101">                  O, heaven forgive us!</span><br>
 </div>
 
-</span name="speech41"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.2.102">I cry you mercy, then:</span><br>
 </span name="4.2.103">I took you for that cunning whore of Venice</span><br>
@@ -1205,43 +1205,43 @@
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech42"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.111">Alas, what does this gentleman conceive?</span><br>
 </span name="4.2.112">How do you, madam? how do you, my good lady?</span><br>
 </div>
 
-</span name="speech43"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.113">'Faith, half asleep.</span><br>
 </div>
 
-</span name="speech44"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.114">Good madam, what's the matter with my lord?</span><br>
 </div>
 
-</span name="speech45"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.115">With who?</span><br>
 </div>
 
-</span name="speech46"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.116">Why, with my lord, madam.</span><br>
 </div>
 
-</span name="speech47"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.117">Who is thy lord?</span><br>
 </div>
 
-</span name="speech48"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.118">                  He that is yours, sweet lady.</span><br>
 </div>
 
-</span name="speech49"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.119">I have none: do not talk to me, Emilia;</span><br>
 </span name="4.2.120">I cannot weep; nor answer have I none,</span><br>
@@ -1250,13 +1250,13 @@
 </span name="4.2.123">And call thy husband hither.</span><br>
 </div>
 
-</span name="speech50"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.124">Here's a change indeed!</span><br>
 <p><i>Exit</i></p>
 </div>
 
-</span name="speech51"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.125">'Tis meet I should be used so, very meet.</span><br>
 </span name="4.2.126">How have I been behaved, that he might stick</span><br>
@@ -1264,13 +1264,13 @@
 <p><i>Re-enter EMILIA with IAGO</i></p>
 </div>
 
-</span name="speech52"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.128">What is your pleasure, madam?</span><br>
 </span name="4.2.129">How is't with you?</span><br>
 </div>
 
-</span name="speech53"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.130">I cannot tell. Those that do teach young babes</span><br>
 </span name="4.2.131">Do it with gentle means and easy tasks:</span><br>
@@ -1278,78 +1278,78 @@
 </span name="4.2.133">I am a child to chiding.</span><br>
 </div>
 
-</span name="speech54"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.134">What's the matter, lady?</span><br>
 </div>
 
-</span name="speech55"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.135">Alas, Iago, my lord hath so bewhored her.</span><br>
 </span name="4.2.136">Thrown such despite and heavy terms upon her,</span><br>
 </span name="4.2.137">As true hearts cannot bear.</span><br>
 </div>
 
-</span name="speech56"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.138">Am I that name, Iago?</span><br>
 </div>
 
-</span name="speech57"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.139">What name, fair lady?</span><br>
 </div>
 
-</span name="speech58"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.140">Such as she says my lord did say I was.</span><br>
 </div>
 
-</span name="speech59"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.141">He call'd her whore: a beggar in his drink</span><br>
 </span name="4.2.142">Could not have laid such terms upon his callat.</span><br>
 </div>
 
-</span name="speech60"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.143">Why did he so?</span><br>
 </div>
 
-</span name="speech61"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.144">I do not know; I am sure I am none such.</span><br>
 </div>
 
-</span name="speech62"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.145">Do not weep, do not weep. Alas the day!</span><br>
 </div>
 
-</span name="speech63"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.146">Hath she forsook so many noble matches,</span><br>
 </span name="4.2.147">Her father and her country and her friends,</span><br>
 </span name="4.2.148">To be call'd whore? would it not make one weep?</span><br>
 </div>
 
-</span name="speech64"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.149">It is my wretched fortune.</span><br>
 </div>
 
-</span name="speech65"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.150">Beshrew him for't!</span><br>
 </span name="4.2.151">How comes this trick upon him?</span><br>
 </div>
 
-</span name="speech66"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.152">Nay, heaven doth know.</span><br>
 </div>
 
-</span name="speech67"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.153">I will be hang'd, if some eternal villain,</span><br>
 </span name="4.2.154">Some busy and insinuating rogue,</span><br>
@@ -1357,17 +1357,17 @@
 </span name="4.2.156">Have not devised this slander; I'll be hang'd else.</span><br>
 </div>
 
-</span name="speech68"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.157">Fie, there is no such man; it is impossible.</span><br>
 </div>
 
-</span name="speech69"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.158">If any such there be, heaven pardon him!</span><br>
 </div>
 
-</span name="speech70"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.159">A halter pardon him! and hell gnaw his bones!</span><br>
 </span name="4.2.160">Why should he call her whore? who keeps her company?</span><br>
@@ -1380,24 +1380,24 @@
 </span name="4.2.167">Even from the east to the west!</span><br>
 </div>
 
-</span name="speech71"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.168">Speak within door.</span><br>
 </div>
 
-</span name="speech72"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.2.169">O, fie upon them! Some such squire he was</span><br>
 </span name="4.2.170">That turn'd your wit the seamy side without,</span><br>
 </span name="4.2.171">And made you to suspect me with the Moor.</span><br>
 </div>
 
-</span name="speech73"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.172">You are a fool; go to.</span><br>
 </div>
 
-</span name="speech74"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.173">O good Iago,</span><br>
 </span name="4.2.174">What shall I do to win my lord again?</span><br>
@@ -1418,19 +1418,19 @@
 </span name="4.2.189">Not the world's mass of vanity could make me.</span><br>
 </div>
 
-</span name="speech75"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.190">I pray you, be content; 'tis but his humour:</span><br>
 </span name="4.2.191">The business of the state does him offence,</span><br>
 </span name="4.2.192">And he does chide with you.</span><br>
 </div>
 
-</span name="speech76"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.2.193">If 'twere no other--</span><br>
 </div>
 
-</span name="speech77"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.194">'Tis but so, I warrant.</span><br>
 <p><i>Trumpets within</i></p>
@@ -1442,17 +1442,17 @@
 </span name="4.2.198">How now, Roderigo!</span><br>
 </div>
 
-</span name="speech78"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.199">I do not find that thou dealest justly with me.</span><br>
 </div>
 
-</span name="speech79"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.200">What in the contrary?</span><br>
 </div>
 
-</span name="speech80"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.201">Every day thou daffest me with some device, Iago;</span><br>
 </span name="4.2.202">and rather, as it seems to me now, keepest from me</span><br>
@@ -1462,23 +1462,23 @@
 </span name="4.2.206">already I have foolishly suffered.</span><br>
 </div>
 
-</span name="speech81"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.207">Will you hear me, Roderigo?</span><br>
 </div>
 
-</span name="speech82"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.208">'Faith, I have heard too much, for your words and</span><br>
 </span name="4.2.209">performances are no kin together.</span><br>
 </div>
 
-</span name="speech83"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.210">You charge me most unjustly.</span><br>
 </div>
 
-</span name="speech84"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.211">With nought but truth. I have wasted myself out of</span><br>
 </span name="4.2.212">my means. The jewels you have had from me to</span><br>
@@ -1488,24 +1488,24 @@
 </span name="4.2.216">respect and acquaintance, but I find none.</span><br>
 </div>
 
-</span name="speech85"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.217">Well; go to; very well.</span><br>
 </div>
 
-</span name="speech86"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.218">Very well! go to! I cannot go to, man; nor 'tis</span><br>
 </span name="4.2.219">not very well: nay, I think it is scurvy, and begin</span><br>
 </span name="4.2.220">to find myself fobbed in it.</span><br>
 </div>
 
-</span name="speech87"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.221">Very well.</span><br>
 </div>
 
-</span name="speech88"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.222">I tell you 'tis not very well. I will make myself</span><br>
 </span name="4.2.223">known to Desdemona: if she will return me my</span><br>
@@ -1514,17 +1514,17 @@
 </span name="4.2.226">will seek satisfaction of you.</span><br>
 </div>
 
-</span name="speech89"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.227">You have said now.</span><br>
 </div>
 
-</span name="speech90"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.228">Ay, and said nothing but what I protest intendment of doing.</span><br>
 </div>
 
-</span name="speech91"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.229">Why, now I see there's mettle in thee, and even from</span><br>
 </span name="4.2.230">this instant to build on thee a better opinion than</span><br>
@@ -1533,12 +1533,12 @@
 </span name="4.2.233">protest, I have dealt most directly in thy affair.</span><br>
 </div>
 
-</span name="speech92"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.234">It hath not appeared.</span><br>
 </div>
 
-</span name="speech93"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.235">I grant indeed it hath not appeared, and your</span><br>
 </span name="4.2.236">suspicion is not without wit and judgment. But,</span><br>
@@ -1550,24 +1550,24 @@
 </span name="4.2.242">engines for my life.</span><br>
 </div>
 
-</span name="speech94"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.243">Well, what is it? is it within reason and compass?</span><br>
 </div>
 
-</span name="speech95"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.244">Sir, there is especial commission come from Venice</span><br>
 </span name="4.2.245">to depute Cassio in Othello's place.</span><br>
 </div>
 
-</span name="speech96"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.246">Is that true? why, then Othello and Desdemona</span><br>
 </span name="4.2.247">return again to Venice.</span><br>
 </div>
 
-</span name="speech97"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.248">O, no; he goes into Mauritania and takes away with</span><br>
 </span name="4.2.249">him the fair Desdemona, unless his abode be</span><br>
@@ -1575,23 +1575,23 @@
 </span name="4.2.251">so determinate as the removing of Cassio.</span><br>
 </div>
 
-</span name="speech98"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.252">How do you mean, removing of him?</span><br>
 </div>
 
-</span name="speech99"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.253">Why, by making him uncapable of Othello's place;</span><br>
 </span name="4.2.254">knocking out his brains.</span><br>
 </div>
 
-</span name="speech100"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.255">And that you would have me to do?</span><br>
 </div>
 
-</span name="speech101"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.256">Ay, if you dare do yourself a profit and a right.</span><br>
 </span name="4.2.257">He sups to-night with a harlotry, and thither will I</span><br>
@@ -1607,12 +1607,12 @@
 </span name="4.2.267">to waste: about it.</span><br>
 </div>
 
-</span name="speech102"><b>RODERIGO</b></span>
+<b>RODERIGO</b>
 <div>
 </span name="4.2.268">I will hear further reason for this.</span><br>
 </div>
 
-</span name="speech103"><b>IAGO</b></span>
+<b>IAGO</b>
 <div>
 </span name="4.2.269">And you shall be satisfied.</span><br>
 <p><i>Exeunt</i></p>
@@ -1622,103 +1622,103 @@
 <i>Enter OTHELLO, LODOVICO, DESDEMONA, EMILIA and Attendants</i>
 </div>
 
-</span name="speech1"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.3.1">I do beseech you, sir, trouble yourself no further.</span><br>
 </div>
 
-</span name="speech2"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.3.2">O, pardon me: 'twill do me good to walk.</span><br>
 </div>
 
-</span name="speech3"><b>LODOVICO</b></span>
+<b>LODOVICO</b>
 <div>
 </span name="4.3.3">Madam, good night; I humbly thank your ladyship.</span><br>
 </div>
 
-</span name="speech4"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.4">Your honour is most welcome.</span><br>
 </div>
 
-</span name="speech5"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.3.5">Will you walk, sir?</span><br>
 </span name="4.3.6">O,--Desdemona,--</span><br>
 </div>
 
-</span name="speech6"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.7">My lord?</span><br>
 </div>
 
-</span name="speech7"><b>OTHELLO</b></span>
+<b>OTHELLO</b>
 <div>
 </span name="4.3.8">Get you to bed on the instant; I will be returned</span><br>
 </span name="4.3.9">forthwith: dismiss your attendant there: look it be done.</span><br>
 </div>
 
-</span name="speech8"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.10">I will, my lord.</span><br>
 <p><i>Exeunt OTHELLO, LODOVICO, and Attendants</i></p>
 </div>
 
-</span name="speech9"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.11">How goes it now? he looks gentler than he did.</span><br>
 </div>
 
-</span name="speech10"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.12">He says he will return incontinent:</span><br>
 </span name="4.3.13">He hath commanded me to go to bed,</span><br>
 </span name="4.3.14">And bade me to dismiss you.</span><br>
 </div>
 
-</span name="speech11"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.15">Dismiss me!</span><br>
 </div>
 
-</span name="speech12"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.16">It was his bidding: therefore, good Emilia,.</span><br>
 </span name="4.3.17">Give me my nightly wearing, and adieu:</span><br>
 </span name="4.3.18">We must not now displease him.</span><br>
 </div>
 
-</span name="speech13"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.19">I would you had never seen him!</span><br>
 </div>
 
-</span name="speech14"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.20">So would not I	my love doth so approve him,</span><br>
 </span name="4.3.21">That even his stubbornness, his cheques, his frowns--</span><br>
 </span name="4.3.22">Prithee, unpin me,--have grace and favour in them.</span><br>
 </div>
 
-</span name="speech15"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.23">I have laid those sheets you bade me on the bed.</span><br>
 </div>
 
-</span name="speech16"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.24">All's one. Good faith, how foolish are our minds!</span><br>
 </span name="4.3.25">If I do die before thee prithee, shroud me</span><br>
 </span name="4.3.26">In one of those same sheets.</span><br>
 </div>
 
-</span name="speech17"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.27">Come, come you talk.</span><br>
 </div>
 
-</span name="speech18"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.28">My mother had a maid call'd Barbara:</span><br>
 </span name="4.3.29">She was in love, and he she loved proved mad</span><br>
@@ -1730,34 +1730,34 @@
 </span name="4.3.35">And sing it like poor Barbara. Prithee, dispatch.</span><br>
 </div>
 
-</span name="speech19"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.36">Shall I go fetch your night-gown?</span><br>
 </div>
 
-</span name="speech20"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.37">No, unpin me here.</span><br>
 </span name="4.3.38">This Lodovico is a proper man.</span><br>
 </div>
 
-</span name="speech21"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.39">A very handsome man.</span><br>
 </div>
 
-</span name="speech22"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.40">He speaks well.</span><br>
 </div>
 
-</span name="speech23"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.41">I know a lady in Venice would have walked barefoot</span><br>
 </span name="4.3.42">to Palestine for a touch of his nether lip.</span><br>
 </div>
 
-</span name="speech24"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.43">[Singing]  The poor soul sat sighing by a sycamore tree,</span><br>
 </span name="4.3.44">Sing all a green willow:</span><br>
@@ -1776,12 +1776,12 @@
 </span name="4.3.55">Nay, that's not next.--Hark! who is't that knocks?</span><br>
 </div>
 
-</span name="speech25"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.56">It's the wind.</span><br>
 </div>
 
-</span name="speech26"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.57">[Singing]  I call'd my love false love; but what</span><br>
 </span name="4.3.58">said he then?</span><br>
@@ -1791,12 +1791,12 @@
 </span name="4.3.62">Doth that bode weeping?</span><br>
 </div>
 
-</span name="speech27"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.63">'Tis neither here nor there.</span><br>
 </div>
 
-</span name="speech28"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.64">I have heard it said so. O, these men, these men!</span><br>
 </span name="4.3.65">Dost thou in conscience think,--tell me, Emilia,--</span><br>
@@ -1804,49 +1804,49 @@
 </span name="4.3.67">In such gross kind?</span><br>
 </div>
 
-</span name="speech29"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.68">There be some such, no question.</span><br>
 </div>
 
-</span name="speech30"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.69">Wouldst thou do such a deed for all the world?</span><br>
 </div>
 
-</span name="speech31"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.70">Why, would not you?</span><br>
 </div>
 
-</span name="speech32"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.71">No, by this heavenly light!</span><br>
 </div>
 
-</span name="speech33"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.72">Nor I neither by this heavenly light;</span><br>
 </span name="4.3.73">I might do't as well i' the dark.</span><br>
 </div>
 
-</span name="speech34"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.74">Wouldst thou do such a deed for all the world?</span><br>
 </div>
 
-</span name="speech35"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.75">The world's a huge thing: it is a great price.</span><br>
 </span name="4.3.76">For a small vice.</span><br>
 </div>
 
-</span name="speech36"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.77">In troth, I think thou wouldst not.</span><br>
 </div>
 
-</span name="speech37"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.78">In troth, I think I should; and undo't when I had</span><br>
 </span name="4.3.79">done. Marry, I would not do such a thing for a</span><br>
@@ -1857,25 +1857,25 @@
 </span name="4.3.84">monarch? I should venture purgatory for't.</span><br>
 </div>
 
-</span name="speech38"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.85">Beshrew me, if I would do such a wrong</span><br>
 </span name="4.3.86">For the whole world.</span><br>
 </div>
 
-</span name="speech39"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.87">Why the wrong is but a wrong i' the world: and</span><br>
 </span name="4.3.88">having the world for your labour, tis a wrong in your</span><br>
 </span name="4.3.89">own world, and you might quickly make it right.</span><br>
 </div>
 
-</span name="speech40"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.90">I do not think there is any such woman.</span><br>
 </div>
 
-</span name="speech41"><b>EMILIA</b></span>
+<b>EMILIA</b>
 <div>
 </span name="4.3.91">Yes, a dozen; and as many to the vantage as would</span><br>
 </span name="4.3.92">store the world they played for.</span><br>
@@ -1899,7 +1899,7 @@
 </span name="4.3.110">The ills we do, their ills instruct us so.</span><br>
 </div>
 
-</span name="speech42"><b>DESDEMONA</b></span>
+<b>DESDEMONA</b>
 <div>
 </span name="4.3.111">Good night, good night: heaven me such uses send,</span><br>
 </span name="4.3.112">Not to pick bad from bad, but by bad mend!</span><br>
