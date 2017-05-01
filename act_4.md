@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="screen" href="./entire_play_files/style.css">
+
 <p>
 </p><h3>ACT IV</h3>
 <h3>SCENE I. Cyprus. Before the castle.</h3>
