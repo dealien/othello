@@ -1,5 +1,6 @@
-<p>
-</p><h3>ACT V</h3>
+<link rel="stylesheet" type="text/css" media="screen" href="./entire_play_files/style.css">
+
+<h3>ACT V</h3>
 <h3>SCENE I. Cyprus. A street.</h3>
 <p></p><div>
 <i>Enter IAGO and RODERIGO</i>
