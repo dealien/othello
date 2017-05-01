@@ -7,17 +7,13 @@
 </div>
 
 ##### RODERIGO
-<div>
-</span name="1.1.1">Tush! never tell me; I take it much unkindly</span><br>
-</span name="1.1.2">That thou, Iago, who hast had my purse</span><br>
-</span name="1.1.3">As if the strings were thine, shouldst know of this.</span><br>
-</div>
+Tush! never tell me; I take it much unkindly<br>
+That thou, Iago, who hast had my purse<br>
+As if the strings were thine, shouldst know of this.<br>
 
 ##### IAGO
-<div>
-</span name="1.1.4">'Sblood, but you will not hear me:</span><br>
-</span name="1.1.5">If ever I did dream of such a matter, Abhor me.</span><br>
-</div>
+'Sblood, but you will not hear me:<br>
+If ever I did dream of such a matter, Abhor me.<br>
 
 ##### RODERIGO
 <div>
