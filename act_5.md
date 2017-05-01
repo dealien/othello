@@ -3,7 +3,7 @@
 <h3>ACT V</h3>
 <h3>SCENE I. Cyprus. A street.</h3>
 <p></p>
-<i>Enter IAGO and RODERIGO</i>
+<i>Enter IAGO and RODERIGO</i><br>
 
 <b>IAGO</b>
 
@@ -20,7 +20,7 @@ Be near at hand; I may miscarry in't.<br>
 <b>IAGO</b>
 
 Here, at thy hand: be bold, and take thy stand.<br>
-<p><i>Retires</i></p>
+<p><i>Retires</i><br></p>
 
 <b>RODERIGO</b>
 
@@ -42,30 +42,30 @@ He hath a daily beauty in his life<br>
 That makes me ugly; and, besides, the Moor<br>
 May unfold me to him; there stand I in much peril:<br>
 No, he must die. But so: I hear him coming.<br>
-<p><i>Enter CASSIO</i></p>
+<p><i>Enter CASSIO</i><br></p>
 
 <b>RODERIGO</b>
 
 I know his gait, 'tis he.--Villain, thou diest!<br>
-<p><i>Makes a pass at CASSIO</i></p>
+<p><i>Makes a pass at CASSIO</i><br></p>
 
 <b>CASSIO</b>
 
 That thrust had been mine enemy indeed,<br>
 But that my coat is better than thou know'st<br>
 I will make proof of thine.<br>
-<p><i>Draws, and wounds RODERIGO</i></p>
+<p><i>Draws, and wounds RODERIGO</i><br></p>
 
 <b>RODERIGO</b>
 
 O, I am slain!<br>
-<p><i>IAGO from behind wounds CASSIO in the leg, and exit</i></p>
+<p><i>IAGO from behind wounds CASSIO in the leg, and exit</i><br></p>
 
 <b>CASSIO</b>
 
 I am maim'd for ever. Help, ho! murder! murder!<br>
-<p><i>Falls</i></p>
-<p><i>Enter OTHELLO</i></p>
+<p><i>Falls</i><br></p>
+<p><i>Enter OTHELLO</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -91,8 +91,8 @@ Thou teachest me. Minion, your dear lies dead,<br>
 And your unblest fate hies: strumpet, I come.<br>
 Forth of my heart those charms, thine eyes, are blotted;<br>
 Thy bed, lust-stain'd, shall with lust's blood be spotted.<br>
-<p><i>Exit</i></p>
-<p><i>Enter LODOVICO and GRATIANO</i></p>
+<p><i>Exit</i><br></p>
+<p><i>Enter LODOVICO and GRATIANO</i><br></p>
 
 <b>CASSIO</b>
 
@@ -127,7 +127,7 @@ Nobody come? then shall I bleed to death.<br>
 <b>LODOVICO</b>
 
 Hark!<br>
-<p><i>Re-enter IAGO, with a light</i></p>
+<p><i>Re-enter IAGO, with a light</i><br></p>
 
 <b>GRATIANO</b>
 
@@ -183,7 +183,7 @@ And cannot make away.<br>
 
 O treacherous villains!<br>
 What are you there? come in, and give some help.<br>
-<p><i>To LODOVICO and GRATIANO</i></p>
+<p><i>To LODOVICO and GRATIANO</i><br></p>
 
 <b>RODERIGO</b>
 
@@ -196,7 +196,7 @@ That's one of them.<br>
 <b>IAGO</b>
 
 O murderous slave! O villain!<br>
-<p><i>Stabs RODERIGO</i></p>
+<p><i>Stabs RODERIGO</i><br></p>
 
 <b>RODERIGO</b>
 
@@ -240,7 +240,7 @@ My leg is cut in two.<br>
 
 Marry, heaven forbid!<br>
 Light, gentlemen; I'll bind it with my shirt.<br>
-<p><i>Enter BIANCA</i></p>
+<p><i>Enter BIANCA</i><br></p>
 
 <b>BIANCA</b>
 
@@ -319,14 +319,14 @@ Roderigo!<br>
 <b>IAGO</b>
 
 He, he 'tis he.<br>
-<p><i>A chair brought in</i></p>
+<p><i>A chair brought in</i><br></p>
 O, that's well said; the chair!<br>
 
 <b>GRATIANO</b>
 
 Some good man bear him carefully from hence;<br>
 I'll fetch the general's surgeon.<br>
-<p><i>To BIANCA</i></p>
+<p><i>To BIANCA</i><br></p>
 For you, mistress,<br>
 Save you your labour. He that lies slain<br>
 here, Cassio,<br>
@@ -340,14 +340,14 @@ None in the world; nor do I know the man.<br>
 
 [To BIANCA]  What, look you pale? O, bear him out<br>
 o' the air.<br>
-<p><i>CASSIO and RODERIGO are borne off</i></p>
+<p><i>CASSIO and RODERIGO are borne off</i><br></p>
 Stay you, good gentlemen. Look you pale, mistress?<br>
 Do you perceive the gastness of her eye?<br>
 Nay, if you stare, we shall hear more anon.<br>
 Behold her well; I pray you, look upon her:<br>
 Do you see, gentlemen? nay, guiltiness will speak,<br>
 Though tongues were out of use.<br>
-<p><i>Enter EMILIA</i></p>
+<p><i>Enter EMILIA</i><br></p>
 
 <b>EMILIA</b>
 
@@ -367,7 +367,7 @@ Alas, good gentleman! alas, good Cassio!<br>
 
 This is the fruit of whoring. Prithee, Emilia,<br>
 Go know of Cassio where he supp'd to-night.<br>
-<p><i>To BIANCA</i></p>
+<p><i>To BIANCA</i><br></p>
 What, do you shake at that?<br>
 
 <b>BIANCA</b>
@@ -398,14 +398,14 @@ Come, mistress, you must tell's another tale.<br>
 Emilia run you to the citadel,<br>
 And tell my lord and lady what hath happ'd.<br>
 Will you go on? I pray.<br>
-<p><i>Aside</i></p>
+<p><i>Aside</i><br></p>
 This is the night<br>
 That either makes me or fordoes me quite.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE II. A bedchamber in the castle: DESDEMONA in bed asleep;</h3>
 
 a light burning.<br>
-<p><i>Enter OTHELLO</i></p>
+<p><i>Enter OTHELLO</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -424,7 +424,7 @@ I know not where is that Promethean heat<br>
 That can thy light relume. When I have pluck'd the rose,<br>
 I cannot give it vital growth again.<br>
 It must needs wither: I'll smell it on the tree.<br>
-<p><i>Kissing her</i></p>
+<p><i>Kissing her</i><br></p>
 Ah balmy breath, that dost almost persuade<br>
 Justice to break her sword! One more, one more.<br>
 Be thus when thou art dead, and I will kill thee,<br>
@@ -661,7 +661,7 @@ But while I say one prayer!<br>
 <b>OTHELLO</b>
 
 It is too late.<br>
-<p><i>He stifles her</i></p>
+<p><i>He stifles her</i><br></p>
 
 <b>EMILIA</b>
 
@@ -709,8 +709,8 @@ That I may speak with you, O, good my lord!<br>
 I had forgot thee: O, come in, Emilia;<br>
 Soft; by and by. Let me the curtains draw.<br>
 Where art thou?<br>
-<p><i>Unlocks the door</i></p>
-<p><i>Enter EMILIA</i></p>
+<p><i>Unlocks the door</i><br></p>
+<p><i>Enter EMILIA</i><br></p>
 What's the matter with thee now?<br>
 
 <b>EMILIA</b>
@@ -780,7 +780,7 @@ O, who hath done this deed?<br>
 
 Nobody; I myself. Farewell<br>
 Commend me to my kind lord: O, farewell!<br>
-<p><i>Dies</i></p>
+<p><i>Dies</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -908,7 +908,7 @@ As ignorant as dirt! thou hast done a deed--<br>
 I care not for thy sword; I'll make thee known,<br>
 Though I lost twenty lives.--Help! help, ho! help!<br>
 The Moor hath kill'd my mistress! Murder! murder!<br>
-<p><i>Enter MONTANO, GRATIANO, IAGO, and others</i></p>
+<p><i>Enter MONTANO, GRATIANO, IAGO, and others</i><br></p>
 
 <b>MONTANO</b>
 
@@ -998,7 +998,7 @@ Perchance, Iago, I will ne'er go home.<br>
 <b>OTHELLO</b>
 
 O! O! O!<br>
-<p><i>He falls on the bed</i></p>
+<p><i>He falls on the bed</i><br></p>
 
 <b>EMILIA</b>
 
@@ -1055,7 +1055,7 @@ Be wise, and get you home.<br>
 <b>EMILIA</b>
 
 I will not.<br>
-<p><i>IAGO offers to stab EMILIA</i></p>
+<p><i>IAGO offers to stab EMILIA</i><br></p>
 
 <b>GRATIANO</b>
 
@@ -1093,7 +1093,7 @@ Do with so good a woman?<br>
 
 Are there no stones in heaven<br>
 But what serve for the thunder?--Precious villain!<br>
-<p><i>He runs at IAGO  IAGO, from behind, stabs EMILIA, and exit</i></p>
+<p><i>He runs at IAGO  IAGO, from behind, stabs EMILIA, and exit</i><br></p>
 
 <b>GRATIANO</b>
 
@@ -1114,7 +1114,7 @@ Which I have here recover'd from the Moor:<br>
 Come, guard the door without; let him not pass,<br>
 But kill him rather. I'll after that same villain,<br>
 For 'tis a damned slave.<br>
-<p><i>Exeunt MONTANO and GRATIANO</i></p>
+<p><i>Exeunt MONTANO and GRATIANO</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -1128,12 +1128,12 @@ Let it go all.<br>
 What did thy song bode, lady?<br>
 Hark, canst thou hear me? I will play the swan.<br>
 And die in music.<br>
-<p><i>Singing</i></p>
+<p><i>Singing</i><br></p>
 Willow, willow, willow,--<br>
 Moor, she was chaste; she loved thee, cruel Moor;<br>
 So come my soul to bliss, as I speak true;<br>
 So speaking as I think, I die, I die.<br>
-<p><i>Dies</i></p>
+<p><i>Dies</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -1150,7 +1150,7 @@ Thou hast no weapon, and perforce must suffer.<br>
 
 Look in upon me then and speak with me,<br>
 Or, naked as I am, I will assault thee.<br>
-<p><i>Re-enter GRATIANO</i></p>
+<p><i>Re-enter GRATIANO</i><br></p>
 
 <b>GRATIANO</b>
 
@@ -1182,7 +1182,7 @@ Blow me about in winds! roast me in sulphur!<br>
 Wash me in steep-down gulfs of liquid fire!<br>
 O Desdemona! Desdemona! dead!<br>
 Oh! Oh! Oh!<br>
-<p><i>Enter LODOVICO. MONTANO, CASSIO carried in a chair, and Officers with IAGO, prisoner</i></p>
+<p><i>Enter LODOVICO. MONTANO, CASSIO carried in a chair, and Officers with IAGO, prisoner</i><br></p>
 
 <b>LODOVICO</b>
 
@@ -1200,7 +1200,7 @@ Where is that viper? bring the villain forth.<br>
 
 I look down towards his feet; but that's a fable.<br>
 If that thou best a devil, I cannot kill thee.<br>
-<p><i>Wounds IAGO</i></p>
+<p><i>Wounds IAGO</i><br></p>
 
 <b>LODOVICO</b>
 
@@ -1346,7 +1346,7 @@ Where a malignant and a turban'd Turk<br>
 Beat a Venetian and traduced the state,<br>
 I took by the throat the circumcised dog,<br>
 And smote him, thus.<br>
-<p><i>Stabs himself</i></p>
+<p><i>Stabs himself</i><br></p>
 
 <b>LODOVICO</b>
 
@@ -1360,7 +1360,7 @@ O bloody period!<br>
 
 I kiss'd thee ere I kill'd thee: no way but this;<br>
 Killing myself, to die upon a kiss.<br>
-<p><i>Falls on the bed, and dies</i></p>
+<p><i>Falls on the bed, and dies</i><br></p>
 
 <b>CASSIO</b>
 
@@ -1380,4 +1380,4 @@ Remains the censure of this hellish villain;<br>
 The time, the place, the torture: O, enforce it!<br>
 Myself will straight aboard: and to the state<br>
 This heavy act with heavy heart relate.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>

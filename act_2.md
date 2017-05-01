@@ -3,7 +3,7 @@
 <h3>ACT II</h3>
 <h3>SCENE I. A Sea-port in Cyprus. An open place near the quay.</h3>
 <p></p>
-<i>Enter MONTANO and two Gentlemen</i>
+<i>Enter MONTANO and two Gentlemen</i><br>
 
 <b>MONTANO</b>
 
@@ -39,7 +39,7 @@ On the enchafed flood.<br>
 If that the Turkish fleet<br>
 Be not enshelter'd and embay'd, they are drown'd:<br>
 It is impossible they bear it out.<br>
-<p><i>Enter a third Gentleman</i></p>
+<p><i>Enter a third Gentleman</i><br></p>
 
 <b>Third Gentleman</b>
 
@@ -87,7 +87,7 @@ An indistinct regard.<br>
 Come, let's do so:<br>
 For every minute is expectancy<br>
 Of more arrivance.<br>
-<p><i>Enter CASSIO</i></p>
+<p><i>Enter CASSIO</i><br></p>
 
 <b>CASSIO</b>
 
@@ -106,8 +106,8 @@ His bark is stoutly timber'd, his pilot<br>
 Of very expert and approved allowance;<br>
 Therefore my hopes, not surfeited to death,<br>
 Stand in bold cure.<br>
-<p><i>A cry within 'A sail, a sail, a sail!'</i></p>
-<p><i>Enter a fourth Gentleman</i></p>
+<p><i>A cry within 'A sail, a sail, a sail!'</i><br></p>
+<p><i>Enter a fourth Gentleman</i><br></p>
 
 <b>CASSIO</b>
 
@@ -121,7 +121,7 @@ Stand ranks of people, and they cry 'A sail!'<br>
 <b>CASSIO</b>
 
 My hopes do shape him for the governor.<br>
-<p><i>Guns heard</i></p>
+<p><i>Guns heard</i><br></p>
 
 <b>Second Gentlemen</b>
 
@@ -136,7 +136,7 @@ And give us truth who 'tis that is arrived.<br>
 <b>Second Gentleman</b>
 
 I shall.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>MONTANO</b>
 
@@ -149,7 +149,7 @@ That paragons description and wild fame;<br>
 One that excels the quirks of blazoning pens,<br>
 And in the essential vesture of creation<br>
 Does tire the ingener.<br>
-<p><i>Re-enter second Gentleman</i></p>
+<p><i>Re-enter second Gentleman</i><br></p>
 How now! who has put in?<br>
 
 <b>Second Gentleman</b>
@@ -181,7 +181,7 @@ That he may bless this bay with his tall ship,<br>
 Make love's quick pants in Desdemona's arms,<br>
 Give renew'd fire to our extincted spirits<br>
 And bring all Cyprus comfort!<br>
-<p><i>Enter DESDEMONA, EMILIA, IAGO, RODERIGO, and Attendants</i></p>
+<p><i>Enter DESDEMONA, EMILIA, IAGO, RODERIGO, and Attendants</i><br></p>
 O, behold,<br>
 The riches of the ship is come on shore!<br>
 Ye men of Cyprus, let her have your knees.<br>
@@ -207,7 +207,7 @@ O, but I fear--How lost you company?<br>
 
 The great contention of the sea and skies<br>
 Parted our fellowship--But, hark! a sail.<br>
-<p><i>Within 'A sail, a sail!' Guns heard</i></p>
+<p><i>Within 'A sail, a sail!' Guns heard</i><br></p>
 
 <b>Second Gentleman</b>
 
@@ -217,14 +217,14 @@ This likewise is a friend.<br>
 <b>CASSIO</b>
 
 See for the news.<br>
-<p><i>Exit Gentleman</i></p>
+<p><i>Exit Gentleman</i><br></p>
 Good ancient, you are welcome.<br>
-<p><i>To EMILIA</i></p>
+<p><i>To EMILIA</i><br></p>
 Welcome, mistress.<br>
 Let it not gall your patience, good Iago,<br>
 That I extend my manners; 'tis my breeding<br>
 That gives me this bold show of courtesy.<br>
-<p><i>Kissing her</i></p>
+<p><i>Kissing her</i><br></p>
 
 <b>IAGO</b>
 
@@ -392,7 +392,7 @@ oft, which now again you are most apt to play the<br>
 sir in. Very good; well kissed! an excellent<br>
 courtesy! 'tis so, indeed. Yet again your fingers<br>
 to your lips? would they were clyster-pipes for your sake!<br>
-<p><i>Trumpet within</i></p>
+<p><i>Trumpet within</i><br></p>
 The Moor! I know his trumpet.<br>
 
 <b>CASSIO</b>
@@ -406,7 +406,7 @@ Let's meet him and receive him.<br>
 <b>CASSIO</b>
 
 Lo, where he comes!<br>
-<p><i>Enter OTHELLO and Attendants</i></p>
+<p><i>Enter OTHELLO and Attendants</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -442,7 +442,7 @@ Amen to that, sweet powers!<br>
 I cannot speak enough of this content;<br>
 It stops me here; it is too much of joy:<br>
 And this, and this, the greatest discords be<br>
-<p><i>Kissing her</i></p>
+<p><i>Kissing her</i><br></p>
 That e'er our hearts shall make!<br>
 
 <b>IAGO</b>
@@ -466,7 +466,7 @@ Bring thou the master to the citadel;<br>
 He is a good one, and his worthiness<br>
 Does challenge much respect. Come, Desdemona,<br>
 Once more, well met at Cyprus.<br>
-<p><i>Exeunt OTHELLO, DESDEMONA, and Attendants</i></p>
+<p><i>Exeunt OTHELLO, DESDEMONA, and Attendants</i><br></p>
 
 <b>IAGO</b>
 
@@ -578,7 +578,7 @@ I must fetch his necessaries ashore. Farewell.<br>
 <b>RODERIGO</b>
 
 Adieu.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>IAGO</b>
 
@@ -609,10 +609,10 @@ For making him egregiously an ass<br>
 And practising upon his peace and quiet<br>
 Even to madness. 'Tis here, but yet confused:<br>
 Knavery's plain face is never seen tin used.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 <h3>SCENE II. A street.</h3>
 <p></p>
-<i>Enter a Herald with a proclamation; People following</i>
+<i>Enter a Herald with a proclamation; People following</i><br>
 
 <b>Herald</b>
 
@@ -628,10 +628,10 @@ proclaimed. All offices are open, and there is full<br>
 liberty of feasting from this present hour of five<br>
 till the bell have told eleven. Heaven bless the<br>
 isle of Cyprus and our noble general Othello!<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE III. A hall in the castle.</h3>
 <p></p>
-<i>Enter OTHELLO, DESDEMONA, CASSIO, and Attendants</i>
+<i>Enter OTHELLO, DESDEMONA, CASSIO, and Attendants</i><br>
 
 <b>OTHELLO</b>
 
@@ -650,13 +650,13 @@ Will I look to't.<br>
                   Iago is most honest.<br>
 Michael, good night: to-morrow with your earliest<br>
 Let me have speech with you.<br>
-<p><i>To DESDEMONA</i></p>
+<p><i>To DESDEMONA</i><br></p>
 Come, my dear love,<br>
 The purchase made, the fruits are to ensue;<br>
 That profit's yet to come 'tween me and you.<br>
 Good night.<br>
-<p><i>Exeunt OTHELLO, DESDEMONA, and Attendants</i></p>
-<p><i>Enter IAGO</i></p>
+<p><i>Exeunt OTHELLO, DESDEMONA, and Attendants</i><br></p>
+<p><i>Enter IAGO</i><br></p>
 
 <b>CASSIO</b>
 
@@ -741,7 +741,7 @@ Here at the door; I pray you, call them in.<br>
 <b>CASSIO</b>
 
 I'll do't; but it dislikes me.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>IAGO</b>
 
@@ -761,7 +761,7 @@ Am I to put our Cassio in some action<br>
 That may offend the isle.--But here they come:<br>
 If consequence do but approve my dream,<br>
 My boat sails freely, both with wind and stream.<br>
-<p><i>Re-enter CASSIO; with him MONTANO and Gentlemen; servants following with wine</i></p>
+<p><i>Re-enter CASSIO; with him MONTANO and Gentlemen; servants following with wine</i><br></p>
 
 <b>CASSIO</b>
 
@@ -775,7 +775,7 @@ a soldier.<br>
 <b>IAGO</b>
 
 Some wine, ho!<br>
-<p><i>Sings</i></p>
+<p><i>Sings</i><br></p>
 And let me the canakin clink, clink;<br>
 And let me the canakin clink<br>
 A soldier's a man;<br>
@@ -871,7 +871,7 @@ Excellent well.<br>
 <b>CASSIO</b>
 
 Why, very well then; you must not think then that I am drunk.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>MONTANO</b>
 
@@ -905,13 +905,13 @@ The general were put in mind of it.<br>
 Perhaps he sees it not; or his good nature<br>
 Prizes the virtue that appears in Cassio,<br>
 And looks not on his evils: is not this true?<br>
-<p><i>Enter RODERIGO</i></p>
+<p><i>Enter RODERIGO</i><br></p>
 
 <b>IAGO</b>
 
 [Aside to him]  How now, Roderigo!<br>
 I pray you, after the lieutenant; go.<br>
-<p><i>Exit RODERIGO</i></p>
+<p><i>Exit RODERIGO</i><br></p>
 
 <b>MONTANO</b>
 
@@ -926,8 +926,8 @@ So to the Moor.<br>
                   Not I, for this fair island:<br>
 I do love Cassio well; and would do much<br>
 To cure him of this evil--But, hark! what noise?<br>
-<p><i>Cry within: 'Help! help!'</i></p>
-<p><i>Re-enter CASSIO, driving in RODERIGO</i></p>
+<p><i>Cry within: 'Help! help!'</i><br></p>
+<p><i>Re-enter CASSIO, driving in RODERIGO</i><br></p>
 
 <b>CASSIO</b>
 
@@ -949,12 +949,12 @@ Beat me!<br>
 <b>CASSIO</b>
 
        Dost thou prate, rogue?<br>
-<p><i>Striking RODERIGO</i></p>
+<p><i>Striking RODERIGO</i><br></p>
 
 <b>MONTANO</b>
 
 Nay, good lieutenant;<br>
-<p><i>Staying him</i></p>
+<p><i>Staying him</i><br></p>
 I pray you, sir, hold your hand.<br>
 
 <b>CASSIO</b>
@@ -970,20 +970,20 @@ you're drunk.<br>
 <b>CASSIO</b>
 
 Drunk!<br>
-<p><i>They fight</i></p>
+<p><i>They fight</i><br></p>
 
 <b>IAGO</b>
 
 [Aside to RODERIGO]  Away, I say; go out, and cry a mutiny.<br>
-<p><i>Exit RODERIGO</i></p>
+<p><i>Exit RODERIGO</i><br></p>
 Nay, good lieutenant,--alas, gentlemen;--<br>
 Help, ho!--Lieutenant,--sir,--Montano,--sir;<br>
 Help, masters!--Here's a goodly watch indeed!<br>
-<p><i>Bell rings</i></p>
+<p><i>Bell rings</i><br></p>
 Who's that which rings the bell?--Diablo, ho!<br>
 The town will rise: God's will, lieutenant, hold!<br>
 You will be shamed for ever.<br>
-<p><i>Re-enter OTHELLO and Attendants</i></p>
+<p><i>Re-enter OTHELLO and Attendants</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -992,7 +992,7 @@ What is the matter here?<br>
 <b>MONTANO</b>
 
 'Zounds, I bleed still; I am hurt to the death.<br>
-<p><i>Faints</i></p>
+<p><i>Faints</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -1118,7 +1118,7 @@ I know, Iago,<br>
 Thy honesty and love doth mince this matter,<br>
 Making it light to Cassio. Cassio, I love thee<br>
 But never more be officer of mine.<br>
-<p><i>Re-enter DESDEMONA, attended</i></p>
+<p><i>Re-enter DESDEMONA, attended</i><br></p>
 Look, if my gentle love be not raised up!<br>
 I'll make thee an example.<br>
 
@@ -1131,12 +1131,12 @@ What's the matter?<br>
 All's well now, sweeting; come away to bed.<br>
 Sir, for your hurts, myself will be your surgeon:<br>
 Lead him off.<br>
-<p><i>To MONTANO, who is led off</i></p>
+<p><i>To MONTANO, who is led off</i><br></p>
 Iago, look with care about the town,<br>
 And silence those whom this vile brawl distracted.<br>
 Come, Desdemona: 'tis the soldiers' life<br>
 To have their balmy slumbers waked with strife.<br>
-<p><i>Exeunt all but IAGO and CASSIO</i></p>
+<p><i>Exeunt all but IAGO and CASSIO</i><br></p>
 
 <b>IAGO</b>
 
@@ -1274,7 +1274,7 @@ I am desperate of my fortunes if they cheque me here.<br>
 You are in the right. Good night, lieutenant; I<br>
 must to the watch.<br>
 CASSIO: Good night, honest Iago.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>IAGO</b>
 
@@ -1305,7 +1305,7 @@ She shall undo her credit with the Moor.<br>
 So will I turn her virtue into pitch,<br>
 And out of her own goodness make the net<br>
 That shall enmesh them all.<br>
-<p><i>Re-enter RODERIGO</i></p>
+<p><i>Re-enter RODERIGO</i><br></p>
 How now, Roderigo!<br>
 
 <b>RODERIGO</b>
@@ -1332,7 +1332,7 @@ Pleasure and action make the hours seem short.<br>
 Retire thee; go where thou art billeted:<br>
 Away, I say; thou shalt know more hereafter:<br>
 Nay, get thee gone.<br>
-<p><i>Exit RODERIGO</i></p>
+<p><i>Exit RODERIGO</i><br></p>
 Two things are to be done:<br>
 My wife must move for Cassio to her mistress;<br>
 I'll set her on;<br>
@@ -1340,4 +1340,4 @@ Myself the while to draw the Moor apart,<br>
 And bring him jump when he may Cassio find<br>
 Soliciting his wife: ay, that's the way<br>
 Dull not device by coldness and delay.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>

@@ -3,7 +3,7 @@
 <h3>ACT IV</h3>
 <h3>SCENE I. Cyprus. Before the castle.</h3>
 <p></p>
-<i>Enter OTHELLO and IAGO</i>
+<i>Enter OTHELLO and IAGO</i><br>
 
 <b>IAGO</b>
 
@@ -128,7 +128,7 @@ Nature would not invest herself in such shadowing<br>
 passion without some instruction. It is not words<br>
 that shake me thus. Pish! Noses, ears, and lips.<br>
 --Is't possible?--Confess--handkerchief!--O devil!--<br>
-<p><i>Falls in a trance</i></p>
+<p><i>Falls in a trance</i><br></p>
 
 <b>IAGO</b>
 
@@ -137,7 +137,7 @@ My medicine, work! Thus credulous fools are caught;<br>
 And many worthy and chaste dames even thus,<br>
 All guiltless, meet reproach. What, ho! my lord!<br>
 My lord, I say! Othello!<br>
-<p><i>Enter CASSIO</i></p>
+<p><i>Enter CASSIO</i><br></p>
 How now, Cassio!<br>
 
 <b>CASSIO</b>
@@ -162,7 +162,7 @@ Breaks out to savage madness. Look he stirs:<br>
 Do you withdraw yourself a little while,<br>
 He will recover straight: when he is gone,<br>
 I would on great occasion speak with you.<br>
-<p><i>Exit CASSIO</i></p>
+<p><i>Exit CASSIO</i><br></p>
 How is it, general? have you not hurt your head?<br>
 
 <b>OTHELLO</b>
@@ -232,7 +232,7 @@ But--dost thou hear?--most bloody.<br>
 
 That's not amiss;<br>
 But yet keep time in all. Will you withdraw?<br>
-<p><i>OTHELLO retires</i></p>
+<p><i>OTHELLO retires</i><br></p>
 Now will I question Cassio of Bianca,<br>
 A housewife that by selling her desires<br>
 Buys herself bread and clothes: it is a creature<br>
@@ -240,7 +240,7 @@ That dotes on Cassio; as 'tis the strumpet's plague<br>
 To beguile many and be beguiled by one:<br>
 He, when he hears of her, cannot refrain<br>
 From the excess of laughter. Here he comes:<br>
-<p><i>Re-enter CASSIO</i></p>
+<p><i>Re-enter CASSIO</i><br></p>
 As he shall smile, Othello shall go mad;<br>
 And his unbookish jealousy must construe<br>
 Poor Cassio's smiles, gestures and light behavior,<br>
@@ -254,7 +254,7 @@ Whose want even kills me.<br>
 <b>IAGO</b>
 
 Ply Desdemona well, and you are sure on't.<br>
-<p><i>Speaking lower</i></p>
+<p><i>Speaking lower</i><br></p>
 Now, if this suit lay in Bianco's power,<br>
 How quickly should you speed!<br>
 
@@ -370,7 +370,7 @@ Before me! look, where she comes.<br>
 <b>CASSIO</b>
 
 'Tis such another fitchew! marry a perfumed one.<br>
-<p><i>Enter BIANCA</i></p>
+<p><i>Enter BIANCA</i><br></p>
 What do you mean by this haunting of me?<br>
 
 <b>BIANCA</b>
@@ -396,7 +396,7 @@ By heaven, that should be my handkerchief!<br>
 
 An you'll come to supper to-night, you may; an you<br>
 will not, come when you are next prepared for.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>IAGO</b>
 
@@ -426,7 +426,7 @@ Prithee, come; will you?<br>
 <b>IAGO</b>
 
 Go to; say no more.<br>
-<p><i>Exit CASSIO</i></p>
+<p><i>Exit CASSIO</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -545,14 +545,14 @@ shall hear more by midnight.<br>
 <b>OTHELLO</b>
 
 Excellent good.<br>
-<p><i>A trumpet within</i></p>
+<p><i>A trumpet within</i><br></p>
 What trumpet is that same?<br>
 
 <b>IAGO</b>
 
 Something from Venice, sure. 'Tis Lodovico<br>
 Come from the duke: and, see, your wife is with him.<br>
-<p><i>Enter LODOVICO, DESDEMONA, and Attendants</i></p>
+<p><i>Enter LODOVICO, DESDEMONA, and Attendants</i><br></p>
 
 <b>LODOVICO</b>
 
@@ -565,12 +565,12 @@ With all my heart, sir.<br>
 <b>LODOVICO</b>
 
 The duke and senators of Venice greet you.<br>
-<p><i>Gives him a letter</i></p>
+<p><i>Gives him a letter</i><br></p>
 
 <b>OTHELLO</b>
 
 I kiss the instrument of their pleasures.<br>
-<p><i>Opens the letter, and reads</i></p>
+<p><i>Opens the letter, and reads</i><br></p>
 
 <b>DESDEMONA</b>
 
@@ -682,7 +682,7 @@ Out of my sight!<br>
 <b>DESDEMONA</b>
 
 I will not stay to offend you.<br>
-<p><i>Going</i></p>
+<p><i>Going</i><br></p>
 
 <b>LODOVICO</b>
 
@@ -716,11 +716,11 @@ Concerning this, sir,--O  well-painted passion!--<br>
 I am commanded home. Get you away;<br>
 I'll send for you anon. Sir, I obey the mandate,<br>
 And will return to Venice. Hence, avaunt!<br>
-<p><i>Exit DESDEMONA</i></p>
+<p><i>Exit DESDEMONA</i><br></p>
 Cassio shall have my place. And, sir, tonight,<br>
 I do entreat that we may sup together:<br>
 You are welcome, sir, to Cyprus.--Goats and monkeys!<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>LODOVICO</b>
 
@@ -771,10 +771,10 @@ And mark how he continues.<br>
 <b>LODOVICO</b>
 
 I am sorry that I am deceived in him.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE II. A room in the castle.</h3>
 <p></p>
-<i>Enter OTHELLO and EMILIA</i>
+<i>Enter OTHELLO and EMILIA</i><br>
 
 <b>OTHELLO</b>
 
@@ -835,12 +835,12 @@ Is foul as slander.<br>
 <b>OTHELLO</b>
 
 Bid her come hither: go.<br>
-<p><i>Exit EMILIA</i></p>
+<p><i>Exit EMILIA</i><br></p>
 She says enough; yet she's a simple bawd<br>
 That cannot say as much. This is a subtle whore,<br>
 A closet lock and key of villanous secrets<br>
 And yet she'll kneel and pray; I have seen her do't.<br>
-<p><i>Enter DESDEMONA with EMILIA</i></p>
+<p><i>Enter DESDEMONA with EMILIA</i><br></p>
 
 <b>DESDEMONA</b>
 
@@ -869,7 +869,7 @@ Look in my face.<br>
 Leave procreants alone and shut the door;<br>
 Cough, or cry 'hem,' if any body come:<br>
 Your mystery, your mystery: nay, dispatch.<br>
-<p><i>Exit EMILIA</i></p>
+<p><i>Exit EMILIA</i><br></p>
 
 <b>DESDEMONA</b>
 
@@ -1005,15 +1005,15 @@ Is't possible?<br>
 I cry you mercy, then:<br>
 I took you for that cunning whore of Venice<br>
 That married with Othello.<br>
-<p><i>Raising his voice</i></p>
+<p><i>Raising his voice</i><br></p>
 You, mistress,<br>
 That have the office opposite to Saint Peter,<br>
 And keep the gate of hell!<br>
-<p><i>Re-enter EMILIA</i></p>
+<p><i>Re-enter EMILIA</i><br></p>
 You, you, ay, you!<br>
 We have done our course; there's money for your pains:<br>
 I pray you, turn the key and keep our counsel.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>EMILIA</b>
 
@@ -1055,14 +1055,14 @@ And call thy husband hither.<br>
 <b>EMILIA</b>
 
 Here's a change indeed!<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>DESDEMONA</b>
 
 'Tis meet I should be used so, very meet.<br>
 How have I been behaved, that he might stick<br>
 The small'st opinion on my least misuse?<br>
-<p><i>Re-enter EMILIA with IAGO</i></p>
+<p><i>Re-enter EMILIA with IAGO</i><br></p>
 
 <b>IAGO</b>
 
@@ -1208,12 +1208,12 @@ If 'twere no other--<br>
 <b>IAGO</b>
 
 'Tis but so, I warrant.<br>
-<p><i>Trumpets within</i></p>
+<p><i>Trumpets within</i><br></p>
 Hark, how these instruments summon to supper!<br>
 The messengers of Venice stay the meat;<br>
 Go in, and weep not; all things shall be well.<br>
-<p><i>Exeunt DESDEMONA and EMILIA</i></p>
-<p><i>Enter RODERIGO</i></p>
+<p><i>Exeunt DESDEMONA and EMILIA</i><br></p>
+<p><i>Enter RODERIGO</i><br></p>
 How now, Roderigo!<br>
 
 <b>RODERIGO</b>
@@ -1364,10 +1364,10 @@ I will hear further reason for this.<br>
 <b>IAGO</b>
 
 And you shall be satisfied.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE III. Another room In the castle.</h3>
 <p></p>
-<i>Enter OTHELLO, LODOVICO, DESDEMONA, EMILIA and Attendants</i>
+<i>Enter OTHELLO, LODOVICO, DESDEMONA, EMILIA and Attendants</i><br>
 
 <b>LODOVICO</b>
 
@@ -1402,7 +1402,7 @@ forthwith: dismiss your attendant there: look it be done.<br>
 <b>DESDEMONA</b>
 
 I will, my lord.<br>
-<p><i>Exeunt OTHELLO, LODOVICO, and Attendants</i></p>
+<p><i>Exeunt OTHELLO, LODOVICO, and Attendants</i><br></p>
 
 <b>EMILIA</b>
 
@@ -1491,10 +1491,10 @@ The fresh streams ran by her, and murmur'd her moans;<br>
 Sing willow, willow, willow;<br>
 Her salt tears fell from her, and soften'd the stones;<br>
 Lay by these:--<br>
-<p><i>Singing</i></p>
+<p><i>Singing</i><br></p>
 Sing willow, willow, willow;<br>
 Prithee, hie thee; he'll come anon:--<br>
-<p><i>Singing</i></p>
+<p><i>Singing</i><br></p>
 Sing all a green willow must be my garland.<br>
 Let nobody blame him; his scorn I approve,-<br>
 Nay, that's not next.--Hark! who is't that knocks?<br>
@@ -1609,4 +1609,4 @@ The ills we do, their ills instruct us so.<br>
 
 Good night, good night: heaven me such uses send,<br>
 Not to pick bad from bad, but by bad mend!<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>

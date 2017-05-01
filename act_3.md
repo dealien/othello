@@ -3,14 +3,14 @@
 <h3>ACT III</h3>
 <h3>SCENE I. Before the castle.</h3>
 <p></p>
-<i>Enter CASSIO and some Musicians</i>
+<i>Enter CASSIO and some Musicians</i><br>
 
 <b>CASSIO</b>
 
 Masters, play here; I will content your pains;<br>
 Something that's brief; and bid 'Good morrow, general.'<br>
-<p><i>Music</i></p>
-<p><i>Enter Clown</i></p>
+<p><i>Music</i><br></p>
+<p><i>Enter Clown</i><br></p>
 
 <b>Clown</b>
 
@@ -62,7 +62,7 @@ We have none such, sir.<br>
 
 Then put up your pipes in your bag, for I'll away:<br>
 go; vanish into air; away!<br>
-<p><i>Exeunt Musicians</i></p>
+<p><i>Exeunt Musicians</i><br></p>
 
 <b>CASSIO</b>
 
@@ -88,8 +88,8 @@ shall seem to notify unto her.<br>
 <b>CASSIO</b>
 
 Do, good my friend.<br>
-<p><i>Exit Clown</i></p>
-<p><i>Enter IAGO</i></p>
+<p><i>Exit Clown</i><br></p>
+<p><i>Enter IAGO</i><br></p>
 In happy time, Iago.<br>
 
 <b>IAGO</b>
@@ -114,10 +114,10 @@ May be more free.<br>
 <b>CASSIO</b>
 
 I humbly thank you for't.<br>
-<p><i>Exit IAGO</i></p>
+<p><i>Exit IAGO</i><br></p>
 I never knew<br>
 A Florentine more kind and honest.<br>
-<p><i>Enter EMILIA</i></p>
+<p><i>Enter EMILIA</i><br></p>
 
 <b>EMILIA</b>
 
@@ -148,10 +148,10 @@ To speak your bosom freely.<br>
 <b>CASSIO</b>
 
 I am much bound to you.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE II. A room in the castle.</h3>
 <p></p>
-<i>Enter OTHELLO, IAGO, and Gentlemen</i>
+<i>Enter OTHELLO, IAGO, and Gentlemen</i><br>
 
 <b>OTHELLO</b>
 
@@ -171,10 +171,10 @@ This fortification, gentlemen, shall we see't?<br>
 <b>Gentleman</b>
 
 We'll wait upon your lordship.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE III. The garden of the castle.</h3>
 <p></p>
-<i>Enter DESDEMONA, CASSIO, and EMILIA</i>
+<i>Enter DESDEMONA, CASSIO, and EMILIA</i><br>
 
 <b>DESDEMONA</b>
 
@@ -247,8 +247,8 @@ Unfit for mine own purposes.<br>
 <b>DESDEMONA</b>
 
 Well, do your discretion.<br>
-<p><i>Exit CASSIO</i></p>
-<p><i>Enter OTHELLO and IAGO</i></p>
+<p><i>Exit CASSIO</i><br></p>
+<p><i>Enter OTHELLO and IAGO</i><br></p>
 
 <b>IAGO</b>
 
@@ -387,7 +387,7 @@ Farewell, my Desdemona: I'll come to thee straight.<br>
 
 Emilia, come. Be as your fancies teach you;<br>
 Whate'er you be, I am obedient.<br>
-<p><i>Exeunt DESDEMONA and EMILIA</i></p>
+<p><i>Exeunt DESDEMONA and EMILIA</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -752,7 +752,7 @@ Fear not my government.<br>
 <b>IAGO</b>
 
 I once more take my leave.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -776,7 +776,7 @@ Prerogatived are they less than the base;<br>
 'Tis destiny unshunnable, like death:<br>
 Even then this forked plague is fated to us<br>
 When we do quicken. Desdemona comes:<br>
-<p><i>Re-enter DESDEMONA and EMILIA</i></p>
+<p><i>Re-enter DESDEMONA and EMILIA</i><br></p>
 If she be false, O, then heaven mocks itself!<br>
 I'll not believe't.<br>
 
@@ -808,13 +808,13 @@ It will be well.<br>
 <b>OTHELLO</b>
 
                   Your napkin is too little:<br>
-<p><i>He puts the handkerchief from him; and it drops</i></p>
+<p><i>He puts the handkerchief from him; and it drops</i><br></p>
 Let it alone. Come, I'll go in with you.<br>
 
 <b>DESDEMONA</b>
 
 I am very sorry that you are not well.<br>
-<p><i>Exeunt OTHELLO and DESDEMONA</i></p>
+<p><i>Exeunt OTHELLO and DESDEMONA</i><br></p>
 
 <b>EMILIA</b>
 
@@ -828,7 +828,7 @@ To kiss and talk to. I'll have the work ta'en out,<br>
 And give't Iago: what he will do with it<br>
 Heaven knows, not I;<br>
 I nothing but to please his fantasy.<br>
-<p><i>Re-enter Iago</i></p>
+<p><i>Re-enter Iago</i><br></p>
 
 <b>IAGO</b>
 
@@ -899,7 +899,7 @@ When she shall lack it.<br>
 
 Be not acknown on 't; I have use for it.<br>
 Go, leave me.<br>
-<p><i>Exit EMILIA</i></p>
+<p><i>Exit EMILIA</i><br></p>
 I will in Cassio's lodging lose this napkin,<br>
 And let him find it. Trifles light as air<br>
 Are to the jealous confirmations strong<br>
@@ -910,7 +910,7 @@ Which at the first are scarce found to distaste,<br>
 But with a little act upon the blood.<br>
 Burn like the mines of Sulphur. I did say so:<br>
 Look, where he comes!<br>
-<p><i>Re-enter OTHELLO</i></p>
+<p><i>Re-enter OTHELLO</i><br></p>
 Not poppy, nor mandragora,<br>
 Nor all the drowsy syrups of the world,<br>
 Shall ever medicine thee to that sweet sleep<br>
@@ -1170,14 +1170,14 @@ Even so my bloody thoughts, with violent pace,<br>
 Shall ne'er look back, ne'er ebb to humble love,<br>
 Till that a capable and wide revenge<br>
 Swallow them up. Now, by yond marble heaven,<br>
-<p><i>Kneels</i></p>
+<p><i>Kneels</i><br></p>
 In the due reverence of a sacred vow<br>
 I here engage my words.<br>
 
 <b>IAGO</b>
 
 Do not rise yet.<br>
-<p><i>Kneels</i></p>
+<p><i>Kneels</i><br></p>
 Witness, you ever-burning lights above,<br>
 You elements that clip us round about,<br>
 Witness that here Iago doth give up<br>
@@ -1185,7 +1185,7 @@ The execution of his wit, hands, heart,<br>
 To wrong'd Othello's service! Let him command,<br>
 And to obey shall be in me remorse,<br>
 What bloody business ever.<br>
-<p><i>They rise</i></p>
+<p><i>They rise</i><br></p>
 
 <b>OTHELLO</b>
 
@@ -1210,10 +1210,10 @@ For the fair devil. Now art thou my lieutenant.<br>
 <b>IAGO</b>
 
 I am your own for ever.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
 <h3>SCENE IV. Before the castle.</h3>
 <p></p>
-<i>Enter DESDEMONA, EMILIA, and Clown</i>
+<i>Enter DESDEMONA, EMILIA, and Clown</i><br>
 
 <b>DESDEMONA</b>
 
@@ -1268,7 +1268,7 @@ moved my lord on his behalf, and hope all will be well.<br>
 
 To do this is within the compass of man's wit: and<br>
 therefore I will attempt the doing it.<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>DESDEMONA</b>
 
@@ -1303,13 +1303,13 @@ Look, where he comes.<br>
 
 I will not leave him now till Cassio<br>
 Be call'd to him.<br>
-<p><i>Enter OTHELLO</i></p>
+<p><i>Enter OTHELLO</i><br></p>
 How is't with you, my lord<br>
 
 <b>OTHELLO</b>
 
 Well, my good lady.<br>
-<p><i>Aside</i></p>
+<p><i>Aside</i><br></p>
 O, hardness to dissemble!--<br>
 How do you, Desdemona?<br>
 
@@ -1508,7 +1508,7 @@ In sooth, you are to blame.<br>
 <b>OTHELLO</b>
 
 Away!<br>
-<p><i>Exit</i></p>
+<p><i>Exit</i><br></p>
 
 <b>EMILIA</b>
 
@@ -1526,7 +1526,7 @@ I am most unhappy in the loss of it.<br>
 They are all but stomachs, and we all but food;<br>
 To eat us hungerly, and when they are full,<br>
 They belch us. Look you, Cassio and my husband!<br>
-<p><i>Enter CASSIO and IAGO</i></p>
+<p><i>Enter CASSIO and IAGO</i><br></p>
 
 <b>IAGO</b>
 
@@ -1587,7 +1587,7 @@ There's matter in't indeed, if he be angry.<br>
 <b>DESDEMONA</b>
 
 I prithee, do so.<br>
-<p><i>Exit IAGO</i></p>
+<p><i>Exit IAGO</i><br></p>
 Something, sure, of state,<br>
 Either from Venice, or some unhatch'd practise<br>
 Made demonstrable here in Cyprus to him,<br>
@@ -1638,8 +1638,8 @@ And seek to effect it to my uttermost.<br>
 <b>CASSIO</b>
 
 I humbly thank your ladyship.<br>
-<p><i>Exeunt DESDEMONA and EMILIA</i></p>
-<p><i>Enter BIANCA</i></p>
+<p><i>Exeunt DESDEMONA and EMILIA</i><br></p>
+<p><i>Enter BIANCA</i><br></p>
 
 <b>BIANCA</b>
 
@@ -1665,7 +1665,7 @@ O weary reckoning!<br>
 I have this while with leaden thoughts been press'd:<br>
 But I shall, in a more continuate time,<br>
 Strike off this score of absence. Sweet Bianca,<br>
-<p><i>Giving her DESDEMONA's handkerchief</i></p>
+<p><i>Giving her DESDEMONA's handkerchief</i><br></p>
 Take me this work out.<br>
 
 <b>BIANCA</b>
@@ -1726,4 +1726,4 @@ For I attend here: but I'll see you soon.<br>
 <b>BIANCA</b>
 
 'Tis very good; I must be circumstanced.<br>
-<p><i>Exeunt</i></p>
+<p><i>Exeunt</i><br></p>
