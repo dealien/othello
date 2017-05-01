@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Entire Play \(Website\)](entire_play.md)
+* [Act 1](act_1.md)
 
