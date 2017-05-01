@@ -5,20 +5,20 @@
 <p></p>
 <i>Enter RODERIGO and IAGO</i><br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 Tush! never tell me; I take it much unkindly<br>
 That thou, Iago, who hast had my purse<br>
 As if the strings were thine, shouldst know of this.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 'Sblood, but you will not hear me:<br>
 If ever I did dream of such a matter, Abhor me.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Thou told'st me thou didst hold him in thy hate.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Despise me, if I do not. Three great ones of the city,<br>
 In personal suit to make me his lieutenant,<br>
@@ -47,11 +47,11 @@ By debitor and creditor: this counter-caster,<br>
 He, in good time, must his lieutenant be,<br>
 And I--God bless the mark!--his Moorship's ancient.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 By heaven, I rather would have been his hangman.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Why, there's no remedy; 'tis the curse of service,<br>
 Preferment goes by letter and affection,<br>
@@ -60,11 +60,11 @@ Stood heir to the first. Now, sir, be judge yourself,<br>
 Whether I in any just term am affined<br>
 To love the Moor.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 I would not follow him then.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 O, sir, content you;<br>
 I follow him to serve my turn upon him:<br>
@@ -93,12 +93,12 @@ In compliment extern, 'tis not long after<br>
 But I will wear my heart upon my sleeve<br>
 For daws to peck at: I am not what I am.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 What a full fortune does the thicklips owe<br>
 If he can carry't thus!<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Call up her father,<br>
 Rouse him: make after him, poison his delight,<br>
@@ -108,45 +108,45 @@ Plague him with flies: though that his joy be joy,<br>
 Yet throw such changes of vexation on't,<br>
 As it may lose some colour.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Here is her father's house; I'll call aloud.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Do, with like timorous accent and dire yell<br>
 As when, by night and negligence, the fire<br>
 Is spied in populous cities.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 What, ho, Brabantio! Signior Brabantio, ho!<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Awake! what, ho, Brabantio! thieves! thieves! thieves!<br>
 Look to your house, your daughter and your bags!<br>
 Thieves! thieves!<br>
 <p><i>BRABANTIO appears above, at a window</i><br></p>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 What is the reason of this terrible summons?<br>
 What is the matter there?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Signior, is all your family within?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Are your doors lock'd?<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Why, wherefore ask you this?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 'Zounds, sir, you're robb'd; for shame, put on<br>
 your gown;<br>
@@ -157,23 +157,23 @@ Awake the snorting citizens with the bell,<br>
 Or else the devil will make a grandsire of you:<br>
 Arise, I say.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
                   What, have you lost your wits?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Most reverend signior, do you know my voice?<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Not I	what are you?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 My name is Roderigo.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 The worser welcome:<br>
 I have charged thee not to haunt about my doors:<br>
@@ -183,31 +183,31 @@ Being full of supper and distempering draughts,<br>
 Upon malicious bravery, dost thou come<br>
 To start my quiet.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Sir, sir, sir,--<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
                   But thou must needs be sure<br>
 My spirit and my place have in them power<br>
 To make this bitter to thee.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Patience, good sir.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 What tell'st thou me of robbing? this is Venice;<br>
 My house is not a grange.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Most grave Brabantio,<br>
 In simple and pure soul I come to you.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 'Zounds, sir, you are one of those that will not<br>
 serve God, if the devil bid you. Because we come to<br>
@@ -216,28 +216,28 @@ have your daughter covered with a Barbary horse;<br>
 you'll have your nephews neigh to you; you'll have<br>
 coursers for cousins and gennets for germans.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 What profane wretch art thou?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 I am one, sir, that comes to tell you your daughter<br>
 and the Moor are now making the beast with two backs.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Thou art a villain.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 You are--a senator.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 This thou shalt answer; I know thee, Roderigo.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Sir, I will answer any thing. But, I beseech you,<br>
 If't be your pleasure and most wise consent,<br>
@@ -261,7 +261,7 @@ If she be in her chamber or your house,<br>
 Let loose on me the justice of the state<br>
 For thus deluding you.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Strike on the tinder, ho!<br>
 Give me a taper! call up all my people!<br>
@@ -270,7 +270,7 @@ Belief of it oppresses me already.<br>
 Light, I say! light!<br>
 <p><i>Exit above</i><br></p>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Farewell; for I must leave you:<br>
 It seems not meet, nor wholesome to my place,<br>
@@ -291,7 +291,7 @@ And there will I be with him. So, farewell.<br>
 <p><i>Exit</i><br></p>
 <p><i>Enter, below, BRABANTIO, and Servants with torches</i><br></p>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 It is too true an evil: gone she is;<br>
 And what's to come of my despised time<br>
@@ -302,11 +302,11 @@ How didst thou know 'twas she? O she deceives me<br>
 Past thought! What said she to you? Get more tapers:<br>
 Raise all my kindred. Are they married, think you?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Truly, I think they are.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 O heaven! How got she out? O treason of the blood!<br>
 Fathers, from hence trust not your daughters' minds<br>
@@ -315,22 +315,22 @@ By which the property of youth and maidhood<br>
 May be abused? Have you not read, Roderigo,<br>
 Of some such thing?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Yes, sir, I have indeed.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Call up my brother. O, would you had had her!<br>
 Some one way, some another. Do you know<br>
 Where we may apprehend her and the Moor?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 I think I can discover him, if you please,<br>
 To get good guard and go along with me.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Pray you, lead on. At every house I'll call;<br>
 I may command at most. Get weapons, ho!<br>
@@ -341,7 +341,7 @@ On, good Roderigo: I'll deserve your pains.<br>
 <p></p>
 <i>Enter OTHELLO, IAGO, and Attendants with torches</i><br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Though in the trade of war I have slain men,<br>
 Yet do I hold it very stuff o' the conscience<br>
@@ -349,11 +349,11 @@ To do no contrived murder: I lack iniquity<br>
 Sometimes to do me service: nine or ten times<br>
 I had thought to have yerk'd him here under the ribs.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 'Tis better as it is.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Nay, but he prated,<br>
 And spoke such scurvy and provoking terms<br>
@@ -368,7 +368,7 @@ Or put upon you what restraint and grievance<br>
 The law, with all his might to enforce it on,<br>
 Will give him cable.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Let him do his spite:<br>
 My services which I have done the signiory<br>
@@ -383,39 +383,39 @@ I would not my unhoused free condition<br>
 Put into circumscription and confine<br>
 For the sea's worth. But, look! what lights come yond?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Those are the raised father and his friends:<br>
 You were best go in.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Not I	I must be found:<br>
 My parts, my title and my perfect soul<br>
 Shall manifest me rightly. Is it they?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 By Janus, I think no.<br>
 <p><i>Enter CASSIO, and certain Officers with torches</i><br></p>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 The servants of the duke, and my lieutenant.<br>
 The goodness of the night upon you, friends!<br>
 What is the news?<br>
 
-<h5>CASSIO</h5><br>
+<h5>CASSIO</h5>
 
                   The duke does greet you, general,<br>
 And he requires your haste-post-haste appearance,<br>
 Even on the instant.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 What is the matter, think you?<br>
 
-<h5>CASSIO</h5><br>
+<h5>CASSIO</h5>
 
 Something from Cyprus as I may divine:<br>
 It is a business of some heat: the galleys<br>
@@ -428,77 +428,77 @@ When, being not at your lodging to be found,<br>
 The senate hath sent about three several guests<br>
 To search you out.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 'Tis well I am found by you.<br>
 I will but spend a word here in the house,<br>
 And go with you.<br>
 <p><i>Exit</i><br></p>
 
-<h5>CASSIO</h5><br>
+<h5>CASSIO</h5>
 
                   Ancient, what makes he here?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 'Faith, he to-night hath boarded a land carack:<br>
 If it prove lawful prize, he's made for ever.<br>
 
-<h5>CASSIO</h5><br>
+<h5>CASSIO</h5>
 
 I do not understand.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 He's married.<br>
 
-<h5>CASSIO</h5><br>
+<h5>CASSIO</h5>
 
 To who?<br>
 <p><i>Re-enter OTHELLO</i><br></p>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Marry, to--Come, captain, will you go?<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Have with you.<br>
 
-<h5>CASSIO</h5><br>
+<h5>CASSIO</h5>
 
 Here comes another troop to seek for you.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 It is Brabantio. General, be advised;<br>
 He comes to bad intent.<br>
 <p><i>Enter BRABANTIO, RODERIGO, and Officers with torches and weapons</i><br></p>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Holla! stand there!<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Signior, it is the Moor.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Down with him, thief!<br>
 <p><i>They draw on both sides</i><br></p>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 You, Roderigo! come, sir, I am for you.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Keep up your bright swords, for the dew will rust them.<br>
 Good signior, you shall more command with years<br>
 Than with your weapons.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 O thou foul thief, where hast thou stow'd my daughter?<br>
 Damn'd as thou art, thou hast enchanted her;<br>
@@ -521,7 +521,7 @@ Of arts inhibited and out of warrant.<br>
 Lay hold upon him: if he do resist,<br>
 Subdue him at his peril.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Hold your hands,<br>
 Both you of my inclining, and the rest:<br>
@@ -529,13 +529,13 @@ Were it my cue to fight, I should have known it<br>
 Without a prompter. Where will you that I go<br>
 To answer this your charge?<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 To prison, till fit time<br>
 Of law and course of direct session<br>
 Call thee to answer.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 What if I do obey?<br>
 How may the duke be therewith satisfied,<br>
@@ -543,13 +543,13 @@ Whose messengers are here about my side,<br>
 Upon some present business of the state<br>
 To bring me to him?<br>
 
-<h5>First Officer</h5><br>
+<h5>First Officer</h5>
 
 'Tis true, most worthy signior;<br>
 The duke's in council and your noble self,<br>
 I am sure, is sent for.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 How! the duke in council!<br>
 In this time of the night! Bring him away:<br>
@@ -563,21 +563,21 @@ Bond-slaves and pagans shall our statesmen be.<br>
 <p></p>
 <i>The DUKE and Senators sitting at a table; Officers attending</i><br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 There is no composition in these news<br>
 That gives them credit.<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 Indeed, they are disproportion'd;<br>
 My letters say a hundred and seven galleys.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 And mine, a hundred and forty.<br>
 
-<h5>Second Senator</h5><br>
+<h5>Second Senator</h5>
 
 And mine, two hundred:<br>
 But though they jump not on a just account,--<br>
@@ -585,37 +585,37 @@ As in these cases, where the aim reports,<br>
 'Tis oft with difference--yet do they all confirm<br>
 A Turkish fleet, and bearing up to Cyprus.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Nay, it is possible enough to judgment:<br>
 I do not so secure me in the error,<br>
 But the main article I do approve<br>
 In fearful sense.<br>
 
-<h5>Sailor</h5><br>
+<h5>Sailor</h5>
 
 [Within]  What, ho! what, ho! what, ho!<br>
 
-<h5>First Officer</h5><br>
+<h5>First Officer</h5>
 
 A messenger from the galleys.<br>
 <p><i>Enter a Sailor</i><br></p>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Now, what's the business?<br>
 
-<h5>Sailor</h5><br>
+<h5>Sailor</h5>
 
 The Turkish preparation makes for Rhodes;<br>
 So was I bid report here to the state<br>
 By Signior Angelo.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 How say you by this change?<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 This cannot be,<br>
 By no assay of reason: 'tis a pageant,<br>
@@ -632,26 +632,26 @@ To leave that latest which concerns him first,<br>
 Neglecting an attempt of ease and gain,<br>
 To wake and wage a danger profitless.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Nay, in all confidence, he's not for Rhodes.<br>
 
-<h5>First Officer</h5><br>
+<h5>First Officer</h5>
 
 Here is more news.<br>
 <p><i>Enter a Messenger</i><br></p>
 
-<h5>Messenger</h5><br>
+<h5>Messenger</h5>
 
 The Ottomites, reverend and gracious,<br>
 Steering with due course towards the isle of Rhodes,<br>
 Have there injointed them with an after fleet.<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 Ay, so I thought. How many, as you guess?<br>
 
-<h5>Messenger</h5><br>
+<h5>Messenger</h5>
 
 Of thirty sail: and now they do restem<br>
 Their backward course, bearing with frank appearance<br>
@@ -660,25 +660,25 @@ Your trusty and most valiant servitor,<br>
 With his free duty recommends you thus,<br>
 And prays you to believe him.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 'Tis certain, then, for Cyprus.<br>
 Marcus Luccicos, is not he in town?<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 He's now in Florence.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Write from us to him; post-post-haste dispatch.<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 Here comes Brabantio and the valiant Moor.<br>
 <p><i>Enter BRABANTIO, OTHELLO, IAGO, RODERIGO, and Officers</i><br></p>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Valiant Othello, we must straight employ you<br>
 Against the general enemy Ottoman.<br>
@@ -686,7 +686,7 @@ Against the general enemy Ottoman.<br>
 I did not see you; welcome, gentle signior;<br>
 We lack'd your counsel and your help tonight.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 So did I yours. Good your grace, pardon me;<br>
 Neither my place nor aught I heard of business<br>
@@ -696,21 +696,21 @@ Is of so flood-gate and o'erbearing nature<br>
 That it engluts and swallows other sorrows<br>
 And it is still itself.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Why, what's the matter?<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 My daughter! O, my daughter!<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
-<h5>Senator</h5><br>
+<h5>Senator</h5>
 
 Dead?<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Ay, to me;<br>
 She is abused, stol'n from me, and corrupted<br>
@@ -719,7 +719,7 @@ For nature so preposterously to err,<br>
 Being not deficient, blind, or lame of sense,<br>
 Sans witchcraft could not.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Whoe'er he be that in this foul proceeding<br>
 Hath thus beguiled your daughter of herself<br>
@@ -728,28 +728,28 @@ You shall yourself read in the bitter letter<br>
 After your own sense, yea, though our proper son<br>
 Stood in your action.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Humbly I thank your grace.<br>
 Here is the man, this Moor, whom now, it seems,<br>
 Your special mandate for the state-affairs<br>
 Hath hither brought.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
-<h5>Senator</h5><br>
+<h5>Senator</h5>
 
 We are very sorry for't.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 [To OTHELLO]  What, in your own part, can you say to this?<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Nothing, but this is so.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Most potent, grave, and reverend signiors,<br>
 My very noble and approved good masters,<br>
@@ -771,7 +771,7 @@ What conjuration and what mighty magic,<br>
 For such proceeding I am charged withal,<br>
 I won his daughter.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 A maiden never bold;<br>
 Of spirit so still and quiet, that her motion<br>
@@ -787,14 +787,14 @@ That with some mixtures powerful o'er the blood,<br>
 Or with some dram conjured to this effect,<br>
 He wrought upon her.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 To vouch this, is no proof,<br>
 Without more wider and more overt test<br>
 Than these thin habits and poor likelihoods<br>
 Of modern seeming do prefer against him.<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 But, Othello, speak:<br>
 Did you by indirect and forced courses<br>
@@ -802,7 +802,7 @@ Subdue and poison this young maid's affections?<br>
 Or came it by request and such fair question<br>
 As soul to soul affordeth?<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 I do beseech you,<br>
 Send for the lady to the Sagittary,<br>
@@ -812,11 +812,11 @@ The trust, the office I do hold of you,<br>
 Not only take away, but let your sentence<br>
 Even fall upon my life.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Fetch Desdemona hither.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Ancient, conduct them: you best know the place.<br>
 <p><i>Exeunt IAGO and Attendants</i><br></p>
@@ -826,11 +826,11 @@ So justly to your grave ears I'll present<br>
 How I did thrive in this fair lady's love,<br>
 And she in mine.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Say it, Othello.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Her father loved me; oft invited me;<br>
 Still question'd me the story of my life,<br>
@@ -877,7 +877,7 @@ This only is the witchcraft I have used:<br>
 Here comes the lady; let her witness it.<br>
 <p><i>Enter DESDEMONA, IAGO, and Attendants</i><br></p>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 I think this tale would win my daughter too.<br>
 Good Brabantio,<br>
@@ -885,7 +885,7 @@ Take up this mangled matter at the best:<br>
 Men do their broken weapons rather use<br>
 Than their bare hands.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 I pray you, hear her speak:<br>
 If she confess that she was half the wooer,<br>
@@ -894,7 +894,7 @@ Light on the man! Come hither, gentle mistress:<br>
 Do you perceive in all this noble company<br>
 Where most you owe obedience?<br>
 
-<h5>DESDEMONA</h5><br>
+<h5>DESDEMONA</h5>
 
 My noble father,<br>
 I do perceive here a divided duty:<br>
@@ -907,7 +907,7 @@ To you, preferring you before her father,<br>
 So much I challenge that I may profess<br>
 Due to the Moor my lord.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 God be wi' you! I have done.<br>
 Please it your grace, on to the state-affairs:<br>
@@ -920,7 +920,7 @@ I am glad at soul I have no other child:<br>
 For thy escape would teach me tyranny,<br>
 To hang clogs on them. I have done, my lord.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Let me speak like yourself, and lay a sentence,<br>
 Which, as a grise or step, may help these lovers<br>
@@ -934,7 +934,7 @@ Patience her injury a mockery makes.<br>
 The robb'd that smiles steals something from the thief;<br>
 He robs himself that spends a bootless grief.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 So let the Turk of Cyprus us beguile;<br>
 We lose it not, so long as we can smile.<br>
@@ -948,7 +948,7 @@ But words are words; I never yet did hear<br>
 That the bruised heart was pierced through the ear.<br>
 I humbly beseech you, proceed to the affairs of state.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 The Turk with a most mighty preparation makes for<br>
 Cyprus. Othello, the fortitude of the place is best<br>
@@ -959,7 +959,7 @@ voice on you: you must therefore be content to<br>
 slubber the gloss of your new fortunes with this<br>
 more stubborn and boisterous expedition.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 The tyrant custom, most grave senators,<br>
 Hath made the flinty and steel couch of war<br>
@@ -973,20 +973,20 @@ Due reference of place and exhibition,<br>
 With such accommodation and besort<br>
 As levels with her breeding.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 If you please,<br>
 Be't at her father's.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 I'll not have it so.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Nor I.<br>
 
-<h5>DESDEMONA</h5><br>
+<h5>DESDEMONA</h5>
 
      Nor I; I would not there reside,<br>
 To put my father in impatient thoughts<br>
@@ -995,11 +995,11 @@ To my unfolding lend your prosperous ear;<br>
 And let me find a charter in your voice,<br>
 To assist my simpleness.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 What would You, Desdemona?<br>
 
-<h5>DESDEMONA</h5><br>
+<h5>DESDEMONA</h5>
 
 That I did love the Moor to live with him,<br>
 My downright violence and storm of fortunes<br>
@@ -1014,7 +1014,7 @@ The rites for which I love him are bereft me,<br>
 And I a heavy interim shall support<br>
 By his dear absence. Let me go with him.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 Let her have your voices.<br>
 Vouch with me, heaven, I therefore beg it not,<br>
@@ -1032,21 +1032,21 @@ Let housewives make a skillet of my helm,<br>
 And all indign and base adversities<br>
 Make head against my estimation!<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Be it as you shall privately determine,<br>
 Either for her stay or going: the affair cries haste,<br>
 And speed must answer it.<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 You must away to-night.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 With all my heart.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 At nine i' the morning here we'll meet again.<br>
 Othello, leave some officer behind,<br>
@@ -1054,7 +1054,7 @@ And he shall our commission bring to you;<br>
 With such things else of quality and respect<br>
 As doth import you.<br>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 So please your grace, my ancient;<br>
 A man he is of honest and trust:<br>
@@ -1062,7 +1062,7 @@ To his conveyance I assign my wife,<br>
 With what else needful your good grace shall think<br>
 To be sent after me.<br>
 
-<h5>DUKE OF VENICE</h5><br>
+<h5>DUKE OF VENICE</h5>
 
 Let it be so.<br>
 Good night to every one.<br>
@@ -1071,17 +1071,17 @@ And, noble signior,<br>
 If virtue no delighted beauty lack,<br>
 Your son-in-law is far more fair than black.<br>
 
-<h5>First Senator</h5><br>
+<h5>First Senator</h5>
 
 Adieu, brave Moor, use Desdemona well.<br>
 
-<h5>BRABANTIO</h5><br>
+<h5>BRABANTIO</h5>
 
 Look to her, Moor, if thou hast eyes to see:<br>
 She has deceived her father, and may thee.<br>
 <p><i>Exeunt DUKE OF VENICE, Senators, Officers,  &amp; c</i><br></p>
 
-<h5>OTHELLO</h5><br>
+<h5>OTHELLO</h5>
 
 My life upon her faith! Honest Iago,<br>
 My Desdemona must I leave to thee:<br>
@@ -1092,37 +1092,37 @@ Of love, of worldly matters and direction,<br>
 To spend with thee: we must obey the time.<br>
 <p><i>Exeunt OTHELLO and DESDEMONA</i><br></p>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Iago,--<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 What say'st thou, noble heart?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 What will I do, thinkest thou?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Why, go to bed, and sleep.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 I will incontinently drown myself.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 If thou dost, I shall never love thee after. Why,<br>
 thou silly gentleman!<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 It is silliness to live when to live is torment; and<br>
 then have we a prescription to die when death is our physician.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 O villainous! I have looked upon the world for four<br>
 times seven years; and since I could distinguish<br>
@@ -1131,12 +1131,12 @@ that knew how to love himself. Ere I would say, I<br>
 would drown myself for the love of a guinea-hen, I<br>
 would change my humanity with a baboon.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 What should I do? I confess it is my shame to be so<br>
 fond; but it is not in my virtue to amend it.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Virtue! a fig! 'tis in ourselves that we are thus<br>
 or thus. Our bodies are our gardens, to the which<br>
@@ -1154,11 +1154,11 @@ reason to cool our raging motions, our carnal<br>
 stings, our unbitted lusts, whereof I take this that<br>
 you call love to be a sect or scion.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 It cannot be.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 It is merely a lust of the blood and a permission of<br>
 the will. Come, be a man. Drown thyself! drown<br>
@@ -1189,12 +1189,12 @@ drowning thyself! it is clean out of the way: seek<br>
 thou rather to be hanged in compassing thy joy than<br>
 to be drowned and go without her.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Wilt thou be fast to my hopes, if I depend on<br>
 the issue?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Thou art sure of me:--go, make money:--I have told<br>
 thee often, and I re-tell thee again and again, I<br>
@@ -1206,36 +1206,36 @@ events in the womb of time which will be delivered.<br>
 Traverse! go, provide thy money. We will have more<br>
 of this to-morrow. Adieu.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 Where shall we meet i' the morning?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 At my lodging.<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 I'll be with thee betimes.<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Go to; farewell. Do you hear, Roderigo?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 What say you?<br>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 No more of drowning, do you hear?<br>
 
-<h5>RODERIGO</h5><br>
+<h5>RODERIGO</h5>
 
 I am changed: I'll go sell all my land.<br>
 <p><i>Exit</i><br></p>
 
-<h5>IAGO</h5><br>
+<h5>IAGO</h5>
 
 Thus do I ever make my fool my purse:<br>
 For I mine own gain'd knowledge should profane,<br>
