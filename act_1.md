@@ -4,7 +4,6 @@
 <h3>SCENE I. Venice. A street.</h3>
 <p></p><br>
 <i>Enter RODERIGO and IAGO</i>
-<br>
 
 <b>RODERIGO</b>
 <br>
