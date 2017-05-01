@@ -1,7 +1,6 @@
 <link rel="stylesheet" type="text/css" media="screen" href="./entire_play_files/style.css">
 
-<p>
-</p><h3>ACT III</h3>
+<h3>ACT III</h3>
 <h3>SCENE I. Before the castle.</h3>
 <p></p><div>
 <i>Enter CASSIO and some Musicians</i>

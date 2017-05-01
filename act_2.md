@@ -1,7 +1,6 @@
 <link rel="stylesheet" type="text/css" media="screen" href="./entire_play_files/style.css">
 
-<p>
-</p><h3>ACT II</h3>
+<h3>ACT II</h3>
 <h3>SCENE I. A Sea-port in Cyprus. An open place near the quay.</h3>
 <p></p><div>
 <i>Enter MONTANO and two Gentlemen</i>
