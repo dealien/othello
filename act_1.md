@@ -6,25 +6,25 @@
 <i>Enter RODERIGO and IAGO</i>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.1">Tush! never tell me; I take it much unkindly</span><br>
 </span name="1.1.2">That thou, Iago, who hast had my purse</span><br>
 </span name="1.1.3">As if the strings were thine, shouldst know of this.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.4">'Sblood, but you will not hear me:</span><br>
 </span name="1.1.5">If ever I did dream of such a matter, Abhor me.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.6">Thou told'st me thou didst hold him in thy hate.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.7">Despise me, if I do not. Three great ones of the city,</span><br>
 </span name="1.1.8">In personal suit to make me his lieutenant,</span><br>
@@ -54,12 +54,12 @@
 </span name="1.1.32">And I--God bless the mark!--his Moorship's ancient.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.33">By heaven, I rather would have been his hangman.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.34">Why, there's no remedy; 'tis the curse of service,</span><br>
 </span name="1.1.35">Preferment goes by letter and affection,</span><br>
@@ -69,12 +69,12 @@
 </span name="1.1.39">To love the Moor.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.40">I would not follow him then.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.41">O, sir, content you;</span><br>
 </span name="1.1.42">I follow him to serve my turn upon him:</span><br>
@@ -104,13 +104,13 @@
 </span name="1.1.66">For daws to peck at: I am not what I am.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.67">What a full fortune does the thicklips owe</span><br>
 </span name="1.1.68">If he can carry't thus!</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.69">Call up her father,</span><br>
 </span name="1.1.70">Rouse him: make after him, poison his delight,</span><br>
@@ -121,24 +121,24 @@
 </span name="1.1.75">As it may lose some colour.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.76">Here is her father's house; I'll call aloud.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.77">Do, with like timorous accent and dire yell</span><br>
 </span name="1.1.78">As when, by night and negligence, the fire</span><br>
 </span name="1.1.79">Is spied in populous cities.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.80">What, ho, Brabantio! Signior Brabantio, ho!</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.81">Awake! what, ho, Brabantio! thieves! thieves! thieves!</span><br>
 </span name="1.1.82">Look to your house, your daughter and your bags!</span><br>
@@ -146,28 +146,28 @@
 <p><i>BRABANTIO appears above, at a window</i></p>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.84">What is the reason of this terrible summons?</span><br>
 </span name="1.1.85">What is the matter there?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.86">Signior, is all your family within?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.87">Are your doors lock'd?</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.88">Why, wherefore ask you this?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.89">'Zounds, sir, you're robb'd; for shame, put on</span><br>
 </span name="1.1.90">your gown;</span><br>
@@ -179,27 +179,27 @@
 </span name="1.1.96">Arise, I say.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.97">                  What, have you lost your wits?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.98">Most reverend signior, do you know my voice?</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.99">Not I	what are you?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.100">My name is Roderigo.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.101">The worser welcome:</span><br>
 </span name="1.1.102">I have charged thee not to haunt about my doors:</span><br>
@@ -210,36 +210,36 @@
 </span name="1.1.107">To start my quiet.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.108">Sir, sir, sir,--</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.109">                  But thou must needs be sure</span><br>
 </span name="1.1.110">My spirit and my place have in them power</span><br>
 </span name="1.1.111">To make this bitter to thee.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.112">Patience, good sir.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.113">What tell'st thou me of robbing? this is Venice;</span><br>
 </span name="1.1.114">My house is not a grange.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.115">Most grave Brabantio,</span><br>
 </span name="1.1.116">In simple and pure soul I come to you.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.117">'Zounds, sir, you are one of those that will not</span><br>
 </span name="1.1.118">serve God, if the devil bid you. Because we come to</span><br>
@@ -249,33 +249,33 @@
 </span name="1.1.122">coursers for cousins and gennets for germans.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.123">What profane wretch art thou?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.124">I am one, sir, that comes to tell you your daughter</span><br>
 </span name="1.1.125">and the Moor are now making the beast with two backs.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.126">Thou art a villain.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.127">You are--a senator.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.128">This thou shalt answer; I know thee, Roderigo.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.129">Sir, I will answer any thing. But, I beseech you,</span><br>
 </span name="1.1.130">If't be your pleasure and most wise consent,</span><br>
@@ -300,7 +300,7 @@
 </span name="1.1.149">For thus deluding you.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.150">Strike on the tinder, ho!</span><br>
 </span name="1.1.151">Give me a taper! call up all my people!</span><br>
@@ -310,7 +310,7 @@
 <p><i>Exit above</i></p>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.1.155">Farewell; for I must leave you:</span><br>
 </span name="1.1.156">It seems not meet, nor wholesome to my place,</span><br>
@@ -332,7 +332,7 @@
 <p><i>Enter, below, BRABANTIO, and Servants with torches</i></p>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.171">It is too true an evil: gone she is;</span><br>
 </span name="1.1.172">And what's to come of my despised time</span><br>
@@ -344,12 +344,12 @@
 </span name="1.1.178">Raise all my kindred. Are they married, think you?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.179">Truly, I think they are.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.180">O heaven! How got she out? O treason of the blood!</span><br>
 </span name="1.1.181">Fathers, from hence trust not your daughters' minds</span><br>
@@ -359,25 +359,25 @@
 </span name="1.1.185">Of some such thing?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.186">Yes, sir, I have indeed.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.187">Call up my brother. O, would you had had her!</span><br>
 </span name="1.1.188">Some one way, some another. Do you know</span><br>
 </span name="1.1.189">Where we may apprehend her and the Moor?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.1.190">I think I can discover him, if you please,</span><br>
 </span name="1.1.191">To get good guard and go along with me.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.1.192">Pray you, lead on. At every house I'll call;</span><br>
 </span name="1.1.193">I may command at most. Get weapons, ho!</span><br>
@@ -390,7 +390,7 @@
 <i>Enter OTHELLO, IAGO, and Attendants with torches</i>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.1">Though in the trade of war I have slain men,</span><br>
 </span name="1.2.2">Yet do I hold it very stuff o' the conscience</span><br>
@@ -399,12 +399,12 @@
 </span name="1.2.5">I had thought to have yerk'd him here under the ribs.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.6">'Tis better as it is.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.7">Nay, but he prated,</span><br>
 </span name="1.2.8">And spoke such scurvy and provoking terms</span><br>
@@ -420,7 +420,7 @@
 </span name="1.2.18">Will give him cable.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.19">Let him do his spite:</span><br>
 </span name="1.2.20">My services which I have done the signiory</span><br>
@@ -436,45 +436,45 @@
 </span name="1.2.30">For the sea's worth. But, look! what lights come yond?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.31">Those are the raised father and his friends:</span><br>
 </span name="1.2.32">You were best go in.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.33">Not I	I must be found:</span><br>
 </span name="1.2.34">My parts, my title and my perfect soul</span><br>
 </span name="1.2.35">Shall manifest me rightly. Is it they?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.36">By Janus, I think no.</span><br>
 <p><i>Enter CASSIO, and certain Officers with torches</i></p>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.37">The servants of the duke, and my lieutenant.</span><br>
 </span name="1.2.38">The goodness of the night upon you, friends!</span><br>
 </span name="1.2.39">What is the news?</span><br>
 </div>
 
-<b>CASSIO</b>
+##### CASSIO
 <div>
 </span name="1.2.40">                  The duke does greet you, general,</span><br>
 </span name="1.2.41">And he requires your haste-post-haste appearance,</span><br>
 </span name="1.2.42">Even on the instant.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.43">What is the matter, think you?</span><br>
 </div>
 
-<b>CASSIO</b>
+##### CASSIO
 <div>
 </span name="1.2.44">Something from Cyprus as I may divine:</span><br>
 </span name="1.2.45">It is a business of some heat: the galleys</span><br>
@@ -488,7 +488,7 @@
 </span name="1.2.53">To search you out.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.54">'Tis well I am found by you.</span><br>
 </span name="1.2.55">I will but spend a word here in the house,</span><br>
@@ -496,84 +496,84 @@
 <p><i>Exit</i></p>
 </div>
 
-<b>CASSIO</b>
+##### CASSIO
 <div>
 </span name="1.2.57">                  Ancient, what makes he here?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.58">'Faith, he to-night hath boarded a land carack:</span><br>
 </span name="1.2.59">If it prove lawful prize, he's made for ever.</span><br>
 </div>
 
-<b>CASSIO</b>
+##### CASSIO
 <div>
 </span name="1.2.60">I do not understand.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.61">He's married.</span><br>
 </div>
 
-<b>CASSIO</b>
+##### CASSIO
 <div>
 </span name="1.2.62">To who?</span><br>
 <p><i>Re-enter OTHELLO</i></p>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.63">Marry, to--Come, captain, will you go?</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.64">Have with you.</span><br>
 </div>
 
-<b>CASSIO</b>
+##### CASSIO
 <div>
 </span name="1.2.65">Here comes another troop to seek for you.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.66">It is Brabantio. General, be advised;</span><br>
 </span name="1.2.67">He comes to bad intent.</span><br>
 <p><i>Enter BRABANTIO, RODERIGO, and Officers with torches and weapons</i></p>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.68">Holla! stand there!</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.2.69">Signior, it is the Moor.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.2.70">Down with him, thief!</span><br>
 <p><i>They draw on both sides</i></p>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.2.71">You, Roderigo! come, sir, I am for you.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.72">Keep up your bright swords, for the dew will rust them.</span><br>
 </span name="1.2.73">Good signior, you shall more command with years</span><br>
 </span name="1.2.74">Than with your weapons.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.2.75">O thou foul thief, where hast thou stow'd my daughter?</span><br>
 </span name="1.2.76">Damn'd as thou art, thou hast enchanted her;</span><br>
@@ -597,7 +597,7 @@
 </span name="1.2.94">Subdue him at his peril.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.95">Hold your hands,</span><br>
 </span name="1.2.96">Both you of my inclining, and the rest:</span><br>
@@ -606,14 +606,14 @@
 </span name="1.2.99">To answer this your charge?</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.2.100">To prison, till fit time</span><br>
 </span name="1.2.101">Of law and course of direct session</span><br>
 </span name="1.2.102">Call thee to answer.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.2.103">What if I do obey?</span><br>
 </span name="1.2.104">How may the duke be therewith satisfied,</span><br>
@@ -622,14 +622,14 @@
 </span name="1.2.107">To bring me to him?</span><br>
 </div>
 
-<b>First Officer</b>
+##### First Officer
 <div>
 </span name="1.2.108">'Tis true, most worthy signior;</span><br>
 </span name="1.2.109">The duke's in council and your noble self,</span><br>
 </span name="1.2.110">I am sure, is sent for.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.2.111">How! the duke in council!</span><br>
 </span name="1.2.112">In this time of the night! Bring him away:</span><br>
@@ -645,24 +645,24 @@
 <i>The DUKE and Senators sitting at a table; Officers attending</i>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.1">There is no composition in these news</span><br>
 </span name="1.3.2">That gives them credit.</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.3">Indeed, they are disproportion'd;</span><br>
 </span name="1.3.4">My letters say a hundred and seven galleys.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.5">And mine, a hundred and forty.</span><br>
 </div>
 
-<b>Second Senator</b>
+##### Second Senator
 <div>
 </span name="1.3.6">And mine, two hundred:</span><br>
 </span name="1.3.7">But though they jump not on a just account,--</span><br>
@@ -671,7 +671,7 @@
 </span name="1.3.10">A Turkish fleet, and bearing up to Cyprus.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.11">Nay, it is possible enough to judgment:</span><br>
 </span name="1.3.12">I do not so secure me in the error,</span><br>
@@ -679,35 +679,35 @@
 </span name="1.3.14">In fearful sense.</span><br>
 </div>
 
-<b>Sailor</b>
+##### Sailor
 <div>
 </span name="1.3.15">[Within]  What, ho! what, ho! what, ho!</span><br>
 </div>
 
-<b>First Officer</b>
+##### First Officer
 <div>
 </span name="1.3.16">A messenger from the galleys.</span><br>
 <p><i>Enter a Sailor</i></p>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.17">Now, what's the business?</span><br>
 </div>
 
-<b>Sailor</b>
+##### Sailor
 <div>
 </span name="1.3.18">The Turkish preparation makes for Rhodes;</span><br>
 </span name="1.3.19">So was I bid report here to the state</span><br>
 </span name="1.3.20">By Signior Angelo.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.21">How say you by this change?</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.22">This cannot be,</span><br>
 </span name="1.3.23">By no assay of reason: 'tis a pageant,</span><br>
@@ -725,30 +725,30 @@
 </span name="1.3.35">To wake and wage a danger profitless.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.36">Nay, in all confidence, he's not for Rhodes.</span><br>
 </div>
 
-<b>First Officer</b>
+##### First Officer
 <div>
 </span name="1.3.37">Here is more news.</span><br>
 <p><i>Enter a Messenger</i></p>
 </div>
 
-<b>Messenger</b>
+##### Messenger
 <div>
 </span name="1.3.38">The Ottomites, reverend and gracious,</span><br>
 </span name="1.3.39">Steering with due course towards the isle of Rhodes,</span><br>
 </span name="1.3.40">Have there injointed them with an after fleet.</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.41">Ay, so I thought. How many, as you guess?</span><br>
 </div>
 
-<b>Messenger</b>
+##### Messenger
 <div>
 </span name="1.3.42">Of thirty sail: and now they do restem</span><br>
 </span name="1.3.43">Their backward course, bearing with frank appearance</span><br>
@@ -758,29 +758,29 @@
 </span name="1.3.47">And prays you to believe him.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.48">'Tis certain, then, for Cyprus.</span><br>
 </span name="1.3.49">Marcus Luccicos, is not he in town?</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.50">He's now in Florence.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.51">Write from us to him; post-post-haste dispatch.</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.52">Here comes Brabantio and the valiant Moor.</span><br>
 <p><i>Enter BRABANTIO, OTHELLO, IAGO, RODERIGO, and Officers</i></p>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.53">Valiant Othello, we must straight employ you</span><br>
 </span name="1.3.54">Against the general enemy Ottoman.</span><br>
@@ -789,7 +789,7 @@
 </span name="1.3.56">We lack'd your counsel and your help tonight.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.57">So did I yours. Good your grace, pardon me;</span><br>
 </span name="1.3.58">Neither my place nor aught I heard of business</span><br>
@@ -800,24 +800,24 @@
 </span name="1.3.63">And it is still itself.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.64">Why, what's the matter?</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.65">My daughter! O, my daughter!</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 
-<b>Senator</b>
+##### Senator
 <div>
 </span name="1.3.66">Dead?</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.67">Ay, to me;</span><br>
 </span name="1.3.68">She is abused, stol'n from me, and corrupted</span><br>
@@ -827,7 +827,7 @@
 </span name="1.3.72">Sans witchcraft could not.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.73">Whoe'er he be that in this foul proceeding</span><br>
 </span name="1.3.74">Hath thus beguiled your daughter of herself</span><br>
@@ -837,7 +837,7 @@
 </span name="1.3.78">Stood in your action.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.79">Humbly I thank your grace.</span><br>
 </span name="1.3.80">Here is the man, this Moor, whom now, it seems,</span><br>
@@ -845,24 +845,24 @@
 </span name="1.3.82">Hath hither brought.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 
-<b>Senator</b>
+##### Senator
 <div>
 </span name="1.3.83">We are very sorry for't.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.84">[To OTHELLO]  What, in your own part, can you say to this?</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.85">Nothing, but this is so.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.86">Most potent, grave, and reverend signiors,</span><br>
 </span name="1.3.87">My very noble and approved good masters,</span><br>
@@ -885,7 +885,7 @@
 </span name="1.3.104">I won his daughter.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.105">A maiden never bold;</span><br>
 </span name="1.3.106">Of spirit so still and quiet, that her motion</span><br>
@@ -902,7 +902,7 @@
 </span name="1.3.117">He wrought upon her.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.118">To vouch this, is no proof,</span><br>
 </span name="1.3.119">Without more wider and more overt test</span><br>
@@ -910,7 +910,7 @@
 </span name="1.3.121">Of modern seeming do prefer against him.</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.122">But, Othello, speak:</span><br>
 </span name="1.3.123">Did you by indirect and forced courses</span><br>
@@ -919,7 +919,7 @@
 </span name="1.3.126">As soul to soul affordeth?</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.127">I do beseech you,</span><br>
 </span name="1.3.128">Send for the lady to the Sagittary,</span><br>
@@ -930,12 +930,12 @@
 </span name="1.3.133">Even fall upon my life.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.134">Fetch Desdemona hither.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.135">Ancient, conduct them: you best know the place.</span><br>
 <p><i>Exeunt IAGO and Attendants</i></p>
@@ -946,12 +946,12 @@
 </span name="1.3.140">And she in mine.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.141">Say it, Othello.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.142">Her father loved me; oft invited me;</span><br>
 </span name="1.3.143">Still question'd me the story of my life,</span><br>
@@ -999,7 +999,7 @@
 <p><i>Enter DESDEMONA, IAGO, and Attendants</i></p>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.185">I think this tale would win my daughter too.</span><br>
 </span name="1.3.186">Good Brabantio,</span><br>
@@ -1008,7 +1008,7 @@
 </span name="1.3.189">Than their bare hands.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.190">I pray you, hear her speak:</span><br>
 </span name="1.3.191">If she confess that she was half the wooer,</span><br>
@@ -1018,7 +1018,7 @@
 </span name="1.3.195">Where most you owe obedience?</span><br>
 </div>
 
-<b>DESDEMONA</b>
+##### DESDEMONA
 <div>
 </span name="1.3.196">My noble father,</span><br>
 </span name="1.3.197">I do perceive here a divided duty:</span><br>
@@ -1032,7 +1032,7 @@
 </span name="1.3.205">Due to the Moor my lord.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.206">God be wi' you! I have done.</span><br>
 </span name="1.3.207">Please it your grace, on to the state-affairs:</span><br>
@@ -1046,7 +1046,7 @@
 </span name="1.3.215">To hang clogs on them. I have done, my lord.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.216">Let me speak like yourself, and lay a sentence,</span><br>
 </span name="1.3.217">Which, as a grise or step, may help these lovers</span><br>
@@ -1061,7 +1061,7 @@
 </span name="1.3.226">He robs himself that spends a bootless grief.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.227">So let the Turk of Cyprus us beguile;</span><br>
 </span name="1.3.228">We lose it not, so long as we can smile.</span><br>
@@ -1076,7 +1076,7 @@
 </span name="1.3.237">I humbly beseech you, proceed to the affairs of state.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.238">The Turk with a most mighty preparation makes for</span><br>
 </span name="1.3.239">Cyprus. Othello, the fortitude of the place is best</span><br>
@@ -1088,7 +1088,7 @@
 </span name="1.3.245">more stubborn and boisterous expedition.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.246">The tyrant custom, most grave senators,</span><br>
 </span name="1.3.247">Hath made the flinty and steel couch of war</span><br>
@@ -1103,23 +1103,23 @@
 </span name="1.3.256">As levels with her breeding.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.257">If you please,</span><br>
 </span name="1.3.258">Be't at her father's.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.259">I'll not have it so.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.260">Nor I.</span><br>
 </div>
 
-<b>DESDEMONA</b>
+##### DESDEMONA
 <div>
 </span name="1.3.261">     Nor I; I would not there reside,</span><br>
 </span name="1.3.262">To put my father in impatient thoughts</span><br>
@@ -1129,12 +1129,12 @@
 </span name="1.3.266">To assist my simpleness.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.267">What would You, Desdemona?</span><br>
 </div>
 
-<b>DESDEMONA</b>
+##### DESDEMONA
 <div>
 </span name="1.3.268">That I did love the Moor to live with him,</span><br>
 </span name="1.3.269">My downright violence and storm of fortunes</span><br>
@@ -1150,7 +1150,7 @@
 </span name="1.3.279">By his dear absence. Let me go with him.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.280">Let her have your voices.</span><br>
 </span name="1.3.281">Vouch with me, heaven, I therefore beg it not,</span><br>
@@ -1169,24 +1169,24 @@
 </span name="1.3.294">Make head against my estimation!</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.295">Be it as you shall privately determine,</span><br>
 </span name="1.3.296">Either for her stay or going: the affair cries haste,</span><br>
 </span name="1.3.297">And speed must answer it.</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.298">You must away to-night.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.299">With all my heart.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.300">At nine i' the morning here we'll meet again.</span><br>
 </span name="1.3.301">Othello, leave some officer behind,</span><br>
@@ -1195,7 +1195,7 @@
 </span name="1.3.304">As doth import you.</span><br>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.305">So please your grace, my ancient;</span><br>
 </span name="1.3.306">A man he is of honest and trust:</span><br>
@@ -1204,7 +1204,7 @@
 </span name="1.3.309">To be sent after me.</span><br>
 </div>
 
-<b>DUKE OF VENICE</b>
+##### DUKE OF VENICE
 <div>
 </span name="1.3.310">Let it be so.</span><br>
 </span name="1.3.311">Good night to every one.</span><br>
@@ -1214,19 +1214,19 @@
 </span name="1.3.314">Your son-in-law is far more fair than black.</span><br>
 </div>
 
-<b>First Senator</b>
+##### First Senator
 <div>
 </span name="1.3.315">Adieu, brave Moor, use Desdemona well.</span><br>
 </div>
 
-<b>BRABANTIO</b>
+##### BRABANTIO
 <div>
 </span name="1.3.316">Look to her, Moor, if thou hast eyes to see:</span><br>
 </span name="1.3.317">She has deceived her father, and may thee.</span><br>
 <p><i>Exeunt DUKE OF VENICE, Senators, Officers,  &amp; c</i></p>
 </div>
 
-<b>OTHELLO</b>
+##### OTHELLO
 <div>
 </span name="1.3.318">My life upon her faith! Honest Iago,</span><br>
 </span name="1.3.319">My Desdemona must I leave to thee:</span><br>
@@ -1238,44 +1238,44 @@
 <p><i>Exeunt OTHELLO and DESDEMONA</i></p>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.325">Iago,--</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.326">What say'st thou, noble heart?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.327">What will I do, thinkest thou?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.328">Why, go to bed, and sleep.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.329">I will incontinently drown myself.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.330">If thou dost, I shall never love thee after. Why,</span><br>
 </span name="1.3.331">thou silly gentleman!</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.332">It is silliness to live when to live is torment; and</span><br>
 </span name="1.3.333">then have we a prescription to die when death is our physician.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.334">O villainous! I have looked upon the world for four</span><br>
 </span name="1.3.335">times seven years; and since I could distinguish</span><br>
@@ -1285,13 +1285,13 @@
 </span name="1.3.339">would change my humanity with a baboon.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.340">What should I do? I confess it is my shame to be so</span><br>
 </span name="1.3.341">fond; but it is not in my virtue to amend it.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.342">Virtue! a fig! 'tis in ourselves that we are thus</span><br>
 </span name="1.3.343">or thus. Our bodies are our gardens, to the which</span><br>
@@ -1310,12 +1310,12 @@
 </span name="1.3.356">you call love to be a sect or scion.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.357">It cannot be.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.358">It is merely a lust of the blood and a permission of</span><br>
 </span name="1.3.359">the will. Come, be a man. Drown thyself! drown</span><br>
@@ -1347,13 +1347,13 @@
 </span name="1.3.385">to be drowned and go without her.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.386">Wilt thou be fast to my hopes, if I depend on</span><br>
 </span name="1.3.387">the issue?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.388">Thou art sure of me:--go, make money:--I have told</span><br>
 </span name="1.3.389">thee often, and I re-tell thee again and again, I</span><br>
@@ -1366,43 +1366,43 @@
 </span name="1.3.396">of this to-morrow. Adieu.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.397">Where shall we meet i' the morning?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.398">At my lodging.</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.399">I'll be with thee betimes.</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.400">Go to; farewell. Do you hear, Roderigo?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.401">What say you?</span><br>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.402">No more of drowning, do you hear?</span><br>
 </div>
 
-<b>RODERIGO</b>
+##### RODERIGO
 <div>
 </span name="1.3.403">I am changed: I'll go sell all my land.</span><br>
 <p><i>Exit</i></p>
 </div>
 
-<b>IAGO</b>
+##### IAGO
 <div>
 </span name="1.3.404">Thus do I ever make my fool my purse:</span><br>
 </span name="1.3.405">For I mine own gain'd knowledge should profane,</span><br>
