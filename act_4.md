@@ -2,8 +2,9 @@
 
 <h3>ACT IV</h3>
 <h3>SCENE I. Cyprus. Before the castle.</h3>
-<p></p><br>
+<p></p>
 <i>Enter OTHELLO and IAGO</i>
+<br>
 
 <b>IAGO</b>
 <br>

@@ -2,8 +2,9 @@
 
 <h3>ACT III</h3>
 <h3>SCENE I. Before the castle.</h3>
-<p></p><br>
+<p></p>
 <i>Enter CASSIO and some Musicians</i>
+<br>
 
 <b>CASSIO</b>
 <br>

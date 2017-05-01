@@ -2,8 +2,9 @@
 
 <h3>ACT V</h3>
 <h3>SCENE I. Cyprus. A street.</h3>
-<p></p><br>
+<p></p>
 <i>Enter IAGO and RODERIGO</i>
+<br>
 
 <b>IAGO</b>
 <br>

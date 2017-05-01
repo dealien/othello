@@ -2,8 +2,9 @@
 
 <h3>ACT II</h3>
 <h3>SCENE I. A Sea-port in Cyprus. An open place near the quay.</h3>
-<p></p><br>
+<p></p>
 <i>Enter MONTANO and two Gentlemen</i>
+<br>
 
 <b>MONTANO</b>
 <br>

@@ -2,8 +2,9 @@
 
 <h3>ACT I</h3>
 <h3>SCENE I. Venice. A street.</h3>
-<p></p><br>
+<p></p>
 <i>Enter RODERIGO and IAGO</i>
+<br>
 
 <b>RODERIGO</b>
 <br>
