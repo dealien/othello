@@ -6,7 +6,7 @@ ORIGINAL HOST:
 
 [http://shakespeare.mit.edu/othello/full.html](http://shakespeare.mit.edu/othello/full.html)
 
-> **Info** Info  
+> **Info** Info
 
 > **Comment** Comment
 
@@ -17,3 +17,10 @@ ORIGINAL HOST:
 > **Success** Success
 
 But then there was no more...
+
+
+
+$$
+y^2 \left( \sqrt{\dfrac{12x}{16}} \right) = 24
+$$
+
