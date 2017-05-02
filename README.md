@@ -16,9 +16,9 @@ ORIGINAL HOST:
 
 > **Success** Success
 
-But then there was no more...
+But then the fancy comments were no more...
 
-
+Now time for a math test :)
 
 $$
 y^2 \left( \sqrt{\dfrac{12x}{16}} \right) = 24
