@@ -11,17 +11,11 @@ ORIGINAL HOST:
 
 
 > **Comment** Comment
-
-
-
+>
 > **Quote** Quote
-
-
-
+>
 > **Tag** Tag
-
-
-
+>
 > **Success** Success
 
 But then the fancy comments were no more...
