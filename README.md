@@ -14,27 +14,14 @@ That looks pretty cool. What about this?
 
 Yep, that's pretty sweet as well.
 
-> **Quote** Quote
-
-Nice.
-
 > **Tag** Tag
 
 Tag? Sure.
 
+> **Quote** Quote
+
+Don't quote me on that one...
+
 > **Success** Success
 
 Success! Huzzah!
-
-
-
-But then the fancy comments were no more...
-
-Now time for a math test :\)
-
-
-$$
-y^2 \left( \sqrt{\dfrac{12x}{16}} \right) = 24
-$$
-
-
