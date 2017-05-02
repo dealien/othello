@@ -8,23 +8,25 @@ ORIGINAL HOST:
 
 > **Info** Info
 
-That looks pretty cool. What about this? 
+That looks pretty cool. What about this?
 
 > **Comment** Comment
 
-Yep, that's pretty sweet as well. 
+Yep, that's pretty sweet as well.
 
 > **Quote** Quote
 
-Nice. 
+Nice.
 
 > **Tag** Tag
 
-Tag? Sure. 
+Tag? Sure.
 
 > **Success** Success
 
-Success! Huzzah! 
+Success! Huzzah!
+
+
 
 But then the fancy comments were no more...
 
