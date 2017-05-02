@@ -2,10 +2,12 @@
 
 I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND FILES PRESENTED HERE
 
-ORIGINAL HOST: 
+ORIGINAL HOST:
 
-http://shakespeare.mit.edu/othello/full.html
+[http://shakespeare.mit.edu/othello/full.html](http://shakespeare.mit.edu/othello/full.html)
 
-
-> **Info** Info
+> **Info** Info  
 > **Comment** Comment
+
+
+
