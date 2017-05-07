@@ -19,3 +19,8 @@ body {
 .normal div {
   margin-bottom: 20px;
 }
+
+.character-image{
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
