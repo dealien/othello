@@ -82,13 +82,13 @@ function addImages() {
                 '<img src="https://dealien.gitbooks.io/' + project + '/content/' +
                 path_to_images +
                 assetName +
-                '.png" width=24 height=24 align="middle" id="' +
+                '.png" id="' +
                 assetName +
-                ' character-image">');
+                ' character-image"><b class="have-asset">' + assetName + '</b>');
         } else {
             exists = false;
             console.error("Image does not exist for", assetName);
-            return '<span class="missing-asset">' + assetName + "</span>";
+            return '<b class="missing-asset">' + assetName + '</b>';
         }
         console.log('https://dealien.gitbooks.io/' + project + '/content/' +
             path_to_images +
