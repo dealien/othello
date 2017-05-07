@@ -18,7 +18,7 @@ ORIGINAL HOST:
 <i>Enter RODERIGO and IAGO</i>
 <br>
 
-<b>RODERIGO</b>
+<b>OTHELLO</b>
 <br>
 <span name="1.1.1">Tush! never tell me; I take it much unkindly</span><br>
 <span name="1.1.2">That thou, Iago, who hast had my purse</span><br>
@@ -31,7 +31,7 @@ ORIGINAL HOST:
 <span name="1.1.5">If ever I did dream of such a matter, Abhor me.</span><br>
 <br>
 
-<b>RODERIGO</b>
+<b>OTHELLO</b>
 <br>
 <span name="1.1.6">Thou told'st me thou didst hold him in thy hate.</span><br>
 <br>
