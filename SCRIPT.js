@@ -68,7 +68,7 @@ function addImages() {
         if (assets.indexOf(assetName) != -1) {
             exists = true;
             console.log("Image exists for", assetName);
-            return ('<img src="https://dealien.gitbooks.io/' + project + '/content/' + path_to_images + assetName + '.png" id="' + assetName + ' character-image"><b class="have-asset">' + assetName + '</b>');
+            return ('<img src="https://dealien.gitbooks.io/' + project + '/content/' + path_to_images + assetName + '.png" id="'+assetName+'" class="character-image"><b class="have-asset">' + assetName + '</b>');
         } else {
             exists = false;
             console.error("Image does not exist for", assetName);
