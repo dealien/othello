@@ -142,7 +142,7 @@
 <p><i>Guns heard</i></p>
 <br>
 
-<b>Second Gentlemen</b>
+<b>Second Gentleman</b>
 <br>
 <span name="2.1.60">They do discharge their shot of courtesy:</span><br>
 <span name="2.1.61">Our friends at least.</span><br>
