@@ -51,7 +51,7 @@ function imageExists(url, callback) {
 function indexAssets() {
     console.info("Running function indexAssets()");
     $("b:not([class])").each(function() {
-        var assetName = $.trim($(this).text());
+        var assetName = $.trim($(this).text()).toLowerCase();
         console.log(assetName);
         var path =
             'https://dealien.gitbooks.io/' + project + '/content/' +
@@ -73,7 +73,7 @@ function indexAssets() {
 function addImages() {
     console.info("Running function addImages()");
     $("b:not([class])").replaceWith(function() {
-        var assetName = $.trim($(this).text());
+        var assetName = $.trim($(this).text()).toLowerCase();
         console.log(assetName);
         if (assets.indexOf(assetName) != -1) {
             exists = true;
