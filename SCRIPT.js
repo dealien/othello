@@ -53,7 +53,8 @@ function indexAssets() {
         imageExists(path, function(exists) {
             console.log("RESULT: url=" + path + ", exists = " + exists);
             if (exists === true) {
-                assets.push(assetName);
+                if (assets.indexOf(assetName) == -1){
+                assets.push(assetName);}
                 console.log("assets:", assets);
             }
         });
