@@ -50,7 +50,7 @@ function imageExists(url, callback) {
 
 function indexAssets() {
     console.info("Running function indexAssets()");
-    $("span:not([class])").each(function() {
+    $("b:not([class])").each(function() {
         var assetName = $.trim($(this).text());
         console.log(assetName);
         var path =
@@ -72,7 +72,7 @@ function indexAssets() {
 
 function addImages() {
     console.info("Running function addImages()");
-    $("span:not([class])").replaceWith(function() {
+    $("b:not([class])").replaceWith(function() {
         var assetName = $.trim($(this).text());
         console.log(assetName);
         if (assets.indexOf(assetName) != -1) {
@@ -84,7 +84,7 @@ function addImages() {
                 assetName +
                 '.png" width=24 height=24 align="middle" id="' +
                 assetName +
-                '">');
+                ' character-image">');
         } else {
             exists = false;
             console.error("Image does not exist for", assetName);
