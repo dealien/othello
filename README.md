@@ -15,7 +15,7 @@ ORIGINAL HOST:
 <h3>ACT I</h3>
 <h3>SCENE I. Venice. A street.</h3>
 <p></p>
-<i>Enter RODERIGO and IAGO</i>
+<i>Enter RODERIGO and OTHELLO</i>
 <br>
 
 <b>OTHELLO</b>
