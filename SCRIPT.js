@@ -8,6 +8,7 @@ console.log("");
 console.log("");
 document.body.onload = start;
 var assets = [];
+var needed = [];
 var exists;
 var project = "othello";
 var path_to_images = "assets/";
@@ -56,6 +57,11 @@ function indexAssets() {
                 if (assets.indexOf(assetName) == -1){
                 assets.push(assetName);}
                 console.log("assets:", assets);
+            }
+            else if (exists === false) {
+                if (needed.indexOf(assetName) == -1){
+                needed.push(assetName);}
+                console.log("needed:", needed);
             }
         });
     });
