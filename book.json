@@ -1,3 +1,11 @@
 {
-	"plugins": ["richquotes"]
+	"plugins": ["richquotes","scripts"],
+
+"pluginsConfig": {
+"scripts": {
+"files": [
+"./SCRIPT.js"
+]
+}
+}
 }
