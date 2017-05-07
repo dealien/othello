@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="screen" href="./entire_play_files/style.css">
+<link rel="stylesheet" type="text/css" media="screen" href="./styles/website.css">
 
 <h3>ACT V</h3>
 <h3>SCENE I. Cyprus. A street.</h3>
