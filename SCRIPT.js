@@ -67,9 +67,8 @@ function indexAssets() {
                 console.log("assets:", assets);
             } else if (exists === false) {
                 if (needed.indexOf(assetName) == -1) {
-                    needed.push(assetName);
-                }
-                console.log("needed:", needed);
+                    needed.push(assetName);console.log("needed:", needed);
+                }    		  	    												      											              
             }
         });
     });
