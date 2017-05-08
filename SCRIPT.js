@@ -4,10 +4,8 @@ Code drafted on CodePen:
 https://codepen.io/Vyren/pen/BRdVeM?editors=1010
 */
 
-$(document).ready(function() {
-    $(document).live("onchange", function() {
-        start();
-    });
+$(document).live("onchange", function() {
+    start();
 });
 
 console.log("");
