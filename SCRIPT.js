@@ -15,20 +15,23 @@ var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
 
-// Set up MutationObserver to watch for page changes
-window.MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
-var target = document.querySelector('body'),
-// var target = $('.page-inner'),
-    // create an observer instance
-    observer = new MutationObserver(function(mutation) {
-        console.info('MutationObserver detected page change', mutation);
-        indexAssets();
-    }),
-    // configuration of the observer:
-    config = {
-        attributes: true // this is to watch for attribute changes.
-    };
-observer.observe(target, config);
+
+// Set up jQuery function to run the script after switching between GitBook chapters
+$('a').click(function(){
+	indexAssets();
+});
+
+
+
+
+
+
+
+
+
+
+
+
 
 $.when($.ajax(indexAssets())).then(function() {
     addImages();
