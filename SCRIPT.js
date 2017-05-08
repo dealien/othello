@@ -19,6 +19,7 @@ console.log("assets:", assets);
 $('a').click(function() {
     console.info('Link clicked', this);
     indexAssets();
+    return true;
 });
 
 $.when($.ajax(indexAssets())).then(function() {
