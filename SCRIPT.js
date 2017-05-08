@@ -17,31 +17,31 @@ var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
 
-// var last_hash = "";
+var last_hash = "";
 
-// setInterval(function(){
-//     hash = window.location.hash;
+setInterval(function(){
+    hash = window.location.hash;
 
-//     if(last_hash != hash && hash.length != 1){
-//         hash = hash.substring(1)
+    if(last_hash != hash && hash.length != 1){
+        hash = hash.substring(1)
 
-//         //Making sure that there's actually a function with that name
-//         if(typeof window[hash] == 'function'){
-//             var fn = window[hash];
+        //Making sure that there's actually a function with that name
+        if(typeof window[hash] == 'function'){
+            var fn = window[hash];
 
-//             //Execute the function
-//             fn.apply({param: "param1"}, ["param1", "param2"]);
-//         }
-//         last_hash = window.location.hash;
-//     }
-// }, 250);
+            //Execute the function
+            fn.apply({param: "param1"}, ["param1", "param2"]);
+        }
+        last_hash = window.location.hash;
+    }
+}, 250);
 
-// Set up jQuery function to run the script after switching between GitBook chapters
-$("a").on("click", function(e) {
-    console.info('Link clicked 2', this);
-    indexAssets();
-    return true;
-});
+// // Set up jQuery function to run the script after switching between GitBook chapters
+// $("a").on("click", function(e) {
+//     console.info('Link clicked 2', this);
+//     indexAssets();
+//     return true;
+// });
 
 $.when($.ajax(indexAssets())).then(function() {
     addImages();
