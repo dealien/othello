@@ -22,7 +22,7 @@ var path_to_images = "assets/";
 console.log("assets:", assets);
 
 $.when($.ajax(indexAssets())).then(function() {
-    addImages();
+    addImages()
 });
 
 function start() {
