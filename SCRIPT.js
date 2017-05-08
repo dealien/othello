@@ -20,6 +20,7 @@ window.MutationObserver = window.MutationObserver || window.WebKitMutationObserv
 var target = $('.page-inner');
 // create an observer instance
 observer = new MutationObserver(function(mutation) {
+        console.info('MutationObserver detected page change', mutation);
         indexAssets();
     }),
     // configuration of the observer:
