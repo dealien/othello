@@ -16,24 +16,9 @@ var exists;
 var project = "othello";
 var path_to_images = "assets/";
 
-
-
-
-
 // console.log("assets:", assets);
 
-
 addImages();
-
-
-
-
-
-
-
-
-
-
 
 // var last_hash = "";
 
