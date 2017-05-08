@@ -26,7 +26,7 @@ setInterval(function(){
         hash = hash.substring(1)
 
         //Making sure that there's actually a function with that name
-        if(typeof window[hash] == 'function'){
+        if(typeof window[hash] == 'indexAssets'){
             var fn = window[hash];
 
             //Execute the function
