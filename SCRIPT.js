@@ -6,9 +6,7 @@ https://codepen.io/Vyren/pen/BRdVeM?editors=1010
 
 $(document).ready(function() {
     $(document).live("onchange", function() {
-        $.when($.ajax(indexAssets())).then(function() {
-            addImages();
-        });
+        start();
     });
 });
 
@@ -22,6 +20,10 @@ var exists;
 var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
+
+$.when($.ajax(indexAssets())).then(function() {
+    addImages();
+});
 
 function start() {
     testjQuery();
@@ -91,4 +93,3 @@ function addImages() {
         console.log('https://dealien.gitbooks.io/' + project + '/content/' + path_to_images + assetName + '.png');
     });
 }
-
