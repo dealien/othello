@@ -1,8 +1,7 @@
 {
     "plugins": [
         "richquotes",
-        "scripts",
-        "headscript"
+        "scripts"
     ],
 
     "pluginsConfig": {
@@ -10,9 +9,6 @@
             "files": [
                 "./SCRIPT.js"
             ]
-        },
-        "layout": {
-            "scriptPath": "./SCRIPT.js"
         }
     }
 }
