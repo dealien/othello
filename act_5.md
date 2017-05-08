@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" media="screen" href="./styles/website.css">
+<script type="text/javascript" src="./SCRIPT.js"></script>
 
 <h3>ACT V</h3>
 <h3>SCENE I. Cyprus. A street.</h3>

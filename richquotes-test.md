@@ -1,3 +1,5 @@
+<script type="text/javascript" src="./SCRIPT.js"></script>
+
 > **Info** Info
 
 That looks pretty cool. What about this?
