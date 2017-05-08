@@ -3,6 +3,15 @@ Code drafted on CodePen:
 
 https://codepen.io/Vyren/pen/BRdVeM?editors=1010
 */
+
+$(document).ready(function() {
+    $(document).live("onchange", function() {
+        $.when($.ajax(indexAssets())).then(function() {
+            addImages();
+        });
+    });
+});
+
 console.log("");
 console.log("");
 console.log("");
@@ -12,16 +21,12 @@ var needed = [];
 var exists;
 var project = "othello";
 var path_to_images = "assets/";
-// var path_to_images = "images/buttons/";
 console.log("assets:", assets);
 
 function start() {
     testjQuery();
     // indexAssets();
 }
-$.when($.ajax(indexAssets())).then(function() {
-    addImages();
-});
 
 function testjQuery() {
     if (!window.jQuery) {
@@ -30,6 +35,7 @@ function testjQuery() {
         console.info("jQuery is loaded");
     }
 }
+
 // The "callback" argument is called with either true or false
 // depending on whether the image at "url" exists or not.
 function imageExists(url, callback) {
@@ -54,13 +60,14 @@ function indexAssets() {
         imageExists(path, function(exists) {
             console.log("RESULT: url=" + path + ", exists = " + exists);
             if (exists === true) {
-                if (assets.indexOf(assetName) == -1){
-                assets.push(assetName);}
+                if (assets.indexOf(assetName) == -1) {
+                    assets.push(assetName);
+                }
                 console.log("assets:", assets);
-            }
-            else if (exists === false) {
-                if (needed.indexOf(assetName) == -1){
-                needed.push(assetName);}
+            } else if (exists === false) {
+                if (needed.indexOf(assetName) == -1) {
+                    needed.push(assetName);
+                }
                 console.log("needed:", needed);
             }
         });
@@ -84,3 +91,4 @@ function addImages() {
         console.log('https://dealien.gitbooks.io/' + project + '/content/' + path_to_images + assetName + '.png');
     });
 }
+
