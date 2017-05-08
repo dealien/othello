@@ -17,19 +17,19 @@ var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
 
-// Set up jQuery function to run the script after switching between GitBook chapters
-$('a').click(function() {
-    console.info('Link clicked', this);
-    indexAssets();
-    return true;
-});
-
 $.when($.ajax(indexAssets())).then(function() {
     addImages();
 });
 
 function start() {
     testjQuery();
+    // Set up jQuery function to run the script after switching between GitBook chapters
+    $('a').click(function() {
+        console.info('Link clicked', this);
+        indexAssets();
+        return true;
+    });
+
 }
 
 function testjQuery() {
