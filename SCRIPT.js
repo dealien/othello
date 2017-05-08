@@ -17,9 +17,9 @@ console.log("assets:", assets);
 
 // Set up MutationObserver to watch for page changes
 window.MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
-var target = $('.page-inner');
-// create an observer instance
-observer = new MutationObserver(function(mutation) {
+var target = $('.page-inner'),
+    // create an observer instance
+    observer = new MutationObserver(function(mutation) {
         console.info('MutationObserver detected page change', mutation);
         indexAssets();
     }),
