@@ -15,23 +15,10 @@ var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
 
-
 // Set up jQuery function to run the script after switching between GitBook chapters
-$('a').click(function(){
-	indexAssets();
+$('a').click(function() {
+    indexAssets();
 });
-
-
-
-
-
-
-
-
-
-
-
-
 
 $.when($.ajax(indexAssets())).then(function() {
     addImages();
