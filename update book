@@ -1,6 +1,0 @@
-git status
-git add .
-git status
-git commit -m "auto-update via bash"
-git push
-git status
