@@ -7,7 +7,9 @@ https://codepen.io/Vyren/pen/BRdVeM?editors=1010
 console.log("");
 console.log("");
 console.log("");
+
 document.body.onload = start;
+
 var assets = [];
 var needed = [];
 var exists;
@@ -68,8 +70,9 @@ function indexAssets() {
                 console.log("assets:", assets);
             } else if (exists === false) {
                 if (needed.indexOf(assetName) == -1) {
-                    needed.push(assetName);console.log("needed:", needed);
-                }    		  	    												      											              
+                    needed.push(assetName);
+                    console.log("needed:", needed);
+                }
             }
         });
     });
