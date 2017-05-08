@@ -15,7 +15,18 @@ var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
 
-$(document).on("change", "input[name=INPUTNAME]", function(){})
+// Set up MutationObserver to watch for page changes
+window.MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
+var target = $('.page-inner');
+// create an observer instance
+observer = new MutationObserver(function(mutation) {
+        indexAssets();
+    }),
+    // configuration of the observer:
+    config = {
+        attributes: true // this is to watch for attribute changes.
+    };
+observer.observe(target, config);
 
 $.when($.ajax(indexAssets())).then(function() {
     addImages();
