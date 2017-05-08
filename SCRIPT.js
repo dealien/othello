@@ -34,7 +34,6 @@ $.when($.ajax(indexAssets())).then(function() {
 
 function start() {
     testjQuery();
-    // indexAssets();
 }
 
 function testjQuery() {
