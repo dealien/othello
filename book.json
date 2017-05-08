@@ -1,7 +1,6 @@
 {
     "plugins": [
         "richquotes",
-        // "scripts",
         "headscript"
     ],
 
