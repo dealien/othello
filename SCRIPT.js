@@ -4,10 +4,6 @@ Code drafted on CodePen:
 https://codepen.io/Vyren/pen/BRdVeM?editors=1010
 */
 
-$(document).live("onchange", function() {
-    start();
-});
-
 console.log("");
 console.log("");
 console.log("");
@@ -18,6 +14,8 @@ var exists;
 var project = "othello";
 var path_to_images = "assets/";
 console.log("assets:", assets);
+
+$(document).on("change", "input[name=INPUTNAME]", function(){})
 
 $.when($.ajax(indexAssets())).then(function() {
     addImages();
