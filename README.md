@@ -10,6 +10,8 @@ ORIGINAL HOST:
 
 [http://shakespeare.mit.edu/othello/full.html](http://shakespeare.mit.edu/othello/full.html)
 
+**IF THE CHARACTER IMAGES DO NOT LOAD, RELOAD THE PAGE**
+
 ## Image Test
 
 <link rel="stylesheet" type="text/css" media="screen" href="./styles/website.css">
