@@ -1,4 +1,4 @@
-![](/assets/Bianca.jpg)<script type="text/javascript" src="./SCRIPT.js"></script>
+<script type="text/javascript" src="./SCRIPT.js"></script>
 
 # Othello
 
