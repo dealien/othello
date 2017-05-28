@@ -37,19 +37,13 @@ span:hover {
     color: red;
 }
 
-span[name]:after {
-    opacity: 0;
-}
-
 span[name]:hover:after {
-    transition: opacity 2s ease-in-out;
     content: attr(name);
     font-size: small;
     padding: 2px 2px;
     color: #333;
     position: absolute;
     left: 110%;
-    opacity: 1;
     white-space: nowrap;
     z-index: 20px;
     -moz-border-radius: 5px;
