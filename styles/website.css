@@ -33,11 +33,6 @@ b {
     left: 80px;
 }
 
-.place {
-    position: absolute;
-    float: right;
-}
-
 span:hover {
     color: red;
 }
@@ -45,11 +40,12 @@ span:hover {
 span[name]:hover:after {
     transition: opacity 2s ease-in-out;
     content: attr(name);
-    padding: 4px 8px;
+    font-size: small;
+    padding: 2px 2px;
     color: #333;
     position: absolute;
-    left: 0;
-    top: 100%;
+    left: 110%;
+    top: -20%;
     white-space: nowrap;
     z-index: 20px;
     -moz-border-radius: 5px;
