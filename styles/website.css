@@ -40,7 +40,6 @@ b {
 
 span:hover {
     color: red;
-    position: relative;
 }
 
 span[name]:hover:after {
