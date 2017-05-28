@@ -49,7 +49,6 @@ span[name]:hover:after {
     color: #333;
     position: absolute;
     left: 110%;
-    top: -20%;
     opacity: 1;
     white-space: nowrap;
     z-index: 20px;
