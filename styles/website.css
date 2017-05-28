@@ -32,3 +32,8 @@ b {
     position: absolute;
     left: 80px;
 }
+
+.place {
+    position: absolute;
+    float: right;
+}
