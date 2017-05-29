@@ -291,7 +291,7 @@
 <br>
 <span name="2.1.121">Come on, come on; you are pictures out of doors,</span><br>
 <span name="2.1.122">Bells in your parlors, wild-cats in your kitchens,</span><br>
-<span name="2.1.123">Saints m your injuries, devils being offended,</span><br>
+<span name="2.1.123">Saints in your injuries, devils being offended,</span><br>
 <span name="2.1.124">Players in your housewifery, and housewives' in your beds.</span><br>
 <br>
 
