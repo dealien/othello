@@ -1457,7 +1457,11 @@
 <br>
 <span name="2.3.334">You are in the right. Good night, lieutenant; I</span><br>
 <span name="2.3.335">must to the watch.</span><br>
-<span name="2.3.336">CASSIO: Good night, honest Iago.</span><br>
+<br>
+
+<b>CASSIO</b>
+<br>
+<span name="2.3.336">Good night, honest Iago.</span><br>
 <p><i>Exit</i></p>
 <br>
 
