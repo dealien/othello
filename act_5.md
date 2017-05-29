@@ -28,6 +28,7 @@
 <span name="5.1.7">Here, at thy hand: be bold, and take thy stand.</span><br>
 <p><i>Retires</i></p>
 <br>
+<p></p>
 
 <b>RODERIGO</b>
 <br>
@@ -52,12 +53,14 @@
 <span name="5.1.22">No, he must die. But so: I hear him coming.</span><br>
 <p><i>Enter CASSIO</i></p>
 <br>
+<p></p>
 
 <b>RODERIGO</b>
 <br>
 <span name="5.1.23">I know his gait, 'tis he.--Villain, thou diest!</span><br>
 <p><i>Makes a pass at CASSIO</i></p>
 <br>
+<p></p>
 
 <b>CASSIO</b>
 <br>
@@ -66,12 +69,14 @@
 <span name="5.1.26">I will make proof of thine.</span><br>
 <p><i>Draws, and wounds RODERIGO</i></p>
 <br>
+<p></p>
 
 <b>RODERIGO</b>
 <br>
 <span name="5.1.27">O, I am slain!</span><br>
 <p><i>IAGO from behind wounds CASSIO in the leg, and exit</i></p>
 <br>
+<p></p>
 
 <b>CASSIO</b>
 <br>
@@ -79,6 +84,7 @@
 <p><i>Falls</i></p>
 <p><i>Enter OTHELLO</i></p>
 <br>
+<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -111,6 +117,7 @@
 <p><i>Exit</i></p>
 <p><i>Enter LODOVICO and GRATIANO</i></p>
 <br>
+<p></p>
 
 <b>CASSIO</b>
 <br>
@@ -154,6 +161,7 @@
 <span name="5.1.48">Hark!</span><br>
 <p><i>Re-enter IAGO, with a light</i></p>
 <br>
+<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -223,6 +231,7 @@
 <span name="5.1.64">What are you there? come in, and give some help.</span><br>
 <p><i>To LODOVICO and GRATIANO</i></p>
 <br>
+<p></p>
 
 <b>RODERIGO</b>
 <br>
@@ -239,6 +248,7 @@
 <span name="5.1.67">O murderous slave! O villain!</span><br>
 <p><i>Stabs RODERIGO</i></p>
 <br>
+<p></p>
 
 <b>RODERIGO</b>
 <br>
@@ -293,6 +303,7 @@
 <span name="5.1.80">Light, gentlemen; I'll bind it with my shirt.</span><br>
 <p><i>Enter BIANCA</i></p>
 <br>
+<p></p>
 
 <b>BIANCA</b>
 <br>
@@ -420,6 +431,7 @@
 <span name="5.1.123">Though tongues were out of use.</span><br>
 <p><i>Enter EMILIA</i></p>
 <br>
+<p></p>
 
 <b>EMILIA</b>
 <br>
@@ -489,6 +501,7 @@
 <span name="5.2.1">a light burning.</span><br>
 <p><i>Enter OTHELLO</i></p>
 <br>
+<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -796,6 +809,7 @@
 <span name="5.2.102">It is too late.</span><br>
 <p><i>He stifles her</i></p>
 <br>
+<p></p>
 
 <b>EMILIA</b>
 <br>
@@ -938,6 +952,7 @@
 <span name="5.2.149">Commend me to my kind lord: O, farewell!</span><br>
 <p><i>Dies</i></p>
 <br>
+<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -1092,6 +1107,7 @@
 <span name="5.2.198">The Moor hath kill'd my mistress! Murder! murder!</span><br>
 <p><i>Enter MONTANO, GRATIANO, IAGO, and others</i></p>
 <br>
+<p></p>
 
 <b>MONTANO</b>
 <br>
@@ -1201,6 +1217,7 @@
 <span name="5.2.230">O! O! O!</span><br>
 <p><i>He falls on the bed</i></p>
 <br>
+<p></p>
 
 <b>EMILIA</b>
 <br>
@@ -1267,6 +1284,7 @@
 <span name="5.2.259">I will not.</span><br>
 <p><i>IAGO offers to stab EMILIA</i></p>
 <br>
+<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -1312,6 +1330,7 @@
 <span name="5.2.275">But what serve for the thunder?--Precious villain!</span><br>
 <p><i>He runs at IAGO  IAGO, from behind, stabs EMILIA, and exit</i></p>
 <br>
+<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -1337,6 +1356,7 @@
 <span name="5.2.283">For 'tis a damned slave.</span><br>
 <p><i>Exeunt MONTANO and GRATIANO</i></p>
 <br>
+<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -1358,6 +1378,7 @@
 <span name="5.2.294">So speaking as I think, I die, I die.</span><br>
 <p><i>Dies</i></p>
 <br>
+<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -1378,6 +1399,7 @@
 <span name="5.2.301">Or, naked as I am, I will assault thee.</span><br>
 <p><i>Re-enter GRATIANO</i></p>
 <br>
+<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -1412,6 +1434,7 @@
 <span name="5.2.326">Oh! Oh! Oh!</span><br>
 <p><i>Enter LODOVICO. MONTANO, CASSIO carried in a chair, and Officers with IAGO, prisoner</i></p>
 <br>
+<p></p>
 
 <b>LODOVICO</b>
 <br>
@@ -1434,6 +1457,7 @@
 <span name="5.2.331">If that thou best a devil, I cannot kill thee.</span><br>
 <p><i>Wounds IAGO</i></p>
 <br>
+<p></p>
 
 <b>LODOVICO</b>
 <br>
@@ -1603,6 +1627,7 @@
 <span name="5.2.407">And smote him, thus.</span><br>
 <p><i>Stabs himself</i></p>
 <br>
+<p></p>
 
 <b>LODOVICO</b>
 <br>
@@ -1620,6 +1645,7 @@
 <span name="5.2.411">Killing myself, to die upon a kiss.</span><br>
 <p><i>Falls on the bed, and dies</i></p>
 <br>
+<p></p>
 
 <b>CASSIO</b>
 <br>
