@@ -4,10 +4,8 @@
 <h3>ACT V</h3>
 <h3>SCENE I. Cyprus. A street.</h3>
 <p></p>
-<p></p>
 <i>Enter IAGO and RODERIGO</i>
 <br>
-<p></p>
 
 <b>IAGO</b>
 <br>
@@ -26,9 +24,8 @@
 <b>IAGO</b>
 <br>
 <span name="5.1.7">Here, at thy hand: be bold, and take thy stand.</span><br>
-<p><i>Retires</i></p>
+<i>Retires</i><br>
 <br>
-<p></p>
 
 <b>RODERIGO</b>
 <br>
@@ -51,40 +48,35 @@
 <span name="5.1.20">That makes me ugly; and, besides, the Moor</span><br>
 <span name="5.1.21">May unfold me to him; there stand I in much peril:</span><br>
 <span name="5.1.22">No, he must die. But so: I hear him coming.</span><br>
-<p><i>Enter CASSIO</i></p>
+<i>Enter CASSIO</i><br>
 <br>
-<p></p>
 
 <b>RODERIGO</b>
 <br>
 <span name="5.1.23">I know his gait, 'tis he.--Villain, thou diest!</span><br>
-<p><i>Makes a pass at CASSIO</i></p>
+<i>Makes a pass at CASSIO</i><br>
 <br>
-<p></p>
 
 <b>CASSIO</b>
 <br>
 <span name="5.1.24">That thrust had been mine enemy indeed,</span><br>
 <span name="5.1.25">But that my coat is better than thou know'st</span><br>
 <span name="5.1.26">I will make proof of thine.</span><br>
-<p><i>Draws, and wounds RODERIGO</i></p>
+<i>Draws, and wounds RODERIGO</i><br>
 <br>
-<p></p>
 
 <b>RODERIGO</b>
 <br>
 <span name="5.1.27">O, I am slain!</span><br>
-<p><i>IAGO from behind wounds CASSIO in the leg, and exit</i></p>
+<i>IAGO from behind wounds CASSIO in the leg, and exit</i><br>
 <br>
-<p></p>
 
 <b>CASSIO</b>
 <br>
 <span name="5.1.28">I am maim'd for ever. Help, ho! murder! murder!</span><br>
-<p><i>Falls</i></p>
-<p><i>Enter OTHELLO</i></p>
+<i>Falls</i><br>
+<i>Enter OTHELLO</i><br>
 <br>
-<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -114,10 +106,9 @@
 <span name="5.1.36">And your unblest fate hies: strumpet, I come.</span><br>
 <span name="5.1.37">Forth of my heart those charms, thine eyes, are blotted;</span><br>
 <span name="5.1.38">Thy bed, lust-stain'd, shall with lust's blood be spotted.</span><br>
-<p><i>Exit</i></p>
-<p><i>Enter LODOVICO and GRATIANO</i></p>
+<i>Exit</i><br>
+<i>Enter LODOVICO and GRATIANO</i><br>
 <br>
-<p></p>
 
 <b>CASSIO</b>
 <br>
@@ -159,9 +150,8 @@
 <b>LODOVICO</b>
 <br>
 <span name="5.1.48">Hark!</span><br>
-<p><i>Re-enter IAGO, with a light</i></p>
+<i>Re-enter IAGO, with a light</i><br>
 <br>
-<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -229,9 +219,8 @@
 <br>
 <span name="5.1.63">O treacherous villains!</span><br>
 <span name="5.1.64">What are you there? come in, and give some help.</span><br>
-<p><i>To LODOVICO and GRATIANO</i></p>
+<i>To LODOVICO and GRATIANO</i><br>
 <br>
-<p></p>
 
 <b>RODERIGO</b>
 <br>
@@ -246,9 +235,8 @@
 <b>IAGO</b>
 <br>
 <span name="5.1.67">O murderous slave! O villain!</span><br>
-<p><i>Stabs RODERIGO</i></p>
+<i>Stabs RODERIGO</i><br>
 <br>
-<p></p>
 
 <b>RODERIGO</b>
 <br>
@@ -301,9 +289,8 @@
 <br>
 <span name="5.1.79">Marry, heaven forbid!</span><br>
 <span name="5.1.80">Light, gentlemen; I'll bind it with my shirt.</span><br>
-<p><i>Enter BIANCA</i></p>
+<i>Enter BIANCA</i><br>
 <br>
-<p></p>
 
 <b>BIANCA</b>
 <br>
@@ -398,7 +385,7 @@
 <b>IAGO</b>
 <br>
 <span name="5.1.107">He, he 'tis he.</span><br>
-<p><i>A chair brought in</i></p>
+<i>A chair brought in</i><br>
 <span name="5.1.108">O, that's well said; the chair!</span><br>
 <br>
 
@@ -406,7 +393,7 @@
 <br>
 <span name="5.1.109">Some good man bear him carefully from hence;</span><br>
 <span name="5.1.110">I'll fetch the general's surgeon.</span><br>
-<p><i>To BIANCA</i></p>
+<i>To BIANCA</i><br>
 <span name="5.1.111">For you, mistress,</span><br>
 <span name="5.1.112">Save you your labour. He that lies slain</span><br>
 <span name="5.1.113">here, Cassio,</span><br>
@@ -422,16 +409,15 @@
 <br>
 <span name="5.1.116">[To BIANCA]  What, look you pale? O, bear him out</span><br>
 <span name="5.1.117">o' the air.</span><br>
-<p><i>CASSIO and RODERIGO are borne off</i></p>
+<i>CASSIO and RODERIGO are borne off</i><br>
 <span name="5.1.118">Stay you, good gentlemen. Look you pale, mistress?</span><br>
 <span name="5.1.119">Do you perceive the gastness of her eye?</span><br>
 <span name="5.1.120">Nay, if you stare, we shall hear more anon.</span><br>
 <span name="5.1.121">Behold her well; I pray you, look upon her:</span><br>
 <span name="5.1.122">Do you see, gentlemen? nay, guiltiness will speak,</span><br>
 <span name="5.1.123">Though tongues were out of use.</span><br>
-<p><i>Enter EMILIA</i></p>
+<i>Enter EMILIA</i><br>
 <br>
-<p></p>
 
 <b>EMILIA</b>
 <br>
@@ -454,7 +440,7 @@
 <br>
 <span name="5.1.129">This is the fruit of whoring. Prithee, Emilia,</span><br>
 <span name="5.1.130">Go know of Cassio where he supp'd to-night.</span><br>
-<p><i>To BIANCA</i></p>
+<i>To BIANCA</i><br>
 <span name="5.1.131">What, do you shake at that?</span><br>
 <br>
 
@@ -491,17 +477,16 @@
 <span name="5.1.140">Emilia run you to the citadel,</span><br>
 <span name="5.1.141">And tell my lord and lady what hath happ'd.</span><br>
 <span name="5.1.142">Will you go on? I pray.</span><br>
-<p><i>Aside</i></p>
+<i>Aside</i><br>
 <span name="5.1.143">This is the night</span><br>
 <span name="5.1.144">That either makes me or fordoes me quite.</span><br>
-<p><i>Exeunt</i></p>
+<i>Exeunt</i><br>
 <br>
 <h3>SCENE II. A bedchamber in the castle: DESDEMONA in bed asleep;</h3>
 <br>
 <span name="5.2.1">a light burning.</span><br>
-<p><i>Enter OTHELLO</i></p>
+<i>Enter OTHELLO</i><br>
 <br>
-<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -520,7 +505,7 @@
 <span name="5.2.14">That can thy light relume. When I have pluck'd the rose,</span><br>
 <span name="5.2.15">I cannot give it vital growth again.</span><br>
 <span name="5.2.16">It must needs wither: I'll smell it on the tree.</span><br>
-<p><i>Kissing her</i></p>
+<i>Kissing her</i><br>
 <span name="5.2.17">Ah balmy breath, that dost almost persuade</span><br>
 <span name="5.2.18">Justice to break her sword! One more, one more.</span><br>
 <span name="5.2.19">Be thus when thou art dead, and I will kill thee,</span><br>
@@ -807,9 +792,8 @@
 <b>OTHELLO</b>
 <br>
 <span name="5.2.102">It is too late.</span><br>
-<p><i>He stifles her</i></p>
+<i>He stifles her</i><br>
 <br>
-<p></p>
 
 <b>EMILIA</b>
 <br>
@@ -864,8 +848,8 @@
 <span name="5.2.123">I had forgot thee: O, come in, Emilia;</span><br>
 <span name="5.2.124">Soft; by and by. Let me the curtains draw.</span><br>
 <span name="5.2.125">Where art thou?</span><br>
-<p><i>Unlocks the door</i></p>
-<p><i>Enter EMILIA</i></p>
+<i>Unlocks the door</i><br>
+<i>Enter EMILIA</i><br>
 <span name="5.2.126">What's the matter with thee now?</span><br>
 <br>
 
@@ -950,9 +934,8 @@
 <br>
 <span name="5.2.148">Nobody; I myself. Farewell</span><br>
 <span name="5.2.149">Commend me to my kind lord: O, farewell!</span><br>
-<p><i>Dies</i></p>
+<i>Dies</i><br>
 <br>
-<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -1105,9 +1088,8 @@
 <span name="5.2.196">I care not for thy sword; I'll make thee known,</span><br>
 <span name="5.2.197">Though I lost twenty lives.--Help! help, ho! help!</span><br>
 <span name="5.2.198">The Moor hath kill'd my mistress! Murder! murder!</span><br>
-<p><i>Enter MONTANO, GRATIANO, IAGO, and others</i></p>
+<i>Enter MONTANO, GRATIANO, IAGO, and others</i><br>
 <br>
-<p></p>
 
 <b>MONTANO</b>
 <br>
@@ -1215,9 +1197,8 @@
 <b>OTHELLO</b>
 <br>
 <span name="5.2.230">O! O! O!</span><br>
-<p><i>He falls on the bed</i></p>
+<i>He falls on the bed</i><br>
 <br>
-<p></p>
 
 <b>EMILIA</b>
 <br>
@@ -1282,9 +1263,8 @@
 <b>EMILIA</b>
 <br>
 <span name="5.2.259">I will not.</span><br>
-<p><i>IAGO offers to stab EMILIA</i></p>
+<i>IAGO offers to stab EMILIA</i><br>
 <br>
-<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -1328,9 +1308,8 @@
 <br>
 <span name="5.2.274">Are there no stones in heaven</span><br>
 <span name="5.2.275">But what serve for the thunder?--Precious villain!</span><br>
-<p><i>He runs at IAGO  IAGO, from behind, stabs EMILIA, and exit</i></p>
+<i>He runs at IAGO  IAGO, from behind, stabs EMILIA, and exit</i><br>
 <br>
-<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -1354,9 +1333,8 @@
 <span name="5.2.281">Come, guard the door without; let him not pass,</span><br>
 <span name="5.2.282">But kill him rather. I'll after that same villain,</span><br>
 <span name="5.2.283">For 'tis a damned slave.</span><br>
-<p><i>Exeunt MONTANO and GRATIANO</i></p>
+<i>Exeunt MONTANO and GRATIANO</i><br>
 <br>
-<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -1371,14 +1349,13 @@
 <span name="5.2.288">What did thy song bode, lady?</span><br>
 <span name="5.2.289">Hark, canst thou hear me? I will play the swan.</span><br>
 <span name="5.2.290">And die in music.</span><br>
-<p><i>Singing</i></p>
+<i>Singing</i><br>
 <span name="5.2.291">Willow, willow, willow,--</span><br>
 <span name="5.2.292">Moor, she was chaste; she loved thee, cruel Moor;</span><br>
 <span name="5.2.293">So come my soul to bliss, as I speak true;</span><br>
 <span name="5.2.294">So speaking as I think, I die, I die.</span><br>
-<p><i>Dies</i></p>
+<i>Dies</i><br>
 <br>
-<p></p>
 
 <b>OTHELLO</b>
 <br>
@@ -1397,9 +1374,8 @@
 <br>
 <span name="5.2.300">Look in upon me then and speak with me,</span><br>
 <span name="5.2.301">Or, naked as I am, I will assault thee.</span><br>
-<p><i>Re-enter GRATIANO</i></p>
+<i>Re-enter GRATIANO</i><br>
 <br>
-<p></p>
 
 <b>GRATIANO</b>
 <br>
@@ -1432,9 +1408,8 @@
 <span name="5.2.324">Wash me in steep-down gulfs of liquid fire!</span><br>
 <span name="5.2.325">O Desdemona! Desdemona! dead!</span><br>
 <span name="5.2.326">Oh! Oh! Oh!</span><br>
-<p><i>Enter LODOVICO. MONTANO, CASSIO carried in a chair, and Officers with IAGO, prisoner</i></p>
+<i>Enter LODOVICO. MONTANO, CASSIO carried in a chair, and Officers with IAGO, prisoner</i><br>
 <br>
-<p></p>
 
 <b>LODOVICO</b>
 <br>
@@ -1455,9 +1430,8 @@
 <br>
 <span name="5.2.330">I look down towards his feet; but that's a fable.</span><br>
 <span name="5.2.331">If that thou best a devil, I cannot kill thee.</span><br>
-<p><i>Wounds IAGO</i></p>
+<i>Wounds IAGO</i><br>
 <br>
-<p></p>
 
 <b>LODOVICO</b>
 <br>
@@ -1625,9 +1599,8 @@
 <span name="5.2.405">Beat a Venetian and traduced the state,</span><br>
 <span name="5.2.406">I took by the throat the circumcised dog,</span><br>
 <span name="5.2.407">And smote him, thus.</span><br>
-<p><i>Stabs himself</i></p>
+<i>Stabs himself</i><br>
 <br>
-<p></p>
 
 <b>LODOVICO</b>
 <br>
@@ -1643,9 +1616,8 @@
 <br>
 <span name="5.2.410">I kiss'd thee ere I kill'd thee: no way but this;</span><br>
 <span name="5.2.411">Killing myself, to die upon a kiss.</span><br>
-<p><i>Falls on the bed, and dies</i></p>
+<i>Falls on the bed, and dies</i><br>
 <br>
-<p></p>
 
 <b>CASSIO</b>
 <br>
@@ -1666,4 +1638,4 @@
 <span name="5.2.422">The time, the place, the torture: O, enforce it!</span><br>
 <span name="5.2.423">Myself will straight aboard: and to the state</span><br>
 <span name="5.2.424">This heavy act with heavy heart relate.</span><br>
-<p><i>Exeunt</i></p>
+<i>Exeunt</i><br>
