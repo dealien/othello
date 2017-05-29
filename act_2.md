@@ -1465,7 +1465,7 @@
 <p><i>Exit</i></p>
 <br>
 
-> **Info** Iago's soliloquy when he sticks his arm into a fire. 
+> **Info** Iago's soliloquy when he sticks his arm into a fire in the movie Othello (1995). 
 
 <b>IAGO</b>
 <br>
