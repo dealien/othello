@@ -1465,6 +1465,8 @@
 <p><i>Exit</i></p>
 <br>
 
+> **Info** Iago's soliloquy when he sticks his arm into a fire. 
+
 <b>IAGO</b>
 <br>
 <span name="2.3.337">And what's he then that says I play the villain?</span><br>
