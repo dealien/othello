@@ -14,8 +14,8 @@ Original Host:
 
 ## Notes
 
-* Hover over a line in the script to show the "<act>.<scene>.<line>" reference as a tooltip. 
-* Click on a line to copy the "<act>.<scene>.<line>" reference to the clipboard
+* Hover over a line in the script to show the "act.scene.line" reference as a tooltip. 
+* Click on a line to copy the "act.scene.line" reference to the clipboard
 
 ## Sample From Script
 
