@@ -12,7 +12,9 @@ Original Host:
 
 **IF THE CHARACTER IMAGES DO NOT LOAD, RELOAD THE PAGE**
 
-## Image Test
+## Sample
+
+<hr>
 
 <link rel="stylesheet" type="text/css" media="screen" href="./styles/website.css">
 
