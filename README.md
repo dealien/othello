@@ -12,7 +12,7 @@ Original Host:
 
 **IF THE CHARACTER IMAGES DO NOT LOAD, RELOAD THE PAGE**
 
-## Sample
+## Sample From Script
 
 <hr>
 
