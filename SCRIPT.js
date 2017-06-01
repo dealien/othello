@@ -26,6 +26,10 @@ function imageExists(url, callback) {
         callback(true);
     };
     img.onerror = function() {
+        $("#closeLink").click(function() {
+            closeIt(1, false);
+        });
+
         callback(false);
     };
     img.src = url;
@@ -72,4 +76,19 @@ function addImages() {
         }
         // console.log('https://dealien.gitbooks.io/' + project + '/content/' + path_to_images + assetName + '.png');
     });
+}
+
+$("span").click(function() {
+    copyRef(this);
+});
+
+// Automatically copy the "act.scene.line" reference of a line to the clipboard when clicked
+function copyRef(line) {
+    var reference = $(line).attr("name");
+    $(line).append('<textarea id="copy-box">' + reference + '</textarea>');
+    document.getElementById('copy-box').select();
+    document.execCommand('copy');
+    $("#copy-box").remove();
+
+    console.info("Reference copied to clipboard", reference);
 }
