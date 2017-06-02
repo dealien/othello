@@ -4,8 +4,6 @@ Code drafted on CodePen:
 https://codepen.io/Vyren/pen/BRdVeM?editors=1010
 */
 
-console.clear();
-
 var assets = [];
 var needed = [];
 var exists;
