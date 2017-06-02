@@ -22,6 +22,7 @@ $("b").click(function() {
     var needed = [];
     console.info("object clicked", this);
     indexAssets();
+    addImages();
 });
 
 // The "callback" argument is called with either true or false
