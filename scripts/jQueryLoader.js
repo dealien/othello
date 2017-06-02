@@ -21,7 +21,7 @@
         $(function() {
             var endingTime = new Date().getTime();
             var tookTime = endingTime - startingTime;
-            window.alert("jQuery is loaded, after " + tookTime + " milliseconds!");
+            console.info("jQuery is loaded, after " + tookTime + " milliseconds!");
         });
     });
 })();
