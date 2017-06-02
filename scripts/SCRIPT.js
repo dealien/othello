@@ -17,7 +17,7 @@ $.when($.ajax(indexAssets())).then(function() {
 });
 
 // Run indexAssets() when clicking on a character name
-$("b:not([class])").click(function() {
+$("b").click(function() {
     var assets = [];
     var needed = [];
     indexAssets();
