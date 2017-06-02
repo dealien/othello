@@ -21,7 +21,8 @@ $("b").click(function() {
     var assets = [];
     var needed = [];
     console.info("object clicked", this);
-    indexAssets(); });
+    indexAssets();
+});
 
 // The "callback" argument is called with either true or false
 // depending on whether the image at "url" exists or not.
