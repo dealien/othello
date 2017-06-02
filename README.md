@@ -9,7 +9,7 @@ I downloaded and re-hosted the original Othello text from MIT's online Shakespea
 Original Host:
 
 [http://shakespeare.mit.edu/othello/full.html](http://shakespeare.mit.edu/othello/full.html)
-
+ 
 **IF THE CHARACTER IMAGES DO NOT LOAD, RELOAD THE PAGE**
 
 ## Notes
