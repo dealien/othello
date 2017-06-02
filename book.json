@@ -7,7 +7,8 @@
     "pluginsConfig": {
         "scripts": {
             "files": [
-                "./SCRIPT.js"
+                "./scripts/SCRIPT.js",
+                "./scripts/jQueryLoader.js"
             ]
         }
     }
