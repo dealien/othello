@@ -16,10 +16,11 @@ $.when($.ajax(indexAssets())).then(function() {
     addImages();
 });
 
-// Run indexAssets() when clicking on a character name
+// Run indexAssets() when clicking on a character's name
 $("b").click(function() {
     var assets = [];
     var needed = [];
+    console.info("object clicked", this);
     indexAssets();
 });
 
