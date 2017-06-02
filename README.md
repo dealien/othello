@@ -4,7 +4,7 @@
 
 I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND FILES PRESENTED HERE.
 
-The Othello text was downloaded and re-hosted so that I could make a few changes to the formatting of said text. 
+I downloaded and re-hosted the original Othello text from MIT's online Shakespeare archive so that I could personalize the formatting and presentation of the text. 
 
 Original Host:
 
