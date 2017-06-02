@@ -42,7 +42,7 @@ function indexAssets() {
         // console.log(path);
         console.count("items tested for index");
         imageExists(path, function(exists) {
-            console.log("RESULT: url=" + path + ", exists = " + exists);
+            // console.log("RESULT: url=" + path + ", exists = " + exists);
             if (exists === true) {
                 if (assets.indexOf(assetName) == -1) {
                     assets.push(assetName);
@@ -51,7 +51,7 @@ function indexAssets() {
             } else if (exists === false) {
                 if (needed.indexOf(assetName) == -1) {
                     needed.push(assetName);
-                    console.log("needed:", needed);
+                    // console.log("needed:", needed);
                 }
             }
         });
