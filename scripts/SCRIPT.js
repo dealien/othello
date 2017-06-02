@@ -16,15 +16,6 @@ $.when($.ajax(indexAssets())).then(function() {
     addImages();
 });
 
-// Run indexAssets() when clicking on a character's name
-$("b").click(function() {
-    var assets = [];
-    var needed = [];
-    console.info("object clicked", this);
-    indexAssets();
-    addImages();
-});
-
 // The "callback" argument is called with either true or false
 // depending on whether the image at "url" exists or not.
 function imageExists(url, callback) {
@@ -99,3 +90,12 @@ function copyRef(line) {
 
     console.info("Reference copied to clipboard", reference);
 }
+
+// Run indexAssets() when clicking on a character's name
+$("b").click(function() {
+    var assets = [];
+    var needed = [];
+    console.info("object clicked", this);
+    indexAssets();
+    addImages();
+});
