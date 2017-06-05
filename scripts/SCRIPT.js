@@ -12,12 +12,9 @@ var path_to_images = "assets/";
 
 // console.log("assets:", assets);
 
-console.log('Name of page', location.pathname.substring(1));
-if (location.pathname.substring(1) != 'othello/content/entire_play.html') {
-    $.when($.ajax(indexAssets())).then(function() {
-        addImages();
-    });
-}
+$.when($.ajax(indexAssets())).then(function() {
+    addImages();
+});
 
 // The "callback" argument is called with either true or false
 // depending on whether the image at "url" exists or not.
