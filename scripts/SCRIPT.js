@@ -13,7 +13,7 @@ var path_to_images = "assets/";
 // console.log("assets:", assets);
 
 console.log('Name of page', location.pathname.substring(1));
-if (location.pathname.substring(1) != 'entire_play.html') {
+if (location.pathname.substring(1) != 'othello/content/entire_play.html') {
     $.when($.ajax(indexAssets())).then(function() {
         addImages();
     });
