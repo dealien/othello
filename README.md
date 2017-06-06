@@ -4,18 +4,17 @@
 
 I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND/OR FILES PRESENTED HERE.
 
-I downloaded and re-hosted the original Othello text from MIT's online Shakespeare archive so that I could personalize the formatting and presentation of the text. 
+I downloaded and re-hosted the original Othello script from MIT's online Shakespeare archive so that I could personalize the formatting and presentation of the text. 
 
 Original Host:
 
 [http://shakespeare.mit.edu/othello/full.html](http://shakespeare.mit.edu/othello/full.html)
 
-**IF THE CHARACTER IMAGES DO NOT LOAD, RELOAD THE PAGE**
-
 ## Notes
 
+* If the character images don't load, either reload the page or clik on one of the character's names to run the script again. 
 * Hover over a line in the script to show the "act.scene.line" reference as a tooltip. 
-* Click on a line to copy the "act.scene.line" reference to the clipboard
+* Click on a line to copy the "act.scene.line" reference to the clipboard. 
 
 ## Sample From Script
 
