@@ -2,7 +2,7 @@
 
 # Othello
 
-I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND FILES PRESENTED HERE.
+I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND/OR FILES PRESENTED HERE.
 
 I downloaded and re-hosted the original Othello text from MIT's online Shakespeare archive so that I could personalize the formatting and presentation of the text. 
 
