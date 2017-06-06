@@ -2,10 +2,6 @@
 
 # Othello
 
-I TAKE NO CREDIT FOR THE CREATION OF ANY CONTENT WITHIN THE TEXT AND/OR FILES PRESENTED HERE.
-
-I downloaded and re-hosted the original Othello script from MIT's online Shakespeare archive so that I could personalize the formatting and presentation of the text. 
-
 Original Host:
 
 [http://shakespeare.mit.edu/othello/full.html](http://shakespeare.mit.edu/othello/full.html)
