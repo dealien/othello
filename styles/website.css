@@ -33,6 +33,12 @@ b {
     left: 80px;
 }
 
+p,
+b {
+    position: absolute;
+    left: 80px;
+}
+
 p:hover {
     color: red;
 }
