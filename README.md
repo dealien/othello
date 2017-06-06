@@ -4,7 +4,7 @@
 
 This script is hosted in the public domain. 
 
-[Original Host](http://shakespeare.mit.edu/othello/full.html)
+[Original](http://shakespeare.mit.edu/othello/full.html)
 
 ## Notes
 
