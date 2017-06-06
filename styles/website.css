@@ -27,14 +27,14 @@ body {
     height: 55px;
 }
 
-p,
-b {
+p b {
     position: absolute;
     left: 80px;
 }
 
 p:empty {
-    position: left: 80px;
+    position: absolute;
+    left: 80px;
 }
 
 p:hover {
