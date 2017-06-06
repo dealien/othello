@@ -8,7 +8,7 @@ This script is hosted in the public domain.
 
 ## Notes
 
-* If the character images don't load, either reload the page or clik on one of the character's names to run the script again. 
+* If the character images don't load, either reload the page or click on one of the character's names to run the script again. 
 * Hover over a line in the script to show the "act.scene.line" reference as a tooltip. 
  * Click on a line to copy the reference to the clipboard. 
 
