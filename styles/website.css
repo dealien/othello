@@ -33,9 +33,8 @@ b {
     left: 80px;
 }
 
-p {
-    position: absolute;
-    left: 80px;
+p:empty {
+    position: left: 80px;
 }
 
 p:hover {
