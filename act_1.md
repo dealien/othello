@@ -8,22 +8,22 @@
 <br>
 
 <p><b>RODERIGO</b></p>
-<br>
+<div>
 <p name="1.1.1">Tush! never tell me; I take it much unkindly</p>
 <p name="1.1.2">That thou, Iago, who hast had my purse</p>
 <p name="1.1.3">As if the strings were thine, shouldst know of this.</p>
-<br>
+</div>
 
 <p><b>IAGO</b></p>
-<br>
+<div>
 <p name="1.1.4">'Sblood, but you will not hear me:</p>
 <p name="1.1.5">If ever I did dream of such a matter, Abhor me.</p>
-<br>
+</div>
 
 <p><b>RODERIGO</b></p>
-<br>
+<div>
 <p name="1.1.6">Thou told'st me thou didst hold him in thy hate.</p>
-<br>
+</div>
 
 <p><b>IAGO</b></p>
 <br>
