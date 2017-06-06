@@ -33,8 +33,7 @@ b {
     left: 80px;
 }
 
-p,
-b {
+p {
     position: absolute;
     left: 80px;
 }
