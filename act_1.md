@@ -7,25 +7,25 @@
 <i>Enter RODERIGO and IAGO</i>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.1">Tush! never tell me; I take it much unkindly</p>
 <p name="1.1.2">That thou, Iago, who hast had my purse</p>
 <p name="1.1.3">As if the strings were thine, shouldst know of this.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.4">'Sblood, but you will not hear me:</p>
 <p name="1.1.5">If ever I did dream of such a matter, Abhor me.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.6">Thou told'st me thou didst hold him in thy hate.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.7">Despise me, if I do not. Three great ones of the city,</p>
 <p name="1.1.8">In personal suit to make me his lieutenant,</p>
@@ -55,12 +55,12 @@
 <p name="1.1.32">And I--God bless the mark!--his Moorship's ancient.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.33">By heaven, I rather would have been his hangman.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.34">Why, there's no remedy; 'tis the curse of service,</p>
 <p name="1.1.35">Preferment goes by letter and affection,</p>
@@ -70,12 +70,12 @@
 <p name="1.1.39">To love the Moor.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.40">I would not follow him then.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.41">O, sir, content you;</p>
 <p name="1.1.42">I follow him to serve my turn upon him:</p>
@@ -105,13 +105,13 @@
 <p name="1.1.66">For daws to peck at: I am not what I am.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.67">What a full fortune does the thicklips owe</p>
 <p name="1.1.68">If he can carry't thus!</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.69">Call up her father,</p>
 <p name="1.1.70">Rouse him: make after him, poison his delight,</p>
@@ -122,24 +122,24 @@
 <p name="1.1.75">As it may lose some colour.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.76">Here is her father's house; I'll call aloud.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.77">Do, with like timorous accent and dire yell</p>
 <p name="1.1.78">As when, by night and negligence, the fire</p>
 <p name="1.1.79">Is spied in populous cities.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.80">What, ho, Brabantio! Signior Brabantio, ho!</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.81">Awake! what, ho, Brabantio! thieves! thieves! thieves!</p>
 <p name="1.1.82">Look to your house, your daughter and your bags!</p>
@@ -147,28 +147,28 @@
 <p><i>BRABANTIO appears above, at a window</i></p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.84">What is the reason of this terrible summons?</p>
 <p name="1.1.85">What is the matter there?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.86">Signior, is all your family within?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.87">Are your doors lock'd?</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.88">Why, wherefore ask you this?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.89">'Zounds, sir, you're robb'd; for shame, put on</p>
 <p name="1.1.90">your gown;</p>
@@ -180,27 +180,27 @@
 <p name="1.1.96">Arise, I say.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.97">                  What, have you lost your wits?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.98">Most reverend signior, do you know my voice?</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.99">Not I	what are you?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.100">My name is Roderigo.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.101">The worser welcome:</p>
 <p name="1.1.102">I have charged thee not to haunt about my doors:</p>
@@ -211,36 +211,36 @@
 <p name="1.1.107">To start my quiet.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.108">Sir, sir, sir,--</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.109">                  But thou must needs be sure</p>
 <p name="1.1.110">My spirit and my place have in them power</p>
 <p name="1.1.111">To make this bitter to thee.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.112">Patience, good sir.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.113">What tell'st thou me of robbing? this is Venice;</p>
 <p name="1.1.114">My house is not a grange.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.115">Most grave Brabantio,</p>
 <p name="1.1.116">In simple and pure soul I come to you.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.117">'Zounds, sir, you are one of those that will not</p>
 <p name="1.1.118">serve God, if the devil bid you. Because we come to</p>
@@ -250,33 +250,33 @@
 <p name="1.1.122">coursers for cousins and gennets for germans.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.123">What profane wretch art thou?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.124">I am one, sir, that comes to tell you your daughter</p>
 <p name="1.1.125">and the Moor are now making the beast with two backs.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.126">Thou art a villain.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.127">You are--a senator.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.128">This thou shalt answer; I know thee, Roderigo.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.129">Sir, I will answer any thing. But, I beseech you,</p>
 <p name="1.1.130">If't be your pleasure and most wise consent,</p>
@@ -301,7 +301,7 @@
 <p name="1.1.149">For thus deluding you.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.150">Strike on the tinder, ho!</p>
 <p name="1.1.151">Give me a taper! call up all my people!</p>
@@ -311,7 +311,7 @@
 <p><i>Exit above</i></p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.1.155">Farewell; for I must leave you:</p>
 <p name="1.1.156">It seems not meet, nor wholesome to my place,</p>
@@ -333,7 +333,7 @@
 <p><i>Enter, below, BRABANTIO, and Servants with torches</i></p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.171">It is too true an evil: gone she is;</p>
 <p name="1.1.172">And what's to come of my despised time</p>
@@ -345,12 +345,12 @@
 <p name="1.1.178">Raise all my kindred. Are they married, think you?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.179">Truly, I think they are.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.180">O heaven! How got she out? O treason of the blood!</p>
 <p name="1.1.181">Fathers, from hence trust not your daughters' minds</p>
@@ -360,25 +360,25 @@
 <p name="1.1.185">Of some such thing?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.186">Yes, sir, I have indeed.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.187">Call up my brother. O, would you had had her!</p>
 <p name="1.1.188">Some one way, some another. Do you know</p>
 <p name="1.1.189">Where we may apprehend her and the Moor?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.1.190">I think I can discover him, if you please,</p>
 <p name="1.1.191">To get good guard and go along with me.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.1.192">Pray you, lead on. At every house I'll call;</p>
 <p name="1.1.193">I may command at most. Get weapons, ho!</p>
@@ -391,7 +391,7 @@
 <i>Enter OTHELLO, IAGO, and Attendants with torches</i>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.1">Though in the trade of war I have slain men,</p>
 <p name="1.2.2">Yet do I hold it very stuff o' the conscience</p>
@@ -400,12 +400,12 @@
 <p name="1.2.5">I had thought to have yerk'd him here under the ribs.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.6">'Tis better as it is.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.7">Nay, but he prated,</p>
 <p name="1.2.8">And spoke such scurvy and provoking terms</p>
@@ -421,7 +421,7 @@
 <p name="1.2.18">Will give him cable.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.19">Let him do his spite:</p>
 <p name="1.2.20">My services which I have done the signiory</p>
@@ -437,45 +437,45 @@
 <p name="1.2.30">For the sea's worth. But, look! what lights come yond?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.31">Those are the raised father and his friends:</p>
 <p name="1.2.32">You were best go in.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.33">Not I	I must be found:</p>
 <p name="1.2.34">My parts, my title and my perfect soul</p>
 <p name="1.2.35">Shall manifest me rightly. Is it they?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.36">By Janus, I think no.</p>
 <p><i>Enter CASSIO, and certain Officers with torches</i></p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.37">The servants of the duke, and my lieutenant.</p>
 <p name="1.2.38">The goodness of the night upon you, friends!</p>
 <p name="1.2.39">What is the news?</p>
 <br>
 
-<b>CASSIO</b>
+<p><b>CASSIO</b></p>
 <br>
 <p name="1.2.40">                  The duke does greet you, general,</p>
 <p name="1.2.41">And he requires your haste-post-haste appearance,</p>
 <p name="1.2.42">Even on the instant.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.43">What is the matter, think you?</p>
 <br>
 
-<b>CASSIO</b>
+<p><b>CASSIO</b></p>
 <br>
 <p name="1.2.44">Something from Cyprus as I may divine:</p>
 <p name="1.2.45">It is a business of some heat: the galleys</p>
@@ -489,7 +489,7 @@
 <p name="1.2.53">To search you out.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.54">'Tis well I am found by you.</p>
 <p name="1.2.55">I will but spend a word here in the house,</p>
@@ -497,84 +497,84 @@
 <p><i>Exit</i></p>
 <br>
 
-<b>CASSIO</b>
+<p><b>CASSIO</b></p>
 <br>
 <p name="1.2.57">                  Ancient, what makes he here?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.58">'Faith, he to-night hath boarded a land carack:</p>
 <p name="1.2.59">If it prove lawful prize, he's made for ever.</p>
 <br>
 
-<b>CASSIO</b>
+<p><b>CASSIO</b></p>
 <br>
 <p name="1.2.60">I do not understand.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.61">He's married.</p>
 <br>
 
-<b>CASSIO</b>
+<p><b>CASSIO</b></p>
 <br>
 <p name="1.2.62">To who?</p>
 <p><i>Re-enter OTHELLO</i></p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.63">Marry, to--Come, captain, will you go?</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.64">Have with you.</p>
 <br>
 
-<b>CASSIO</b>
+<p><b>CASSIO</b></p>
 <br>
 <p name="1.2.65">Here comes another troop to seek for you.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.66">It is Brabantio. General, be advised;</p>
 <p name="1.2.67">He comes to bad intent.</p>
 <p><i>Enter BRABANTIO, RODERIGO, and Officers with torches and weapons</i></p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.68">Holla! stand there!</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.2.69">Signior, it is the Moor.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.2.70">Down with him, thief!</p>
 <p><i>They draw on both sides</i></p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.2.71">You, Roderigo! come, sir, I am for you.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.72">Keep up your bright swords, for the dew will rust them.</p>
 <p name="1.2.73">Good signior, you shall more command with years</p>
 <p name="1.2.74">Than with your weapons.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.2.75">O thou foul thief, where hast thou stow'd my daughter?</p>
 <p name="1.2.76">Damn'd as thou art, thou hast enchanted her;</p>
@@ -598,7 +598,7 @@
 <p name="1.2.94">Subdue him at his peril.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.95">Hold your hands,</p>
 <p name="1.2.96">Both you of my inclining, and the rest:</p>
@@ -607,14 +607,14 @@
 <p name="1.2.99">To answer this your charge?</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.2.100">To prison, till fit time</p>
 <p name="1.2.101">Of law and course of direct session</p>
 <p name="1.2.102">Call thee to answer.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.2.103">What if I do obey?</p>
 <p name="1.2.104">How may the duke be therewith satisfied,</p>
@@ -623,14 +623,14 @@
 <p name="1.2.107">To bring me to him?</p>
 <br>
 
-<b>First Officer</b>
+<p><b>First Officer</b></p>
 <br>
 <p name="1.2.108">'Tis true, most worthy signior;</p>
 <p name="1.2.109">The duke's in council and your noble self,</p>
 <p name="1.2.110">I am sure, is sent for.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.2.111">How! the duke in council!</p>
 <p name="1.2.112">In this time of the night! Bring him away:</p>
@@ -646,24 +646,24 @@
 <i>The DUKE and Senators sitting at a table; Officers attending</i>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.1">There is no composition in these news</p>
 <p name="1.3.2">That gives them credit.</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.3">Indeed, they are disproportion'd;</p>
 <p name="1.3.4">My letters say a hundred and seven galleys.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.5">And mine, a hundred and forty.</p>
 <br>
 
-<b>Second Senator</b>
+<p><b>Second Senator</b></p>
 <br>
 <p name="1.3.6">And mine, two hundred:</p>
 <p name="1.3.7">But though they jump not on a just account,--</p>
@@ -672,7 +672,7 @@
 <p name="1.3.10">A Turkish fleet, and bearing up to Cyprus.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.11">Nay, it is possible enough to judgment:</p>
 <p name="1.3.12">I do not so secure me in the error,</p>
@@ -680,35 +680,35 @@
 <p name="1.3.14">In fearful sense.</p>
 <br>
 
-<b>Sailor</b>
+<p><b>Sailor</b></p>
 <br>
 <p name="1.3.15">[Within]  What, ho! what, ho! what, ho!</p>
 <br>
 
-<b>First Officer</b>
+<p><b>First Officer</b></p>
 <br>
 <p name="1.3.16">A messenger from the galleys.</p>
 <p><i>Enter a Sailor</i></p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.17">Now, what's the business?</p>
 <br>
 
-<b>Sailor</b>
+<p><b>Sailor</b></p>
 <br>
 <p name="1.3.18">The Turkish preparation makes for Rhodes;</p>
 <p name="1.3.19">So was I bid report here to the state</p>
 <p name="1.3.20">By Signior Angelo.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.21">How say you by this change?</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.22">This cannot be,</p>
 <p name="1.3.23">By no assay of reason: 'tis a pageant,</p>
@@ -726,30 +726,30 @@
 <p name="1.3.35">To wake and wage a danger profitless.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.36">Nay, in all confidence, he's not for Rhodes.</p>
 <br>
 
-<b>First Officer</b>
+<p><b>First Officer</b></p>
 <br>
 <p name="1.3.37">Here is more news.</p>
 <p><i>Enter a Messenger</i></p>
 <br>
 
-<b>Messenger</b>
+<p><b>Messenger</b></p>
 <br>
 <p name="1.3.38">The Ottomites, reverend and gracious,</p>
 <p name="1.3.39">Steering with due course towards the isle of Rhodes,</p>
 <p name="1.3.40">Have there injointed them with an after fleet.</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.41">Ay, so I thought. How many, as you guess?</p>
 <br>
 
-<b>Messenger</b>
+<p><b>Messenger</b></p>
 <br>
 <p name="1.3.42">Of thirty sail: and now they do restem</p>
 <p name="1.3.43">Their backward course, bearing with frank appearance</p>
@@ -759,29 +759,29 @@
 <p name="1.3.47">And prays you to believe him.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.48">'Tis certain, then, for Cyprus.</p>
 <p name="1.3.49">Marcus Luccicos, is not he in town?</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.50">He's now in Florence.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.51">Write from us to him; post-post-haste dispatch.</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.52">Here comes Brabantio and the valiant Moor.</p>
 <p><i>Enter BRABANTIO, OTHELLO, IAGO, RODERIGO, and Officers</i></p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.53">Valiant Othello, we must straight employ you</p>
 <p name="1.3.54">Against the general enemy Ottoman.</p>
@@ -790,7 +790,7 @@
 <p name="1.3.56">We lack'd your counsel and your help tonight.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.57">So did I yours. Good your grace, pardon me;</p>
 <p name="1.3.58">Neither my place nor aught I heard of business</p>
@@ -801,24 +801,24 @@
 <p name="1.3.63">And it is still itself.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.64">Why, what's the matter?</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.65">My daughter! O, my daughter!</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 
-<b>Senator</b>
+<p><b>Senator</b></p>
 <br>
 <p name="1.3.66">Dead?</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.67">Ay, to me;</p>
 <p name="1.3.68">She is abused, stol'n from me, and corrupted</p>
@@ -828,7 +828,7 @@
 <p name="1.3.72">Sans witchcraft could not.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.73">Whoe'er he be that in this foul proceeding</p>
 <p name="1.3.74">Hath thus beguiled your daughter of herself</p>
@@ -838,7 +838,7 @@
 <p name="1.3.78">Stood in your action.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.79">Humbly I thank your grace.</p>
 <p name="1.3.80">Here is the man, this Moor, whom now, it seems,</p>
@@ -846,24 +846,24 @@
 <p name="1.3.82">Hath hither brought.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 
-<b>Senator</b>
+<p><b>Senator</b></p>
 <br>
 <p name="1.3.83">We are very sorry for't.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.84">[To OTHELLO]  What, in your own part, can you say to this?</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.85">Nothing, but this is so.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.86">Most potent, grave, and reverend signiors,</p>
 <p name="1.3.87">My very noble and approved good masters,</p>
@@ -886,7 +886,7 @@
 <p name="1.3.104">I won his daughter.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.105">A maiden never bold;</p>
 <p name="1.3.106">Of spirit so still and quiet, that her motion</p>
@@ -903,7 +903,7 @@
 <p name="1.3.117">He wrought upon her.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.118">To vouch this, is no proof,</p>
 <p name="1.3.119">Without more wider and more overt test</p>
@@ -911,7 +911,7 @@
 <p name="1.3.121">Of modern seeming do prefer against him.</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.122">But, Othello, speak:</p>
 <p name="1.3.123">Did you by indirect and forced courses</p>
@@ -920,7 +920,7 @@
 <p name="1.3.126">As soul to soul affordeth?</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.127">I do beseech you,</p>
 <p name="1.3.128">Send for the lady to the Sagittary,</p>
@@ -931,12 +931,12 @@
 <p name="1.3.133">Even fall upon my life.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.134">Fetch Desdemona hither.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.135">Ancient, conduct them: you best know the place.</p>
 <p><i>Exeunt IAGO and Attendants</i></p>
@@ -947,12 +947,12 @@
 <p name="1.3.140">And she in mine.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.141">Say it, Othello.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.142">Her father loved me; oft invited me;</p>
 <p name="1.3.143">Still question'd me the story of my life,</p>
@@ -1000,7 +1000,7 @@
 <p><i>Enter DESDEMONA, IAGO, and Attendants</i></p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.185">I think this tale would win my daughter too.</p>
 <p name="1.3.186">Good Brabantio,</p>
@@ -1009,7 +1009,7 @@
 <p name="1.3.189">Than their bare hands.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.190">I pray you, hear her speak:</p>
 <p name="1.3.191">If she confess that she was half the wooer,</p>
@@ -1019,7 +1019,7 @@
 <p name="1.3.195">Where most you owe obedience?</p>
 <br>
 
-<b>DESDEMONA</b>
+<p><b>DESDEMONA</b></p>
 <br>
 <p name="1.3.196">My noble father,</p>
 <p name="1.3.197">I do perceive here a divided duty:</p>
@@ -1033,7 +1033,7 @@
 <p name="1.3.205">Due to the Moor my lord.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.206">God be wi' you! I have done.</p>
 <p name="1.3.207">Please it your grace, on to the state-affairs:</p>
@@ -1047,7 +1047,7 @@
 <p name="1.3.215">To hang clogs on them. I have done, my lord.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.216">Let me speak like yourself, and lay a sentence,</p>
 <p name="1.3.217">Which, as a grise or step, may help these lovers</p>
@@ -1062,7 +1062,7 @@
 <p name="1.3.226">He robs himself that spends a bootless grief.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.227">So let the Turk of Cyprus us beguile;</p>
 <p name="1.3.228">We lose it not, so long as we can smile.</p>
@@ -1077,7 +1077,7 @@
 <p name="1.3.237">I humbly beseech you, proceed to the affairs of state.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.238">The Turk with a most mighty preparation makes for</p>
 <p name="1.3.239">Cyprus. Othello, the fortitude of the place is best</p>
@@ -1089,7 +1089,7 @@
 <p name="1.3.245">more stubborn and boisterous expedition.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.246">The tyrant custom, most grave senators,</p>
 <p name="1.3.247">Hath made the flinty and steel couch of war</p>
@@ -1104,23 +1104,23 @@
 <p name="1.3.256">As levels with her breeding.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.257">If you please,</p>
 <p name="1.3.258">Be't at her father's.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.259">I'll not have it so.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.260">Nor I.</p>
 <br>
 
-<b>DESDEMONA</b>
+<p><b>DESDEMONA</b></p>
 <br>
 <p name="1.3.261">     Nor I; I would not there reside,</p>
 <p name="1.3.262">To put my father in impatient thoughts</p>
@@ -1130,12 +1130,12 @@
 <p name="1.3.266">To assist my simpleness.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.267">What would You, Desdemona?</p>
 <br>
 
-<b>DESDEMONA</b>
+<p><b>DESDEMONA</b></p>
 <br>
 <p name="1.3.268">That I did love the Moor to live with him,</p>
 <p name="1.3.269">My downright violence and storm of fortunes</p>
@@ -1151,7 +1151,7 @@
 <p name="1.3.279">By his dear absence. Let me go with him.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.280">Let her have your voices.</p>
 <p name="1.3.281">Vouch with me, heaven, I therefore beg it not,</p>
@@ -1170,24 +1170,24 @@
 <p name="1.3.294">Make head against my estimation!</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.295">Be it as you shall privately determine,</p>
 <p name="1.3.296">Either for her stay or going: the affair cries haste,</p>
 <p name="1.3.297">And speed must answer it.</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.298">You must away to-night.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.299">With all my heart.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.300">At nine i' the morning here we'll meet again.</p>
 <p name="1.3.301">Othello, leave some officer behind,</p>
@@ -1196,7 +1196,7 @@
 <p name="1.3.304">As doth import you.</p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.305">So please your grace, my ancient;</p>
 <p name="1.3.306">A man he is of honest and trust:</p>
@@ -1205,7 +1205,7 @@
 <p name="1.3.309">To be sent after me.</p>
 <br>
 
-<b>DUKE OF VENICE</b>
+<p><b>DUKE OF VENICE</b></p>
 <br>
 <p name="1.3.310">Let it be so.</p>
 <p name="1.3.311">Good night to every one.</p>
@@ -1215,19 +1215,19 @@
 <p name="1.3.314">Your son-in-law is far more fair than black.</p>
 <br>
 
-<b>First Senator</b>
+<p><b>First Senator</b></p>
 <br>
 <p name="1.3.315">Adieu, brave Moor, use Desdemona well.</p>
 <br>
 
-<b>BRABANTIO</b>
+<p><b>BRABANTIO</b></p>
 <br>
 <p name="1.3.316">Look to her, Moor, if thou hast eyes to see:</p>
 <p name="1.3.317">She has deceived her father, and may thee.</p>
 <p><i>Exeunt DUKE OF VENICE, Senators, Officers,  &amp; c</i></p>
 <br>
 
-<b>OTHELLO</b>
+<p><b>OTHELLO</b></p>
 <br>
 <p name="1.3.318">My life upon her faith! Honest Iago,</p>
 <p name="1.3.319">My Desdemona must I leave to thee:</p>
@@ -1239,44 +1239,44 @@
 <p><i>Exeunt OTHELLO and DESDEMONA</i></p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.325">Iago,--</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.326">What say'st thou, noble heart?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.327">What will I do, thinkest thou?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.328">Why, go to bed, and sleep.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.329">I will incontinently drown myself.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.330">If thou dost, I shall never love thee after. Why,</p>
 <p name="1.3.331">thou silly gentleman!</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.332">It is silliness to live when to live is torment; and</p>
 <p name="1.3.333">then have we a prescription to die when death is our physician.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.334">O villainous! I have looked upon the world for four</p>
 <p name="1.3.335">times seven years; and since I could distinguish</p>
@@ -1286,13 +1286,13 @@
 <p name="1.3.339">would change my humanity with a baboon.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.340">What should I do? I confess it is my shame to be so</p>
 <p name="1.3.341">fond; but it is not in my virtue to amend it.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.342">Virtue! a fig! 'tis in ourselves that we are thus</p>
 <p name="1.3.343">or thus. Our bodies are our gardens, to the which</p>
@@ -1311,12 +1311,12 @@
 <p name="1.3.356">you call love to be a sect or scion.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.357">It cannot be.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.358">It is merely a lust of the blood and a permission of</p>
 <p name="1.3.359">the will. Come, be a man. Drown thyself! drown</p>
@@ -1348,13 +1348,13 @@
 <p name="1.3.385">to be drowned and go without her.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.386">Wilt thou be fast to my hopes, if I depend on</p>
 <p name="1.3.387">the issue?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.388">Thou art sure of me:--go, make money:--I have told</p>
 <p name="1.3.389">thee often, and I re-tell thee again and again, I</p>
@@ -1367,43 +1367,43 @@
 <p name="1.3.396">of this to-morrow. Adieu.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.397">Where shall we meet i' the morning?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.398">At my lodging.</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.399">I'll be with thee betimes.</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.400">Go to; farewell. Do you hear, Roderigo?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.401">What say you?</p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.402">No more of drowning, do you hear?</p>
 <br>
 
-<b>RODERIGO</b>
+<p><b>RODERIGO</b></p>
 <br>
 <p name="1.3.403">I am changed: I'll go sell all my land.</p>
 <p><i>Exit</i></p>
 <br>
 
-<b>IAGO</b>
+<p><b>IAGO</b></p>
 <br>
 <p name="1.3.404">Thus do I ever make my fool my purse:</p>
 <p name="1.3.405">For I mine own gain'd knowledge should profane,</p>
