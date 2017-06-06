@@ -27,17 +27,17 @@ body {
     height: 55px;
 }
 
-span,
+p,
 b {
     position: absolute;
     left: 80px;
 }
 
-span:hover {
+p:hover {
     color: red;
 }
 
-span[name]:hover:after {
+p[name]:hover:after {
     content: attr(name);
     font-size: small;
     padding: 2px 2px;

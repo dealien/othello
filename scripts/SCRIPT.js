@@ -76,7 +76,7 @@ function addImages() {
     });
 }
 
-$("span").click(function() {
+$("p").click(function() {
     copyRef(this);
 });
 
