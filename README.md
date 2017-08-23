@@ -2,6 +2,8 @@
 
 # Othello
 
+View the script [here](https://dealien.gitbooks.io/othello/content/)
+
 This script is hosted in the public domain. 
 
 [Original](http://shakespeare.mit.edu/othello/full.html)
