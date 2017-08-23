@@ -2,7 +2,7 @@
 
 # Othello
 
-View the script [here](https://dealien.gitbooks.io/othello/content/)
+[View the script here](https://dealien.gitbooks.io/othello/content/)
 
 This script is hosted in the public domain. 
 
